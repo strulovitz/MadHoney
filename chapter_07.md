@@ -2,9 +2,9 @@
 
 ---
 
-## Ukraine Already Proved It
+## Ukraine Proved That Dumb Drones Are Already Deadly
 
-Before we talk about what our system does, let us talk about what has already happened without it.
+Before we talk about what our system does, let us talk about what has already happened WITHOUT it — with drones that have no AI, no coordination, no intelligence of their own.
 
 On June 2025, Ukraine executed Operation Spiderweb. Over an 18-month clandestine preparation, the SBU and military intelligence smuggled 117 FPV drones inside civilian trucks. They hired unsuspecting Russian civilian drivers to transport these disguised containers to locations near Russian airbases. The drones were hidden beneath remotely operated roofs on the trucks, controlled by pilots thousands of kilometers away. On the day of the operation, all 117 drones launched simultaneously, striking five major Russian airbases across multiple time zones — from near St. Petersburg to Siberia.
 
@@ -22,7 +22,9 @@ This is what cheap, distributed, autonomous systems do to expensive, centralized
 
 ---
 
-## But Today's Drones Are Still Dumb
+## Now Meet the Smart Version
+
+That was the appetizer. Ukraine showed what dumb drones can do — remote-controlled, human-piloted, no AI. The damage was already devastating. Now allow us to introduce what happens when these same drones become intelligent, autonomous, and hierarchically coordinated.
 
 Here is the problem that Ukraine — and everyone else — has not yet solved.
 
@@ -61,6 +63,9 @@ That result is another 100 bytes. One second to transmit. Easy to encrypt. Easy 
 ---
 
 ## Queens and RajaBees Hidden in Plain Sight
+
+> *"Where does a wise man hide a leaf? In the forest. But what does he do if there is no forest? He grows a forest to hide it in."*
+> — G.K. Chesterton, *The Innocence of Father Brown* (1911)
 
 In our system, a drone swarm has three types of members: Worker drones, Queen drones, and RajaBee drones. From the outside, they ALL look identical.
 
