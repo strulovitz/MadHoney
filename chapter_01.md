@@ -18,7 +18,9 @@ And our system will kill it, by making 90% of it free.
 
 ## What 90% Means — The Price Comparison
 
-Before we talk about what our system can do, let us talk about what the Chinese alternatives already do, today, without our system.
+These numbers are not some abstract comparison. These are the prices of the models that our system runs.
+
+Our system — the hierarchical hive — has a RajaBee at the top who coordinates multiple Queen Bees, each commanding her own Workers. The RajaBee, the Queens, and the Workers all run AI models. Those models can be any of the ones listed below. If you choose to run our system entirely on your own hardware, the cost is zero — just electricity. But even if you choose to run it through a cloud API — for example, running the RajaBee on a VPS with a DeepSeek or Qwen API — these prices below are the CEILING. They are what an entire company charges to run the model for you, including their profit margin, their server costs, their salaries. In practice, self-hosting is even cheaper. And on your own hardware, it is free.
 
 | Model | Input Cost (per 1M tokens) | Output Cost (per 1M tokens) | vs American Equivalent |
 |-------|---------------------------|----------------------------|----------------------|
