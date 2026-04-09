@@ -231,9 +231,9 @@ But the real significance of this move is what it reveals about the business mod
 
 When the most successful AI company in the world — with $25 billion in annualized revenue — resorts to selling advertising space, it tells you that subscriptions alone cannot sustain the cost of centralized cloud AI. The compute is too expensive. The infrastructure is too massive. The growth requires ever more hardware, ever more electricity, ever more cooling, ever more data centers.
 
-Now consider what happens as our system and Chinese alternatives gain adoption:
+Now consider what happens next. DeepSeek, Qwen, and Kimi are not future possibilities — they are already here, already popular, already used by millions. All of them are free to self-host. All of them are extremely cheap as a service through their company's API.
 
-The 90% of users who use ChatGPT for tasks that can be done locally — summarization, translation, content creation, document processing — begin to leave. They switch to DeepSeek (96% cheaper), or Qwen (free to self-host), or our system (free forever with hierarchical scaling).
+What has NOT happened yet is people combining these Chinese models with our hierarchical hive system. Using DeepSeek as the RajaBee that coordinates the swarm. Using Qwen as the Queen Bees that manage the Workers. Using Kimi for specialized tasks within the hive. When that happens — and it is a matter of when, not if — the 90% of users who currently pay for ChatGPT for tasks that can be done locally begin to leave.
 
 As users leave, subscription revenue drops. OpenAI compensates by increasing advertising. More ads in conversations annoy the remaining users. More users leave. Fewer users means fewer eyeballs for advertisers. Advertisers pay less per impression, or leave entirely — why pay $200,000 to advertise on a platform that is losing its audience?
 
