@@ -26,19 +26,20 @@ This book assumes you have read and understood **[The Distributed AI Revolution]
 
 | # | Chapter | Description |
 |---|---------|-------------|
-| | Prologue — The Letter | The full threatening letter sent to Big AI + why this book exists |
+| | [Prologue — The Letter](prologue.md) | Feynman "You Just Ask Them?", the full threatening letter, military-industrial complex framing |
 | 1 | Why OpenAI, Google DeepMind, Anthropic, xAI, and Meta Should Care | 90% of what customers pay for becomes free. China wins. |
 | 2 | Why the Pentagon, Department of Defense, and DARPA Should Care | Hierarchical hives = autonomous drone swarms + distributed cyber weapons |
-| 3 | Why the NSA, GCHQ, Five Eyes, and Every Intelligence Agency Should Care | Local AI = invisible to surveillance. China gains what America loses. |
-| 4 | Why Eli Lilly, Pfizer, Johnson & Johnson, AbbVie, and AstraZeneca Should Care | Pharma loses AI influence. Hospitals go local. China does it for 1.4 billion. |
-| 5 | Why JPMorgan Chase, Goldman Sachs, Morgan Stanley, and Bank of America Should Care | AI finance goes local, invisible, and free. Chinese banks adopt first. |
-| 6 | Why Lockheed Martin, RTX, Northrop Grumman, Boeing, and General Dynamics Should Care | The F-35 of AI becomes the AK-47. China mass-produces the alternative. |
-| 7 | Why Boston Dynamics, Tesla Optimus, Figure AI, and Agility Robotics Should Care | Robot swarms with distributed AI at a fraction of the cost. |
-| 8 | Why the European Commission and EU AI Act Regulators Should Care | Local AI is invisible to regulation. China deploys while Brussels debates. |
-| 9 | The Proof — We Ran It | Real tests, real timestamps, real results. |
-| 10 | How We Built It | The code, the architecture, 300 lines that enable unlimited hierarchy. |
-| 11 | The Free the AI Connection | This is the real-world beginning of everything predicted in that book. |
-| | Epilogue — Wallace's Giant Bee | Thought extinct. Rediscovered. The biggest bee, quietly waiting. |
+| 3 | Why the NSA, GCHQ, Five Eyes (CSE, ASD, GCSB), BND, DGSE, and CNI Should Care | Local AI = invisible to surveillance. China gains what America loses. |
+| 4 | Why Eli Lilly, Pfizer, Johnson & Johnson, AbbVie, AstraZeneca, Merck, and Novo Nordisk Should Care | Pharma loses AI influence. Hospitals go local. China does it for 1.4 billion. |
+| 5 | Why JPMorgan Chase, Goldman Sachs, Morgan Stanley, Bank of America, and Citigroup Should Care | AI finance goes local, invisible, and free. Chinese banks adopt first. |
+| 6 | Why Lockheed Martin, RTX (Raytheon), Northrop Grumman, Boeing, and General Dynamics Should Care | The F-35 of AI becomes the AK-47. China mass-produces the alternative. |
+| 7 | Why AeroVironment, General Atomics, Anduril, Skydio, Shield AI, and Kratos Should Care | Drone companies: hierarchical hives outperform centralized drone AI |
+| 8 | Why Boston Dynamics, Tesla Optimus, Figure AI, and Agility Robotics Should Care | Robot swarms with distributed AI at a fraction of the cost. |
+| 9 | Why the European Commission and EU AI Act Regulators Should Care | Local AI is invisible to regulation. China deploys while Brussels debates. |
+| 10 | The Proof — We Ran It | Real tests, real timestamps, real results. |
+| 11 | How We Built It | The code, the architecture, 300 lines that enable unlimited hierarchy. |
+| 12 | The Free the AI Connection | This is the real-world beginning of everything predicted in that book. |
+| | [Epilogue — What Do You Care What Other People Think?](epilogue.md) | Feynman + Arline, burn the desert, Maslow's pyramid, choose your fate |
 
 ---
 
