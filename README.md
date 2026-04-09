@@ -27,7 +27,7 @@ This book assumes you have read and understood **[The Distributed AI Revolution]
 | # | Chapter | Description |
 |---|---------|-------------|
 | | [Prologue — The Letter](prologue.md) | Feynman "You Just Ask Them?", the full threatening letter, military-industrial complex framing |
-| 1 | Why OpenAI, Google DeepMind, Anthropic, xAI, and Meta Should Care | 90% of what customers pay for becomes free. China wins. |
+| 1 | [Why OpenAI, Google DeepMind, Anthropic, xAI, and Meta Should Care](chapter_01.md) | 90% of what customers pay for becomes free. China wins. |
 | 2 | Why the Pentagon, Department of Defense, and DARPA Should Care | Hierarchical hives = autonomous drone swarms + distributed cyber weapons |
 | 3 | Why the NSA, GCHQ, Five Eyes (CSE, ASD, GCSB), BND, DGSE, and CNI Should Care | Local AI = invisible to surveillance. China gains what America loses. |
 | 4 | Why Eli Lilly, Pfizer, Johnson & Johnson, AbbVie, AstraZeneca, Merck, and Novo Nordisk Should Care | Pharma loses AI influence. Hospitals go local. China does it for 1.4 billion. |
