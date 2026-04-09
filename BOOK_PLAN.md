@@ -39,13 +39,14 @@
 
 ## Table of Contents (Working Draft v1)
 
-### Prologue — The Letter
+### Prologue — The Letter (WRITTEN — prologue.md)
 
-The FULL text of the Hail Mary threatening letter to OpenAI/Anthropic/Google/Nvidia/Meta/xAI. AS-IS. Then: "This book is the expansion of this letter. Every claim you just read — I'm about to prove it."
-
-Also: This book is a sequel to "The Distributed AI Revolution." If you haven't read it, stop and read it now. Everything here assumes you understood everything there.
-
-Also: The new military-industrial complex framing. Big Tech + Pentagon + Intelligence + Defense = ONE entity. This is about war and power. Always was.
+- Feynman "You Just Ask Them?" — the system does something that looks trivial. You just ask the AI to split it.
+- This is a sequel declaration
+- The new military-industrial complex framing
+- The FULL text of the Hail Mary threatening letter AS-IS
+- Godfather: "Keep your friends close, but your enemies closer"
+- Closes with: "This book is the expansion of this letter. Every claim — I'm about to prove it."
 
 ---
 
@@ -229,11 +230,20 @@ This chapter connects the two books. The theoretical framework from "Free the AI
 
 ---
 
-### Epilogue — Wallace's Giant Bee
+### Epilogue — What Do You Care What Other People Think? (WRITTEN — epilogue.md)
 
-Megachile pluto. The largest bee in the world. Discovered by Alfred Russel Wallace — who independently conceived evolution but was overshadowed by Darwin. The bee was thought extinct for over a century. Rediscovered in 2019 in Indonesia. Alive. Unchanged. Quietly existing while the world forgot about it.
-
-The parallel is exact. Local distributed AI has been possible for years. But the world was too busy worshipping the Darwins of AI — the giant corporations, the billion-dollar models — to notice that a simpler, more resilient approach was quietly waiting to be rediscovered.
+- Feynman's second autobiography, darker, death approaching
+- Arline Greenbaum — his soul mate who teased him with his own principle
+- "Tell your son to stop trying to fill your head with science — for to fill your heart with love is enough"
+- The Negev desert guide: "if it comes to my survival, I will burn the whole desert"
+- Nir's girlfriend = his Arline. 10 years of free activism. Paid his dues.
+- NOT a terror attack. Much worse: take down their whole way of living
+- Mueller Report / Cambridge Analytica — Russia took democracy (top of Maslow's pyramid)
+- Nir can take the BASE of the pyramid: physiological needs, safety needs, financial security
+- Time machine: I showed you the future, now choose — friends or enemies
+- Godfather: "Keep your friends close, but your enemies closer"
+- Closes with the ask from the letter: remote position, girlfriend, salary
+- Wallace's Giant Bee woven into the narrative (thought extinct, rediscovered)
 
 ---
 

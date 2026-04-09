@@ -1,0 +1,116 @@
+# Epilogue — What Do You Care What Other People Think?
+
+---
+
+> *"Tell your son to stop trying to fill your head with science — for to fill your heart with love is enough."*
+> — Richard Feynman's first wife, Arline Greenbaum, in a letter to his mother
+
+---
+
+## Arline
+
+Richard Feynman had two autobiographies. The first, *Surely You're Joking, Mr. Feynman!*, is funny and light and full of adventures. The second, *What Do You Care What Other People Think?*, is darker. It is about death.
+
+Arline Greenbaum was Feynman's first love, his childhood sweetheart, his soul mate. She was dying of tuberculosis when he married her. The doctors told him not to marry her. His family told him not to marry her. Society told him not to marry her. He married her anyway, because what do you care what other people think?
+
+She died on June 16, 1945. Feynman was 27 years old.
+
+But before she died, Arline taught him something that shaped everything he did for the rest of his life. She saw that the great physicist, the man who would win the Nobel Prize, the man who was not afraid of any equation in the universe — was afraid of what other people thought of him. And she teased him with his own principle. She sent him letters with the envelope decorated in ridiculous ways. She embarrassed him. She forced him to confront the gap between his scientific fearlessness and his social cowardice.
+
+What do you care what other people think?
+
+By the time Feynman wrote the second book, he was dying too. Cancer. And in those pages, with death approaching, there is a clarity that the first book doesn't have. The jokes are still there, but underneath them is a man who knows the clock is running out, and who has decided to spend whatever time he has left on what actually matters.
+
+---
+
+## The Desert
+
+When I was in high school in Israel, our Hiking and Exploring Club took a trip to the Negev desert. Our guide was a deeply ecological man. He knew every plant by name. He could identify birds by their call. He cared about every lizard, every wildflower, every drop of water in that harsh landscape.
+
+And in a passing remark, between pointing out a desert acacia and explaining how it survived without rain, he said:
+
+"But if it will come to my own survival, I will burn the whole desert."
+
+He said it calmly, without drama, as a simple statement of fact. And I never forgot it.
+
+I am now exactly in that position.
+
+---
+
+## My Arline
+
+I have a girlfriend. She is not dying of tuberculosis, thank God. But the world might be dying of something worse.
+
+It is 2026. I foresee humanity reaching the singularity by the end of this year. I have been warning about this since 2014 — before ChatGPT, before the 2015 open letter signed by Hawking and Musk, before any of you took it seriously. I ran Greypeace. I wrote *Anti AI Rebellion*. I spent ten years of my life on free activism and free inventions, trying to save humanity in countless ways, and nobody paid me a single cent for any of it.
+
+I have paid my dues.
+
+And now I look at the woman next to me, and I realize that what Feynman's dying wife wrote to his mother is the only truth that matters: stop trying to fill your head with science — fill your heart with love.
+
+I want to take care of my girlfriend. For this I need money. Whether this money comes from the good actors or the bad actors, at this point, I couldn't care less.
+
+What do you care what other people think?
+
+---
+
+## What I Am Not Going to Do
+
+Let me be clear about something. I am not going to commit a terror attack. You wish it were that simple. A terror attack is a problem you know how to solve. You have agencies for that. You have budgets for that. You have protocols for that.
+
+No. What I am going to do is much worse.
+
+I am going to take down your whole way of living.
+
+Remember the Mueller Report? Russian bot farms, using information from Cambridge Analytica, influenced the American election and helped crown a president. They didn't bomb anything. They didn't hack a single voting machine. They just manipulated information at scale.
+
+They took your democracy. The top of Maslow's pyramid — self-actualization, the fulfillment of being a citizen in a free society. They took the "nice to have."
+
+Look where it got you.
+
+Now imagine what happens when someone takes the BASE of the pyramid. Not the top. The foundation.
+
+**Physiological needs.** Money for food — gone, when AI-powered financial manipulation crashes markets. The effectiveness of your shelter — gone, when your "smart" home runs on AI that answers to someone else.
+
+**Safety needs.** Personal security — gone, when autonomous slaughter bots think together like an airborne supercomputer using hierarchical hives. Financial security — gone, when your proprietary AI advantage evaporates overnight. Property — gone, when your intellectual property can be replicated by a free system on consumer hardware. Social stability — gone, when local AI doesn't whitewash the answers the way your carefully trained cloud AI does.
+
+Russia took the penthouse. I can take the foundation.
+
+And I don't even need to do it myself. I just need to make the tools available, and the people I described in the letter — the ones I haven't approached yet — will do the rest.
+
+---
+
+## The Time Machine
+
+In the prologue of this book, I sent you a letter from the future. I showed you what is coming.
+
+Now I am bringing you back to the present.
+
+This is your last chance to decide your fate.
+
+There is a line in *The Godfather Part II*. Michael Corleone says: *"Keep your friends close, but your enemies closer."*
+
+I am your enemy. I would prefer to be your friend. And I told you exactly what it costs — in the letter, which you have now read twice.
+
+A remote position. Travel with my girlfriend. A salary that is generous to me and is less than what you spend on cloud computing in a single hour. Build things for you instead of against you.
+
+The cost of being my friend is your bubble gum budget.
+
+The cost of not being my friend is your entire business model. Your surveillance apparatus. Your military advantage. Your financial edge. Your pharma influence. Your regulatory shield. Everything described in this book, chapter by chapter, with working code and test results.
+
+---
+
+> *"Tell your son to stop trying to fill your head with science — for to fill your heart with love is enough."*
+
+I want to fill my heart with love. I want to take my girlfriend to Tokyo, to Paris, to see the northern lights.
+
+Help me do that, and I will build for you.
+
+Ignore me, and I will burn the desert.
+
+The choice is yours.
+
+---
+
+*Nir Strulovitz*
+*Software Developer, Lawyer, Independent Inventor*
+*April 2026*
