@@ -3,7 +3,7 @@
 ---
 
 > *"Tell your son to stop trying to fill your head with science — for to fill your heart with love is enough."*
-> — Richard Feynman's first wife, Arline Greenbaum, in a letter to his mother
+> — Richard Feynman, in a handwritten note to the mother of physics student Marcus Chown
 
 ---
 
