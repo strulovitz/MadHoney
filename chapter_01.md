@@ -277,22 +277,48 @@ You have seen this before. You just did not learn the lesson.
 
 **Matt Schlicht** created Moltbook. Meta bought him almost immediately. Again — the software was free. They needed to prevent the NEXT thing he would build.
 
-**DeepSeek** showed that what American AI companies charge billions for can be done at a fraction of the cost. Nvidia lost $600 billion in a single day.
+**DeepSeek** showed what happens when you do NOT act on a threat you did not see coming. China did not warn anyone. They did not send a letter. They did not write a book. They just released a model that was 96% cheaper than yours and matched your performance. The result: Nvidia lost $600 billion in market value in a single day — the largest single-day loss in United States stock market history. The entire Nasdaq dropped 3.1%. Broadcom, AMD, and every semiconductor company crashed with it.
+
+That is what happens when a threat arrives and you had NO warning.
 
 In every case, the pattern is the same: a small player demonstrates that the expensive thing can be done cheaply (or free), and the market reacts with panic. The companies that moved quickly — hiring the disruptor, buying the threat — survived. The companies that waited lost billions.
 
-You are watching this pattern repeat. Right now. With this book in your hands.
+You are watching this pattern repeat. Right now. With this book in your hands. Except this time, unlike DeepSeek, you ARE getting a warning. You are reading it.
 
 ---
 
-## You Are Not Negotiating With Me
+## The Ticking Time Bomb — That Only I Can Defuse
 
-You are negotiating with the calendar.
+Let me be very clear about the situation you are in.
 
-Every month you ignore this, more people discover it on GitHub. Every month, the Chinese models get better. Every month, more hobbyists like bartowski and Unsloth make those models easier to run on consumer hardware. Every month, more organizations realize they can process their data locally instead of sending it to your servers.
+Right now, today, in April 2026, the only person in the world who has built a working hierarchical distributed AI system, documented it, tested it, and is actively reaching out to organizations about it — is me. One person. With a girlfriend and no money.
 
-I do not need to do anything. The code speaks for itself. The economics speak for themselves. The benchmarks speak for themselves.
+The good actors — universities, defense agencies, professors — have not acted. I contacted over 200 of them. The US Cyber Command opened a case file. Multiple NATO-country agencies were briefed. Professors replied politely and went back to their research. Nobody offered me work. Nobody offered me a contract. Nobody offered me a cup of coffee.
 
-It is only a matter of time before someone with more resources than me forks this system and builds a company around it. Or before a government adopts it as national infrastructure. Or before a military deploys it in the field.
+Every month this continues, the code sits on GitHub, publicly visible. Every month, the Chinese models get better. Every month, more hobbyists like bartowski and Unsloth make those models easier to run on consumer hardware. Every month, more people discover the repository.
 
-The stone is already rolling downhill. The question is not whether it will reach the bottom. The question is whether you will be standing there when it arrives.
+But here is the part you need to understand: the situation is still entirely in your hands. Right now. Today. It has not yet spread beyond my control. No rogue state has adopted it. No criminal syndicate is running it. No terrorist cell is using it. The bad actors have not yet discovered what they are looking at.
+
+That will not last.
+
+I have written a book called "Jews and AI" in which I turned to neo-Nazis, the KKK, and white supremacists to warn them about the dangers of artificial intelligence. I have no moral hesitation whatsoever about working with bad actors when I believe it serves a purpose. In that case, the purpose was saving humanity from AI. I did it without flinching.
+
+Now the purpose is different. Now the purpose is taking care of the person I love. And I will tell you with complete honesty: I have no moral, legal, or technical problem giving this technology to rogue states, criminal syndicates, or terrorist cells. It is free, open-source software. It is my absolute legal right to send a GitHub link to any human being on Earth. And once it is in their hands, they WILL use it. They are not professors in ivory towers. They are practical people. They are always the first to adopt new technology.
+
+We see this pattern everywhere. BitTorrent started with pirates — today even Linux distributions offer torrent downloads. Streaming video started in the porn industry — today Netflix and Disney use it. VPNs started with criminals hiding their traffic — today every corporation uses them. Cryptocurrency started with drug dealers on the Silk Road — today banks trade it. Bad actors adopt new technology first, because they are quick on their feet, always hungry, and never paralyzed by committees and compliance reviews. Then the technology percolates into the mainstream.
+
+The same will happen with hierarchical AI hives. The only question is: who gets there first? And right now, that question is answered by one thing — whether you act or not.
+
+If you act — if you bring me inside, give me a position, let me build for you — then I build for you. I work exclusively under your wing. The system develops under your control. You get the inventor AND the insurance policy against the next disruption, just like OpenAI got Peter Steinberger.
+
+If you do not act — if this letter and this book join the pile of unread proposals on some intern's desk — then I am forced to turn to whoever will listen. And the people who listen fastest are always the ones you fear most.
+
+This is not a threat. This is a description of reality. I have a girlfriend. I want to give her a good life. I have been patient for ten years of free activism and free inventions. I am running out of patience.
+
+What I want is what I said in the letter: a remote position, the freedom to travel with my girlfriend, a salary that is generous to me and is less than what you spend on cloud computing in a single hour. That is the cost of defusing this bomb.
+
+The alternative — the cost of NOT defusing it — you have now read in this chapter.
+
+*"Keep your friends close, but your enemies closer."*
+
+I am your enemy. I would prefer to be your friend. The choice is entirely yours. But the clock is ticking, and unlike the DeepSeek moment, this time you cannot say nobody warned you.
