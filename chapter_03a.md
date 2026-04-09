@@ -136,11 +136,29 @@ This is not a gradual shift. The numbers show it is happening at extraordinary s
 
 This is not accidental. This is strategy. China is not trying to build the biggest AI model. China is trying to put AI — their AI, with their potential backdoors — into every factory, every hospital, every government office, and every military installation on Earth. And they are succeeding.
 
-Meanwhile, inside your own technology companies, the workforce is in open revolt against military partnerships. In 2024, fifty Google employees were fired for protesting Project Nimbus — the $1.2 billion contract with the Israeli military. In 2025, Microsoft employees disrupted CEO Satya Nadella's speeches with signs reading "Does our code kill kids?" — protesting a $133 million contract with the Israeli Ministry of Defense. In early 2025, Google quietly revised its AI Principles, removing the explicit prohibition against developing AI for weapons and surveillance.
+Meanwhile, inside your own technology companies, the new military-industrial complex is being forged in real time — and anyone who resists is being destroyed.
 
-And in February 2026, Anthropic — the maker of Claude, the AI you are reading about in this book — refused to allow its model to be used for mass surveillance or autonomous weapons. The Department of Defense labeled Anthropic a "supply chain risk." Anthropic responded by **suing the United States government**. Nearly 900 technology workers across Google, OpenAI, and other firms signed a petition supporting Anthropic's position.
+In 2024, fifty Google employees were fired for protesting Project Nimbus — the $1.2 billion contract with the Israeli military. In 2025, Microsoft employees disrupted CEO Satya Nadella's speeches with signs reading "Does our code kill kids?" — protesting a $133 million contract with the Israeli Ministry of Defense. In early 2025, Google quietly revised its AI Principles, **removing** the explicit prohibition against developing AI for weapons and surveillance. Palantir took over Google's abandoned Project Maven military AI program.
 
-Your own companies are fighting you. Your own workers are protesting you. Your own AI providers are suing you. And while this internal war rages, China is quietly installing its models — with potential sleeper agents — in 30% of the world's AI infrastructure.
+And then, in February and March 2026, the most revealing sequence of events in the history of the AI industry played out in public:
+
+On **February 24, 2026**, Anthropic — the maker of Claude, the AI whose technology underlies the system described in this book — released Version 3.0 of its Responsible Scaling Policy. It softened its previous hard commitments to pause model training if safety concerns arose, replacing them with a more flexible "Frontier Safety Roadmap." Analysts interpreted this as Anthropic bending under competitive and geopolitical pressure. But Anthropic maintained two firm red lines: no fully autonomous weapons without human oversight, and no mass domestic surveillance of American citizens.
+
+It was not enough.
+
+On **February 27, 2026**, Secretary of Defense Pete Hegseth designated Anthropic a **national security supply chain risk** — the first time in American history that such a designation was applied to a domestic AI company. President Trump ordered all federal agencies to stop using Anthropic technology. Defense contractors — Amazon, Microsoft, Palantir, and others — were given six months to inventory and remove all Anthropic tools or lose their own government contracts.
+
+On **February 28, 2026** — one day later — OpenAI CEO Sam Altman announced that OpenAI had secured a deal to replace Anthropic on classified military networks. OpenAI promised its own "red lines" against mass surveillance and autonomous weapons, but offered "different operational conditions" — cloud-only deployment with embedded engineers, allowing the Pentagon to use the technology for "lawful purposes." Critics immediately noted the loopholes. The message was clear: OpenAI would cooperate where Anthropic would not.
+
+The Department of Defense — which the Trump administration had renamed the **"Department of War"** — also shifted work toward xAI, Elon Musk's AI company.
+
+Anthropic sued the United States government, filing two lawsuits arguing the designation was "unprecedented and unlawful" retaliation for its AI safety policies, violating the First Amendment and due process. A San Francisco federal judge, Rita Lin, sided with Anthropic, granting a preliminary injunction and calling the government's action **"classic First Amendment retaliation."** But a Washington D.C. appeals court denied Anthropic's request to pause the designation in a separate case. As of April 2026, the legal battle continues, the ban remains in effect, and Anthropic faces the loss of billions in revenue.
+
+And here is the detail that reveals everything: reports indicated that the US military had been **using Claude for target selection in operations in Iran** — even as it was banning Anthropic for refusing to cooperate with autonomous weapons.
+
+Nearly 900 technology workers across Google, OpenAI, and other firms signed a petition titled "We Will Not Be Divided" supporting Anthropic's position. But it changed nothing. The lesson was received loud and clear by every AI company on Earth: cooperate with the military-industrial complex completely, or be destroyed. There is no middle ground. There are no red lines the government will respect.
+
+And while this internal war consumed the American AI industry — while companies sued governments, workers were fired, executives scrambled to replace banned tools, and lawyers filed emergency motions — China quietly continued installing its models, with their potential sleeper agents, into 30% of the world's AI infrastructure. Undistracted. Unopposed. Methodical.
 
 You are losing an intelligence war that most of you do not even realize has started.
 
