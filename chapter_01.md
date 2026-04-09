@@ -12,7 +12,7 @@ As of April 2026, OpenAI has an annualized revenue run rate of $25 billion. Anth
 
 Seventy percent of Fortune 100 companies use Claude. Over 20 million people pay for ChatGPT. This is an enormous, fast-growing industry.
 
-And our system makes 90% of it free.
+And our system will kill it, by making 90% of it free.
 
 ---
 
