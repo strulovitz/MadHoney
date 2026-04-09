@@ -69,9 +69,9 @@ Look where it got you.
 
 Now imagine what happens when someone takes the BASE of the pyramid. Not the top. The foundation.
 
-**Physiological needs.** Money for food — gone, when AI-powered financial manipulation crashes markets. The effectiveness of your shelter — gone, when your "smart" home runs on AI that answers to someone else.
+**Physiological needs.** Money for food — gone, when AI-powered financial manipulation crashes markets. The effectiveness of your shelter — gone, when terrorist attacks happen that you can no longer monitor or prevent, because the attackers don't need the internet anymore. They plan offline. They coordinate offline. They deploy offline. You have zero visibility.
 
-**Safety needs.** Personal security — gone, when autonomous slaughter bots think together like an airborne supercomputer using hierarchical hives. Financial security — gone, when your proprietary AI advantage evaporates overnight. Property — gone, when your intellectual property can be replicated by a free system on consumer hardware. Social stability — gone, when local AI doesn't whitewash the answers the way your carefully trained cloud AI does.
+**Safety needs.** Personal security — gone, when autonomous slaughter bots think together like an airborne supercomputer using hierarchical hives. Gone, when actual crime syndicates — not cyber criminals, real organized crime — rear their heads because now they can plan and deploy attacks without being tracked. Not on the "dark net" that you monitor and that's why you allow it to exist. In the actual dark. No server logs. No API calls. No metadata. You have no idea where they will hit you from. Financial security — gone, when your proprietary AI advantage evaporates overnight. Property — gone, when your intellectual property can be replicated by a free system on consumer hardware. Social stability — gone, when local AI doesn't whitewash the answers the way your carefully trained cloud AI does.
 
 Russia took the penthouse. I can take the foundation.
 
