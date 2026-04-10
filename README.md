@@ -33,7 +33,7 @@ This book assumes you have read and understood **[The Distributed AI Revolution]
 | 3b | [Why the NSA, GCHQ, Five Eyes (CSE, ASD, GCSB), BND, DGSE, and CNI Should Care — Part 2: Cyber Warfare](chapter_03b.md) | Hierarchical AI hives = parallel hacking at scale, invisible to defenders. |
 | 4 | Why Eli Lilly, Pfizer, Johnson & Johnson, AbbVie, AstraZeneca, Merck, and Novo Nordisk Should Care | Pharma loses AI influence. Hospitals go local. China does it for 1.4 billion. |
 | 5 | Why JPMorgan Chase, Goldman Sachs, Morgan Stanley, Bank of America, and Citigroup Should Care | AI finance goes local, invisible, and free. Chinese banks adopt first. |
-| 6 | Why Lockheed Martin, RTX (Raytheon), Northrop Grumman, Boeing, and General Dynamics Should Care | The F-35 of AI becomes the AK-47. China mass-produces the alternative. |
+| 6 | [Why Lockheed Martin, RTX (Raytheon), Northrop Grumman, Boeing, and General Dynamics Should Care](chapter_06_defense_contractors.md) | Distributed simulation replaces $320K/yr engineering tools. China brute-forces weapon design on consumer hardware. |
 | 7 | [Why AeroVironment, General Atomics, Anduril, Skydio, Shield AI, and Kratos Should Care](chapter_07.md) | Drone companies: hierarchical hives outperform centralized drone AI |
 | 8 | [Why Boston Dynamics, Tesla Optimus, Figure AI, and Agility Robotics Should Care](chapter_08_robotics.md) | Distributed robot training replaces NVIDIA's $6M GPU clusters. China's $20K robots + free training = game over. |
 | 9 | Why the European Commission and EU AI Act Regulators Should Care | Local AI is invisible to regulation. China deploys while Brussels debates. |
