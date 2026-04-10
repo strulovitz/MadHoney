@@ -12,17 +12,18 @@
 
 ### Military Robots
 - Worker robots: backpack with ammunition
-- Queen robot: IDENTICAL-looking backpack from outside, but inside = powerful computer (hardened for battle)
+- DwarfQueen robot (named after Apis florea): IDENTICAL-looking backpack from outside, but inside = powerful computer (hardened for battle). Commands Workers directly.
+- GiantQueen robot (named after Apis dorsata): same size backpack, more powerful computer inside. Coordinates DwarfQueens, does NOT have Workers directly.
 - RajaBee robot: same size backpack, even more powerful computer inside
 - ALL robots and ALL backpacks look exactly the same (same principle as drones chapter)
-- Enemy cannot tell which robot is the Queen/RajaBee
+- Enemy cannot tell which robot is the DwarfQueen/GiantQueen/RajaBee
 - Military use cases: seek and kill, patrol, urban warfare, bomb disposal swarms
 
 ### Civilian/Factory Robots
-- Queens and RajaBees in factory do NOT need bodies — can be stationary server stacks
+- GiantQueens, DwarfQueens, and RajaBees in factory do NOT need bodies — can be stationary server stacks
 - OR they can have humanoid bodies like the workers, just smarter (Nir prefers this image)
 - Communication via local Wi-Fi (no cables to trip over), covers large area
-- Stationary Queens don't need to walk around to give instructions — Wi-Fi reaches all Workers
+- Stationary DwarfQueens/GiantQueens don't need to walk around to give instructions — Wi-Fi reaches all Workers
 - Factory use cases: warehouse logistics, assembly line, repetitive pre-defined actions
 
 ## Honest Comparison — Our System vs Big AI Robots
@@ -30,7 +31,7 @@
 | Aspect | Big AI Robots | Our System Robots |
 |--------|--------------|-------------------|
 | Learning | One learns, all know instantly | Manual: train model once, copy to all periodically (return to base) |
-| Resilience | If cloud/supercomputer dies = ALL paralyzed | Each robot thinks independently, Queens coordinate, swarm survives |
+| Resilience | If cloud/supercomputer dies = ALL paralyzed | Each robot thinks independently, GiantQueens and DwarfQueens coordinate, swarm survives |
 | Price | $300K robot + cloud subscription | $30K Chinese robot + free local AI |
 | Intelligence | One robot alone is very smart | One robot alone is dumb, large group is smart |
 | Connectivity | Needs constant cloud connection | Works fully offline |
@@ -55,7 +56,7 @@
 - Be honest about this limitation
 
 ## Key Selling Points for Our System
-1. **Resilience**: Big AI supercomputer goes down (terror, malfunction, no comms) = all their robots paralyzed. Our robots still working, helping each other think.
+1. **Resilience**: Big AI supercomputer goes down (terror, malfunction, no comms) = all their robots paralyzed. Our robots still working — DwarfQueens coordinate Workers, GiantQueens coordinate DwarfQueens, swarm survives.
 2. **Price**: $30K Chinese robot + free AI vs $300K Western robot + cloud subscription
 3. **Swarm intelligence**: Dumb alone, smart together. Small group = slow and limited. Large group = can find smart solutions.
 4. **No cloud dependency**: Works offline, no subscription, no API calls

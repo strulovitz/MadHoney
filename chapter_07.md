@@ -52,34 +52,36 @@ Our system does not share the model. Our system does not stream video. Our syste
 
 Our system passes **short text**.
 
-A Queen drone sends a text task to each Worker drone: "Approach target building from the east side. Report what you observe at the ground floor entrance." That is maybe 100 bytes. At 600 bits per second — the worst-case battlefield bandwidth — that message takes about one second to transmit.
+A DwarfQueen drone — named after the Red Dwarf Honey Bee (*Apis florea*), the only queen that commands Workers directly — sends a text task to each Worker drone: "Approach target building from the east side. Report what you observe at the ground floor entrance." That is maybe 100 bytes. At 600 bits per second — the worst-case battlefield bandwidth — that message takes about one second to transmit.
 
 Each Worker drone carries its own complete AI model — a small one, running on a chip that weighs 45 to 60 grams and costs $45 to $95. A Raspberry Pi 5 running a quantized 2-billion-parameter model like Gemma 2 or Qwen 2.5 through Ollama, generating 10 to 13 tokens per second. That is enough to understand a task, analyze what its camera sees, make a tactical decision, and report back in short text.
 
-The Worker processes the task independently. It does not need to ask the Queen for permission. It does not need to stream video to a command center. It does not need to share its model with anyone. It thinks for itself, with its own brain, and sends back a short text result: "Ground floor entrance blocked by debris. Side window open. Recommend entry through window."
+The Worker processes the task independently. It does not need to ask the DwarfQueen for permission. It does not need to stream video to a command center. It does not need to share its model with anyone. It thinks for itself, with its own brain, and sends back a short text result: "Ground floor entrance blocked by debris. Side window open. Recommend entry through window."
 
 That result is another 100 bytes. One second to transmit. Easy to encrypt. Easy to decrypt. And if the enemy intercepts it? They get a short, encrypted text fragment. Even if they break the encryption (unlikely for short messages with rotating keys), the message is so brief and context-dependent that it is nearly useless to code-breakers. Compare this to intercepting a continuous video stream — which reveals everything about what the drone sees, where it is looking, and what it is doing.
 
 ---
 
-## Queens and RajaBees Hidden in Plain Sight
+## GiantQueens, DwarfQueens, and RajaBees Hidden in Plain Sight
 
 > *"Where does a wise man hide a leaf? In the forest. But what does he do if there is no forest? He grows a forest to hide it in."*
 > — G.K. Chesterton, *The Innocence of Father Brown* (1911)
 
-In our system, a drone swarm has three types of members: Worker drones, Queen drones, and RajaBee drones. From the outside, they ALL look identical.
+In our system, a drone swarm has four types of members: Worker drones, DwarfQueen drones, GiantQueen drones (named after the Giant Honey Bee, *Apis dorsata*), and RajaBee drones. From the outside, they ALL look identical.
 
 A Worker drone carries ammunition in its concealed internal compartment.
 
-A Queen drone carries extra computing hardware instead of ammunition — two or three linked Raspberry Pis, or a dedicated AI edge chip like an NVIDIA Jetson Orin Nano (33 TOPS, 7 to 15 watts). The Queen runs a larger AI model than the Workers. She is the one who receives the mission objective, splits it into tasks for her Workers, and combines their reports into a tactical picture. She does not shoot. She thinks.
+A DwarfQueen drone carries extra computing hardware instead of ammunition — two or three linked Raspberry Pis, or a dedicated AI edge chip like an NVIDIA Jetson Orin Nano (33 TOPS, 7 to 15 watts). The DwarfQueen runs a larger AI model than the Workers. She is the one who receives tasks from the GiantQueen above her, splits them into assignments for her Workers, and combines their reports into a tactical picture. She does not shoot. She thinks.
 
-A RajaBee drone carries even more computing hardware — roughly double the Queen's capacity. The RajaBee coordinates multiple Queens, each of whom coordinates her own group of Workers. This is hierarchical command: RajaBee assigns sectors to Queens, Queens assign tasks to Workers, results bubble up. The RajaBee sees the big picture. The Queens see their sectors. The Workers see their individual targets.
+A GiantQueen drone carries even more computing hardware. She coordinates multiple DwarfQueens, each of whom coordinates her own group of Workers. The GiantQueen sees the sector picture. The DwarfQueens see their squads.
 
-The critical design principle: **every drone has the same external housing.** The Worker's internal compartment holds ammunition. The Queen's holds computing hardware. The RajaBee's holds even more computing hardware. But from the outside — same shape, same size, same weight (because ammunition and computing hardware are balanced to weigh the same), same flight pattern, same radar signature, same infrared signature.
+A RajaBee drone carries the most powerful computing hardware — roughly double the GiantQueen's capacity. The RajaBee coordinates multiple GiantQueens. This is hierarchical command: RajaBee assigns sectors to GiantQueens, GiantQueens delegate to DwarfQueens, DwarfQueens assign tasks to Workers, results bubble up. The RajaBee sees the big picture. The GiantQueens see their sectors. The DwarfQueens see their squads. The Workers see their individual targets.
 
-An enemy sniper, an interceptor drone, or an anti-aircraft system cannot tell which drone is the Queen. They all look the same. They all fly the same. Killing a random drone has only a small probability of hitting a Queen, and an even smaller probability of hitting the RajaBee.
+The critical design principle: **every drone has the same external housing.** The Worker's internal compartment holds ammunition. The DwarfQueen's holds computing hardware. The GiantQueen's holds more computing hardware. The RajaBee's holds even more. But from the outside — same shape, same size, same weight (because ammunition and computing hardware are balanced to weigh the same), same flight pattern, same radar signature, same infrared signature.
 
-And there are **backup Queens and backup RajaBees** in the swarm. If a Queen is destroyed, a backup Queen — another drone carrying the same computing hardware, flying in a different position — takes over her sector. If the RajaBee is destroyed, a backup RajaBee assumes command. The swarm is resilient. You cannot decapitate it by killing one drone, because you cannot tell which one is the leader, and there are multiple leaders.
+An enemy sniper, an interceptor drone, or an anti-aircraft system cannot tell which drone is a DwarfQueen, a GiantQueen, or the RajaBee. They all look the same. They all fly the same. Killing a random drone has only a small probability of hitting any queen, and an even smaller probability of hitting the RajaBee.
+
+And there are **backup queens and backup RajaBees** in the swarm. If a DwarfQueen is destroyed, a backup DwarfQueen — another drone carrying the same computing hardware, flying in a different position — takes over her squad. If a GiantQueen is destroyed, a backup GiantQueen assumes her sector. If the RajaBee is destroyed, a backup RajaBee assumes command. The swarm is resilient. You cannot decapitate it by killing one drone, because you cannot tell which one is the leader, and there are multiple leaders at every level.
 
 ---
 
@@ -87,13 +89,13 @@ And there are **backup Queens and backup RajaBees** in the swarm. If a Queen is 
 
 With our hierarchical AI system coordinating them, a drone swarm is no longer a collection of individually dumb machines following pre-programmed routes. It becomes an intelligent, adaptive tactical unit that can evolve strategy on the spot.
 
-**Breach and enter.** The Queen identifies a fortified building. She assigns one Worker to sacrifice itself — fly into a window or door and detonate, creating an opening. She then routes the remaining Workers through the breach. No human had to make that call. The Queen's AI evaluated the situation, identified the optimal entry point, and coordinated the assault in seconds.
+**Breach and enter.** The DwarfQueen identifies a fortified building. She assigns one Worker to sacrifice itself — fly into a window or door and detonate, creating an opening. She then routes the remaining Workers through the breach. No human had to make that call. The DwarfQueen's AI evaluated the situation, identified the optimal entry point, and coordinated the assault in seconds.
 
-**Adaptive rerouting.** The swarm is approaching a target from the north. Workers on the left flank report anti-aircraft fire. The Queen instantly reroutes half the swarm around the east side of the building, creating a pincer movement. The enemy's defensive position, optimized against a frontal approach, is now flanked.
+**Adaptive rerouting.** The swarm is approaching a target from the north. Workers on the left flank report anti-aircraft fire. The DwarfQueen instantly reroutes half the swarm around the east side of the building, creating a pincer movement. The enemy's defensive position, optimized against a frontal approach, is now flanked.
 
-**Opportunity recognition.** A Worker's camera spots a fuel truck parked next to a group of military vehicles. The Worker's local AI recognizes this as a high-value target — destroying the fuel truck will cause secondary explosions that damage everything around it. The Worker reports to the Queen. The Queen redirects three Workers from lower-priority tasks to the fuel truck. Decision made in seconds, without any human in the loop.
+**Opportunity recognition.** A Worker's camera spots a fuel truck parked next to a group of military vehicles. The Worker's local AI recognizes this as a high-value target — destroying the fuel truck will cause secondary explosions that damage everything around it. The Worker reports to the DwarfQueen. The DwarfQueen redirects three Workers from lower-priority tasks to the fuel truck. Decision made in seconds, without any human in the loop.
 
-**Decoy detection.** The swarm approaches what appears to be a radar installation. But one Worker, approaching from a different angle, notices that the "radar" has no power cables running to it. Its AI concludes this is a dummy target — a decoy designed to attract attack. The Worker reports to the Queen. The Queen orders the swarm to ignore the decoy and search for the real installation, which is likely concealed nearby.
+**Decoy detection.** The swarm approaches what appears to be a radar installation. But one Worker, approaching from a different angle, notices that the "radar" has no power cables running to it. Its AI concludes this is a dummy target — a decoy designed to attract attack. The Worker reports to the DwarfQueen. The DwarfQueen orders the swarm to ignore the decoy and search for the real installation, which is likely concealed nearby.
 
 **Autonomous target identification.** This is where it becomes truly terrifying.
 
@@ -101,7 +103,7 @@ In 2017, Professor Stuart Russell — the man who literally co-wrote *Artificial
 
 It is no longer science fiction.
 
-A drone carrying a $95 Raspberry Pi running a 2-billion-parameter vision model can recognize faces. Not perfectly, not at long range, not in all lighting conditions — but well enough. And in our system, if a single Worker cannot make a confident identification, it reports to the Queen. The Queen can assign multiple Workers to observe the same person from different angles. She combines their observations. The swarm collectively achieves a level of identification that no individual drone could match.
+A drone carrying a $95 Raspberry Pi running a 2-billion-parameter vision model can recognize faces. Not perfectly, not at long range, not in all lighting conditions — but well enough. And in our system, if a single Worker cannot make a confident identification, it reports to the DwarfQueen. The DwarfQueen can assign multiple Workers to observe the same person from different angles. She combines their observations. The swarm collectively achieves a level of identification that no individual drone could match.
 
 Now imagine this in the hands of an assassin who does not need to be anywhere near the target. The drone swarm is launched from a truck, a rooftop, a boat. The drones find the target autonomously. They confirm identity autonomously. They engage autonomously. The operator — if there even is one — could be on a different continent. There is no sniper to catch. There is no car bomb to trace. There is no phone call to intercept. There is no evidence.
 
@@ -115,7 +117,7 @@ This will happen. The technology exists today. It costs $95 per drone brain. The
 
 Everything we have described applies to the air. But drones come in all forms.
 
-**Sea surface.** Ukraine has already proven that unmanned surface vehicles can sink warships, destroy infrastructure, break naval blockades, and shoot down aircraft. Their USVs already use "mothership" tactics — a surface drone launching aerial drones for multi-domain attacks. Our system would coordinate these surface drone swarms hierarchically: a RajaBee on a command vessel (or another USV) assigns sectors to Queen USVs, each Queen coordinates her group of attack USVs. The entire swarm operates autonomously, adapting to the enemy's movements in real time.
+**Sea surface.** Ukraine has already proven that unmanned surface vehicles can sink warships, destroy infrastructure, break naval blockades, and shoot down aircraft. Their USVs already use "mothership" tactics — a surface drone launching aerial drones for multi-domain attacks. Our system would coordinate these surface drone swarms hierarchically: a RajaBee on a command vessel (or another USV) assigns sectors to GiantQueen USVs, each GiantQueen coordinates DwarfQueen USVs, each DwarfQueen coordinates her group of attack USVs. The entire swarm operates autonomously, adapting to the enemy's movements in real time.
 
 **Underwater.** This is where our system's advantage becomes even more extreme.
 
@@ -123,15 +125,15 @@ Radio signals do not work underwater. They are absorbed by water almost immediat
 
 If radio bandwidth on a contested battlefield is bad — 600 bits per second — underwater acoustic bandwidth is worse. Much worse.
 
-And yet, our system requires almost nothing. Short text tasks. Short text results. Kilobytes at most. A Queen submarine or UUV sends a text command to her Worker UUVs: "Survey grid square 14-B for mines. Report count and GPS coordinates." The Worker UUV performs the survey using its onboard AI and sonar, and sends back: "Three objects detected at coordinates X, Y, Z. Confidence: high, medium, low." A few hundred bytes. Transmittable even over the worst acoustic link.
+And yet, our system requires almost nothing. Short text tasks. Short text results. Kilobytes at most. A DwarfQueen submarine or UUV sends a text command to her Worker UUVs: "Survey grid square 14-B for mines. Report count and GPS coordinates." The Worker UUV performs the survey using its onboard AI and sonar, and sends back: "Three objects detected at coordinates X, Y, Z. Confidence: high, medium, low." A few hundred bytes. Transmittable even over the worst acoustic link.
 
 No other AI coordination approach works underwater. You cannot share a model over acoustic links. You cannot stream sensor data to a surface ship. You cannot maintain a real-time connection to a command center. Each underwater drone must think for itself — and our system is designed precisely for this: independent Workers, coordinated by short text messages.
 
 Consider the threat context: Iran operates over 20 Ghadir-class midget submarines in the Persian Gulf and Strait of Hormuz. These tiny submarines operate in shallow water — under 30 meters — where larger US submarines cannot go. They are designed for minelaying, ambush attacks against carriers, and special operations. Their low acoustic signature is masked by the noisy environment of the Strait. Iran views them as replaceable, effective swarming tools.
 
-Now imagine those mini-submarines — or their unmanned equivalents — coordinated by our hierarchical AI system. A RajaBee UUV assigns sectors to Queen UUVs, each Queen coordinates a group of Worker UUVs carrying mines or torpedoes. They communicate via short acoustic text messages. They adapt to the enemy's movements. They identify high-value targets autonomously. They coordinate attacks from multiple directions simultaneously. And they operate in an environment where the US Navy's technological advantages in computing and communication are neutralized by the physics of water.
+Now imagine those mini-submarines — or their unmanned equivalents — coordinated by our hierarchical AI system. A RajaBee UUV assigns sectors to GiantQueen UUVs, each GiantQueen coordinates DwarfQueen UUVs, each DwarfQueen coordinates a group of Worker UUVs carrying mines or torpedoes. They communicate via short acoustic text messages. They adapt to the enemy's movements. They identify high-value targets autonomously. They coordinate attacks from multiple directions simultaneously. And they operate in an environment where the US Navy's technological advantages in computing and communication are neutralized by the physics of water.
 
-**Ground.** Ukraine is already deploying armed unmanned ground vehicles to hold front-line positions for extended periods, addressing their critical manpower shortage. Autonomous ground vehicles are used for logistics, medevac, supply transport, reconnaissance, and counter-drone operations. Our system coordinates ground drone swarms the same way it coordinates air swarms — each vehicle carries its own AI brain, a Queen vehicle coordinates the group, a RajaBee coordinates multiple groups.
+**Ground.** Ukraine is already deploying armed unmanned ground vehicles to hold front-line positions for extended periods, addressing their critical manpower shortage. Autonomous ground vehicles are used for logistics, medevac, supply transport, reconnaissance, and counter-drone operations. Our system coordinates ground drone swarms the same way it coordinates air swarms — each vehicle carries its own AI brain, a DwarfQueen vehicle coordinates her group of Workers, GiantQueens coordinate multiple DwarfQueens, and a RajaBee coordinates the GiantQueens.
 
 For robot dogs and humanoid robots specifically, we have a dedicated chapter later in this book.
 
@@ -171,7 +173,7 @@ China has:
 - Production capacity of **500,000 to 700,000 FPV drones per month**
 - The best small AI models in the world: DeepSeek, Qwen, GLM — all open-weight, all free to run locally
 
-Now add our hierarchical hive system. Every Chinese drone gets a $95 AI brain running a 2B DeepSeek or Qwen model. Queens coordinate swarms. RajaBees coordinate Queens. The entire PLA drone force becomes autonomously intelligent, hierarchically coordinated, and completely independent of any centralized infrastructure that can be targeted.
+Now add our hierarchical hive system. Every Chinese drone gets a $95 AI brain running a 2B DeepSeek or Qwen model. DwarfQueens coordinate Workers. GiantQueens coordinate DwarfQueens. RajaBees coordinate GiantQueens. The entire PLA drone force becomes autonomously intelligent, hierarchically coordinated, and completely independent of any centralized infrastructure that can be targeted.
 
 Against this, the Pentagon has spent $13.4 billion on AI, delivered hundreds of autonomous drones (not thousands), and relies on satellite links and data centers for command and control — infrastructure that China's Starlink Smasher microwave weapon is specifically designed to destroy.
 
@@ -183,7 +185,7 @@ If our system gets into the open — and it is on GitHub right now, publicly vis
 
 Everything we described about China applies equally to non-state actors — and this is where it gets truly dark.
 
-A terrorist cell does not need 500,000 drones. It needs ten. Ten FPV drones, each with a $95 AI brain, coordinated by our system. A Queen drone among them, carrying extra compute instead of explosives. The swarm can navigate a city autonomously, identify a target by face, coordinate an approach from multiple directions, and execute — all without any communication to an external server, without any internet connection, without any signal that intelligence agencies can intercept.
+A terrorist cell does not need 500,000 drones. It needs ten. Ten FPV drones, each with a $95 AI brain, coordinated by our system. A DwarfQueen drone among them, carrying extra compute instead of explosives. The swarm can navigate a city autonomously, identify a target by face, coordinate an approach from multiple directions, and execute — all without any communication to an external server, without any internet connection, without any signal that intelligence agencies can intercept.
 
 The drones are commercially available. The AI models are open-source. The Raspberry Pis are sold in every electronics store on Earth. Our software is on GitHub. The total cost of a ten-drone autonomous assassination swarm is under $20,000. That is less than a used car.
 

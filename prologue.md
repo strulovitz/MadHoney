@@ -29,9 +29,9 @@ You just ask the AI to split the task. Then you ask the AI to combine the result
 
 That's it.
 
-Every computer runs its own complete AI model. The Queen asks the AI: "Split this task into independent pieces." Each Worker gets a piece. Each Worker asks its own AI to do the work. The Queen asks the AI: "Combine these results into one answer." Done.
+Every computer runs its own complete AI model. The DwarfQueen — named after the Red Dwarf Honey Bee (*Apis florea*), the smallest and most resourceful of honey bees — asks the AI: "Split this task into independent pieces." Each Worker gets a piece. Each Worker asks its own AI to do the work. The DwarfQueen asks the AI: "Combine these results into one answer." Done.
 
-And now, with hierarchical hives: a RajaBee asks the AI to split a massive task into major components. Each component goes to a Queen. Each Queen splits it further for her Workers. Results bubble up. The RajaBee combines everything. Unlimited depth. Unlimited power.
+And now, with hierarchical hives: a RajaBee asks the AI to split a massive task into major components. Each component goes to a GiantQueen — named after the Giant Honey Bee (*Apis dorsata*), the fierce mid-level coordinator of the hive. Each GiantQueen splits it further and delegates to DwarfQueens, who manage the Workers directly. Results bubble up. The RajaBee combines everything. Unlimited depth. Unlimited power.
 
 You just ask them.
 

@@ -20,7 +20,7 @@ And our system will kill it, by making 90% of it free.
 
 These numbers are not some abstract comparison. These are the prices of the models that our system runs.
 
-Our system — the hierarchical hive — has a RajaBee at the top who coordinates multiple Queen Bees, each commanding her own Workers. The RajaBee, the Queens, and the Workers all run AI models. Those models can be any of the ones listed below. If you choose to run our system entirely on your own hardware, the cost is zero — just electricity. But even if you choose to run it through a cloud API — for example, running the RajaBee on a VPS with a DeepSeek or Qwen API — these prices below are the CEILING. They are what an entire company charges to run the model for you, including their profit margin, their server costs, their salaries. In practice, self-hosting is even cheaper. And on your own hardware, it is free.
+Our system — the hierarchical hive — has a RajaBee at the top who coordinates multiple GiantQueens (named after the Giant Honey Bee, *Apis dorsata*), each of whom coordinates DwarfQueens (named after the Red Dwarf Honey Bee, *Apis florea*) below her. Only the DwarfQueens command Workers directly. The RajaBee, the GiantQueens, the DwarfQueens, and the Workers all run AI models. Those models can be any of the ones listed below. If you choose to run our system entirely on your own hardware, the cost is zero — just electricity. But even if you choose to run it through a cloud API — for example, running the RajaBee on a VPS with a DeepSeek or Qwen API — these prices below are the CEILING. They are what an entire company charges to run the model for you, including their profit margin, their server costs, their salaries. In practice, self-hosting is even cheaper. And on your own hardware, it is free.
 
 | Model | Input Cost (per 1M tokens) | Output Cost (per 1M tokens) | vs American Equivalent |
 |-------|---------------------------|----------------------------|----------------------|
@@ -43,7 +43,7 @@ You are competing with free. You cannot win that competition.
 
 ## What Our System Can Actually Do
 
-If you have read the first book — and you must have, because this is a sequel — you know how the basic system works. A Queen Bee splits a task into independent subtasks, distributes each to a Worker running its own complete local AI model, and combines the results. With hierarchical hives, a RajaBee coordinates multiple Queens, each with their own Workers. Unlimited depth. Unlimited power.
+If you have read the first book — and you must have, because this is a sequel — you know how the basic system works. A DwarfQueen splits a task into independent subtasks, distributes each to a Worker running its own complete local AI model, and combines the results. With hierarchical hives, a RajaBee coordinates GiantQueens, each GiantQueen coordinates DwarfQueens, and each DwarfQueen commands her own Workers. Unlimited depth. Unlimited power.
 
 But what exactly can this system process? What kinds of tasks?
 
@@ -71,7 +71,7 @@ Reinforcement Learning, Robotics, Graph Machine Learning.
 
 Look at that list. Read it again. Every single one of these runs locally on a consumer computer. Every single one of these can be parallelized by our system. Every single one of these costs zero dollars to run once you have the hardware — hardware that billions of people already own.
 
-This is not just text generation. This is image recognition, speech synthesis, video generation, 3D modeling, document analysis, medical imaging, object detection, time series forecasting, and dozens more. Our system works with ALL of them, because from the Queen's perspective, a Worker is a black box: you give it a task, it returns a result. The Queen does not care whether the Worker is running a text model, a vision model, a speech model, or a multimodal model. The architecture is the same.
+This is not just text generation. This is image recognition, speech synthesis, video generation, 3D modeling, document analysis, medical imaging, object detection, time series forecasting, and dozens more. Our system works with ALL of them, because from the DwarfQueen's perspective, a Worker is a black box: you give it a task, it returns a result. The DwarfQueen does not care whether the Worker is running a text model, a vision model, a speech model, or a multimodal model. The architecture is the same.
 
 Now let us focus on the most common use cases that directly threaten your business — the ones that make up the 90%.
 
@@ -81,7 +81,7 @@ Now let us focus on the most common use cases that directly threaten your busine
 
 This is perhaps the most straightforward application. A company needs 500 product descriptions. A marketing team needs 50 blog posts. A publisher needs translations of a book into 12 languages.
 
-With your system, they pay per token, per query, per month. With our system, the Queen gives each Worker a different creative seed in the prompt — a different angle, a different tone, a different starting point — and all 500 product descriptions are generated simultaneously by 500 Workers, each running its own complete language model, each developing its own creative direction independently. The RajaBee can then select the best ones, or combine elements from multiple outputs.
+With your system, they pay per token, per query, per month. With our system, the DwarfQueen gives each Worker a different creative seed in the prompt — a different angle, a different tone, a different starting point — and all 500 product descriptions are generated simultaneously by 500 Workers, each running its own complete language model, each developing its own creative direction independently. The GiantQueen can then select the best ones, or combine elements from multiple outputs, passing the final result up to the RajaBee.
 
 The result is not just cheaper. It is more diverse. Your single centralized model, no matter how powerful, generates from a single perspective. Our system generates from as many perspectives as there are Workers. Each Worker, seeded differently, explores a different creative branch. The output has genuine variety, not the homogenized "ChatGPT voice" that everyone recognizes and increasingly dislikes.
 
@@ -107,7 +107,7 @@ Move 37 turned out to be brilliant. It influenced the center of the board in the
 
 The lesson is devastating for centralized AI: **the branches that look irrelevant at first can be the ones that matter most.** A centralized AI, no matter how powerful, must decide which branches to explore and which to prune. It will always miss the Move 37s — the 1-in-10,000 insights that hide in the branches it chose not to explore.
 
-Our system does not have this problem. In our system, the Queen splits the analysis into independent scenarios. Each Worker gets its own scenario and gives it FULL attention — unlimited time, unlimited depth, complete focus. A Worker analyzing an unlikely edge case gives that edge case the same thorough treatment that another Worker gives to the most obvious scenario. Nothing is skimmed. Nothing is pruned. Nothing is dismissed as "probably not relevant."
+Our system does not have this problem. In our system, the DwarfQueen splits the analysis into independent scenarios. Each Worker gets its own scenario and gives it FULL attention — unlimited time, unlimited depth, complete focus. A Worker analyzing an unlikely edge case gives that edge case the same thorough treatment that another Worker gives to the most obvious scenario. Nothing is skimmed. Nothing is pruned. Nothing is dismissed as "probably not relevant."
 
 And because all Workers run in parallel, this thoroughness costs no additional time. A hundred Workers analyzing a hundred scenarios simultaneously take the same wall-clock time as one Worker analyzing one scenario.
 
@@ -125,11 +125,11 @@ But here is the 90% we do replace:
 
 **Debugging at the function level.** Each Worker gets a single function and a bug report. It analyzes the function, proposes a fix, writes tests. Fifty functions debugged simultaneously by fifty Workers.
 
-**Refactoring.** A codebase needs to be modernized. Each Worker takes a single file, refactors it according to the coding standards the Queen provides. Hundreds of files refactored in parallel.
+**Refactoring.** A codebase needs to be modernized. Each Worker takes a single file, refactors it according to the coding standards the DwarfQueen provides. Hundreds of files refactored in parallel.
 
 **Quality Assurance and Testing.** This is where our system truly shines, because testing is embarrassingly parallel. Each Worker generates test cases for a different module, a different edge case, a different input scenario. One hundred Workers generate one hundred times more test scenarios than a single AI could in the same time. And because each Worker runs independently, the test cases are genuinely diverse — they do not all cluster around the same "obvious" scenarios.
 
-**Code generation for modular architectures.** Any well-designed software system is modular — divided into independent components that communicate through defined interfaces. Each component can be built by a separate Worker. The Queen provides the interface specification; each Worker implements it independently.
+**Code generation for modular architectures.** Any well-designed software system is modular — divided into independent components that communicate through defined interfaces. Each component can be built by a separate Worker. The DwarfQueen provides the interface specification; each Worker implements it independently.
 
 And here is the critical difference: with our system, you can scaffold. You want every Worker to use a specific Python library that you downloaded or wrote yourself? Easy — you configure it once, and every Worker has access. You want a custom code style, a custom linting rule, a custom test framework? You control 100% of the environment. With ChatGPT or Claude, you cannot install your own libraries. You cannot customize the runtime. You take what they give you, or you leave.
 
@@ -143,15 +143,15 @@ This point is so important that we need to state it explicitly, because many peo
 
 Our system works with ANY local AI model. Not just text models. ANY model.
 
-If a vision model can analyze a photograph, our system can split a large image into a grid of tiles and give each tile to a different Worker running that vision model. Each Worker analyzes its tile with full attention. The Queen combines the results.
+If a vision model can analyze a photograph, our system can split a large image into a grid of tiles and give each tile to a different Worker running that vision model. Each Worker analyzes its tile with full attention. The DwarfQueen combines the results.
 
 If a speech recognition model can transcribe audio, our system can split a long recording into segments and give each segment to a different Worker. All segments transcribed in parallel. Hours of audio transcribed in minutes.
 
 If a multimodal model can answer questions about an image, our system can send the same image to multiple Workers with different questions, or send different images to different Workers with the same question.
 
-If a text-to-image model can generate a photograph, our system can give each Worker a different prompt and generate dozens of images simultaneously, then the Queen selects the best or combines elements.
+If a text-to-image model can generate a photograph, our system can give each Worker a different prompt and generate dozens of images simultaneously, then the DwarfQueen selects the best or combines elements.
 
-If a text-to-video model can generate a short clip, our system can have each Worker generate a different scene, and the Queen assembles them into a longer video.
+If a text-to-video model can generate a short clip, our system can have each Worker generate a different scene, and the DwarfQueen assembles them into a longer video.
 
 If a 3D generation model can create an object, our system can have different Workers create different components of a complex 3D scene.
 
@@ -233,7 +233,7 @@ When the most successful AI company in the world — with $25 billion in annuali
 
 Now consider what happens next. DeepSeek, Qwen, and Kimi are not future possibilities — they are already here, already popular, already used by millions. All of them are free to self-host. All of them are extremely cheap as a service through their company's API.
 
-What has NOT happened yet is people combining these Chinese models with our hierarchical hive system. Using DeepSeek as the RajaBee that coordinates the swarm. Using Qwen as the Queen Bees that manage the Workers. Using Kimi for specialized tasks within the hive. When that happens — and it is a matter of when, not if — the 90% of users who currently pay for ChatGPT for tasks that can be done locally begin to leave.
+What has NOT happened yet is people combining these Chinese models with our hierarchical hive system. Using DeepSeek as the RajaBee that coordinates the swarm. Using Qwen as the DwarfQueens that manage the Workers. Using Kimi for specialized tasks within the hive. When that happens — and it is a matter of when, not if — the 90% of users who currently pay for ChatGPT for tasks that can be done locally begin to leave.
 
 As users leave, subscription revenue drops. OpenAI compensates by increasing advertising. More ads in conversations annoy the remaining users. More users leave. Fewer users means fewer eyeballs for advertisers. Advertisers pay less per impression, or leave entirely — why pay $200,000 to advertise on a platform that is losing its audience?
 

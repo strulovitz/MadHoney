@@ -17,7 +17,7 @@
    - Cut the cooling
    - Cyber attack the single system
 
-2. **Our system has massive redundancy.** Compare the vulnerability of their single-AI approach to how much redundancy, backup safety, and fallback mechanisms exist in our distributed system. If one Worker dies, the swarm continues. If a Queen dies, a backup Queen takes over. No single point of failure.
+2. **Our system has massive redundancy.** Compare the vulnerability of their single-AI approach to how much redundancy, backup safety, and fallback mechanisms exist in our distributed system. If one Worker dies, the swarm continues. If a DwarfQueen dies, a backup DwarfQueen takes over her Workers. If a GiantQueen dies, a backup GiantQueen takes over her DwarfQueens. No single point of failure at any level.
 
 3. **Parallel computing is SMARTER for many tasks.** Nir believes (and we should argue) that for many things that benefit from parallel computing, our system will produce SMARTER results than a single supercomputer running one big AI. Reference the "Attention Deficit of Centralized AI" from Chapter 1. The single AI skims and prioritizes. Our system gives full attention to every branch.
 

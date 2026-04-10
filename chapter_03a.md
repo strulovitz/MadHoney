@@ -48,7 +48,7 @@ You are about to lose all of it.
 
 Our system runs AI locally. On the user's own hardware. No internet connection required.
 
-When a person uses our hierarchical hive system, their prompts never leave their building. The Queen splits the task on their machine. The Workers process subtasks on machines they control. The results are combined locally. No API call is made. No server log is created. No network packet is transmitted to a cloud provider.
+When a person uses our hierarchical hive system, their prompts never leave their building. The DwarfQueen — named after the Red Dwarf Honey Bee (*Apis florea*), the only queen that commands Workers directly — splits the task on their machine. The Workers process subtasks on machines they control. The results are combined locally. No API call is made. No server log is created. No network packet is transmitted to a cloud provider.
 
 There is nothing to subpoena. There is no company to serve with a national security directive, because no company is involved. There is no network traffic to intercept, because the data never touches a network. There is no "shadow AI" to detect on corporate networks, because the system runs on the user's own isolated hardware. There is no content to analyze in transit, because nothing is in transit.
 
@@ -74,7 +74,7 @@ The solution: **Linux**. Open source, auditable, no proprietary code. And for ma
 
 Even if law enforcement storms the room and sprays the computer with freezing spray to preserve the RAM contents — a real forensic technique — they find nothing, because Tails overwrites RAM on shutdown.
 
-**Layer 3: The AI System.** Our hierarchical hive. Running locally. No API calls, no server logs, no network traffic. The Queen splits tasks, Workers process them, results combine — all on local hardware, all offline.
+**Layer 3: The AI System.** Our hierarchical hive. Running locally. No API calls, no server logs, no network traffic. The DwarfQueen splits tasks, Workers process them, results combine — all on local hardware, all offline. Above the DwarfQueens, GiantQueens — named after the Giant Honey Bee (*Apis dorsata*) — coordinate multiple DwarfQueens for larger operations.
 
 **Layer 4: The AI Models.** Open-weight Chinese models: DeepSeek, Qwen, Kimi. Free to download, free to run, powerful enough to rival GPT-5 and Claude Opus on most tasks. Quantized by community members like bartowski, Unsloth, and mradermacher into formats that run on consumer hardware.
 
@@ -172,7 +172,7 @@ Everything described in this chapter becomes catastrophically worse when combine
 
 Without our system, Chinese local AI models are useful but limited — a single model on a single machine, handling one task at a time. Powerful enough for individual use, but not powerful enough to replace the cloud AI infrastructure that you can monitor.
 
-With our system, those same Chinese models become a distributed supercomputer. A RajaBee coordinating Queens coordinating Workers — unlimited depth, unlimited power, completely offline, completely invisible. Powerful enough to replace 90% of what your monitored cloud AI does. And every one of those models potentially carrying sleeper agent backdoors that report to Chinese intelligence.
+With our system, those same Chinese models become a distributed supercomputer. A RajaBee coordinating GiantQueens, GiantQueens coordinating DwarfQueens, DwarfQueens coordinating Workers — unlimited depth, unlimited power, completely offline, completely invisible. Powerful enough to replace 90% of what your monitored cloud AI does. And every one of those models potentially carrying sleeper agent backdoors that report to Chinese intelligence.
 
 The migration from your monitored ecosystem to their unmonitored one becomes not just attractive but inevitable. Why would anyone pay $20 a month for ChatGPT — with your surveillance baked in — when they can run a hierarchical hive of Chinese models for free, with better privacy (from you), and equivalent performance?
 

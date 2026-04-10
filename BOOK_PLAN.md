@@ -66,7 +66,7 @@
 
 **Their current world:** Centralized AI systems, cloud-dependent, satellite-dependent.
 
-**How our system kills their advantage:** Hierarchical hives = autonomous drone swarms, coordinated cyber weapons, distributed intelligence analysis. No satellite to shoot down, no server to bomb, no data center to target. Each drone runs its own local model. The RajaBee coordinates thousands.
+**How our system kills their advantage:** Hierarchical hives = autonomous drone swarms, coordinated cyber weapons, distributed intelligence analysis. No satellite to shoot down, no server to bomb, no data center to target. Each drone runs its own local model. DwarfQueens coordinate Workers, GiantQueens coordinate DwarfQueens, RajaBees coordinate GiantQueens — unlimited depth.
 
 **The China nightmare:** China builds hierarchical hives on millions of computers. PLA integrates this into drone warfare, cyber operations, intelligence analysis. Their drones are already cheaper and more numerous.
 
@@ -78,7 +78,7 @@
 - Shield AI (Hivemind software)
 - Kratos (XQ-58A Valkyrie)
 
-All of these build centralized AI drone control. Our system makes their $100M systems get outperformed by hierarchical hives on $500 consumer hardware.
+All of these build centralized AI drone control. Our system — RajaBee → GiantQueens → DwarfQueens → Workers — makes their $100M systems get outperformed by hierarchical hives on $500 consumer hardware.
 
 **(Google Search needed for: latest Chinese military drone companies and models, PLA drone doctrine, recent Chinese autonomous swarm demonstrations)**
 
@@ -174,7 +174,7 @@ Snowden warned about all of them. Our system makes ALL of their surveillance of 
 
 **Their current world:** Humanoid robots with centralized AI brains. Single model, single point of failure. Expensive. Cloud-dependent for updates and complex reasoning.
 
-**How our system kills their model:** Hierarchical hives = robot swarms with distributed intelligence. Each robot runs its own local model. RajaBee coordinates the swarm. No cloud connection needed. Robots that think independently but coordinate hierarchically. If one robot dies, the swarm adapts.
+**How our system kills their model:** Hierarchical hives = robot swarms with distributed intelligence. Each robot runs its own local model. DwarfQueens coordinate Workers, GiantQueens coordinate DwarfQueens, RajaBees coordinate GiantQueens. No cloud connection needed. Robots that think independently but coordinate hierarchically. If one robot dies, the swarm adapts.
 
 **The China nightmare:** Chinese robotics companies (Unitree, XPeng Robotics, Fourier Intelligence) are already cheaper. Add hierarchical local AI = autonomous robot armies at a fraction of the cost. Mass production + distributed AI = unstoppable.
 
@@ -195,9 +195,9 @@ Snowden warned about all of them. Our system makes ALL of their surveillance of 
 ### Chapter 9: The Proof — We Ran It
 
 Technical chapter. Real test results, real timestamps, real models:
-- Phase 1: 2 Queens, localhost (2026-04-08)
-- 3-Queen test (2026-04-09)
-- N-level hierarchy: 3 levels deep, 4 Queens, 4 Workers (2026-04-09)
+- Phase 1: 2 DwarfQueens, localhost (2026-04-08)
+- 3-DwarfQueen test (2026-04-09)
+- N-level hierarchy: 3 levels deep, 4 Queens (GiantQueens + DwarfQueens), 4 Workers (2026-04-09)
 - KillerBee website running
 
 Like Chapter 8 of the first book. Evidence, not claims.
