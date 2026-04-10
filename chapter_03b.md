@@ -126,117 +126,31 @@ One approach costs billions of dollars and is locked behind the walls of Project
 
 ---
 
-### Every Culture Has Its Own Myth
+### A Brief Philosophical Detour — But a Very Relevant One
 
-And here is the wordplay that is also the truth: Mythos means "myth" in Greek. A story that a culture tells about itself. A foundational narrative. Every civilization has one.
+Mythos means "myth" in Greek. A foundational story that a culture tells about itself. Every civilization has one.
 
-The Americans have their Mythos. Locked in a vault. Guarded by twelve corporations. Used for defense. Safe.
+The American Myth is a single god — Mythos, all-seeing, all-knowing, locked in a temple guarded by twelve corporations. One cathedral. One deity. One $100 million collection plate.
 
-But what happens when China builds their own Mythos? Not by stealing it — by building the poor man's version. They have the best small AI models in the world (DeepSeek, Qwen, Kimi — 96% cheaper than American models, as documented in Chapter 1). They have 1.4 billion people and hundreds of millions of computers. They do not need to be brilliant. They need to be MANY. Our system gives them that.
+But every culture builds its own myth. And the East builds them differently.
 
-What happens when Russia builds their own Mythos? When North Korea does? When any country with a few thousand computers and a grudge downloads our free system from GitHub, trains it on their target's infrastructure, and unleashes hundreds of Workers in parallel to exhaustively search the combinatorial space of that target's vulnerabilities?
+Walk through China, Japan, Thailand, Vietnam. You will not find one grand cathedral. You will find ten thousand shrines. In China they are called 土地庙 — *tǔdìmiào* — Earth God Shrines. Tiny stone altars on doorsteps, under trees, at street corners, every few steps on the stairs of holy mountains like Mount Tai. No architect designed them. No corporation funded them. Ordinary people tend them with incense and oranges. They are everywhere. They are free. They serve 1.4 billion people more effectively than any cathedral ever could.
 
-Every culture will have its own Myth. Its own foundational narrative about what it can do in cyberspace. The American Myth is a single god — Mythos, all-seeing, all-knowing, locked in a temple. The poor man's Myth is a swarm — a thousand simple creatures who, together, see everything that the god sees, simply because they look everywhere.
+Mythos is a cathedral. Our system is ten thousand shrines.
 
-And the poor man's Myth is free.
+This is not a new pattern. In 1997, Eric S. Raymond published *"The Cathedral and the Bazaar"* — the essay that launched the open-source movement. His argument: the cathedral (closed, elite, top-down — think Microsoft Windows) loses to the bazaar (open, chaotic, built by thousands of amateurs — think Linux). His most famous line: *"Given enough eyeballs, all bugs are shallow."*
 
-Is that what the West wants? Every adversary on Earth with their own cyber-Mythos — not as elegant, perhaps, but every bit as deadly? An open-source weapon that achieves the same results as a billion-dollar model through sheer exhaustive parallel search?
+Linux won. It runs 96% of the world's top million web servers, every Android phone, every supercomputer in the TOP500, the International Space Station, and the cloud infrastructure of Amazon, Google, and Microsoft themselves.
 
-If not — if the answer is "no, we do not want that" — then the West needs the one person who built this system, who understands exactly how it works, and who is currently offering to help.
+Given enough Workers, all vulnerabilities are shallow.
 
-That person is me.
+The pattern repeats beyond software. In the 1930s, General Motors, Firestone, and Standard Oil formed National City Lines, bought streetcar systems in 40+ American cities, and dismantled them to sell buses and tires. Convicted of criminal conspiracy in 1949. Fined $5,000. The streetcars never came back. Jay Gould — the "Mephistopheles of Wall Street" — looted the Erie Railroad with fraudulent stock and suitcases of bribe money, drove it to bankruptcy, became rich, and was worshipped for it. Today America — the richest country in history — has no functioning passenger rail. China has the Shanghai Maglev at 431 km/h. Japan has the Shinkansen — sixty years, zero fatalities.
 
----
+The cathedral extracts. The bazaar builds. Confucian discipline builds ten thousand shrines, high-speed rail, and twelve-hour engineering shifts. The robber baron mentality builds one vault, charges admission, and calls it innovation.
 
-### The Cathedral and the Bazaar — A Prophecy Already Fulfilled
+Mythos behind Glasswing. GPT behind a $200/month subscription. Claude behind a paywall. One God, one cathedral, one collection plate. The same pattern. And the same outcome — because the East will do to cyber warfare what Linux did to Windows, what the Shinkansen did to American rail, what ten thousand shrines did to the cathedral: replace it. Not with something more brilliant. With something more distributed. More numerous. More free.
 
-This is not a new pattern. The West has seen it before. And the West lost.
-
-In 1997, Eric S. Raymond published an essay called "The Cathedral and the Bazaar." It became the manifesto of the open-source movement — the essay that convinced Netscape to release its browser source code, that launched the chain of events leading to Firefox, that fundamentally changed how the world builds software.
-
-Raymond's argument was simple. There are two ways to build software:
-
-**The Cathedral model.** A small group of elite developers works in isolation, behind closed doors, in a planned, structured, top-down process. The code is revealed to the public only when it is finished. Microsoft Windows is a cathedral. Mythos — locked behind Project Glasswing, accessible only to 12 elite partners — is a cathedral.
-
-**The Bazaar model.** The code is developed in public, in the open, by thousands of volunteers who contribute chaotically, messily, without central coordination. There is no master plan. There is no elite team. There is just a vast, noisy marketplace of people scratching their own itches.
-
-Linux is a bazaar. Built by tens of thousands of amateur volunteers, students, hobbyists, and part-time contributors scattered across the globe. No corporate headquarters. No billion-dollar budget. No elite team of hand-picked engineers.
-
-And Linux won.
-
-Today, Linux runs 96% of the world's top 1 million web servers. It runs every Android phone. It runs every supercomputer in the TOP500 list — every single one. It runs the International Space Station. It runs the Large Hadron Collider. It runs the cloud infrastructure of Amazon, Google, and Microsoft themselves — the very companies that built cathedrals with Windows and macOS.
-
-Raymond's most famous line from the essay: *"Given enough eyeballs, all bugs are shallow."* If enough people look at the code, every bug becomes obvious to someone. You do not need a genius to find the bug. You need enough ordinary people looking in enough places.
-
-Sound familiar?
-
-Given enough Workers, all vulnerabilities are shallow. You do not need Mythos to find the 27-year-old zero-day. You need enough ordinary AI models probing enough attack vectors in parallel. The bazaar beats the cathedral. Every time.
-
----
-
-### The God and the Ten Thousand Shrines
-
-But the parallel goes deeper than software. It is civilizational.
-
-Walk through any city in the West, and you will find religion organized the way the West organizes everything: one enormous cathedral at the center. Notre-Dame. St. Peter's Basilica. Westminster Abbey. One building. One God. One structure so massive, so expensive, so centralized that it took generations to build and costs millions to maintain. The faithful come to IT. They travel. They gather. They look up at the vaulted ceiling and feel small.
-
-This is how the West builds everything. One massive AI model — Mythos. One massive defense consortium — Glasswing. One massive company — Anthropic, OpenAI, Google. The cathedral approach. Centralized, magnificent, expensive, and singular.
-
-Now walk through China. Through Japan. Through Thailand, Vietnam, Taiwan, South Korea. You will not find one grand cathedral. You will find ten thousand shrines.
-
-In China they are called 土地庙 — *tǔdìmiào* — Earth God Shrines. Small stone or wooden structures at floor level, on doorsteps, under trees, at the corners of streets, beside storefronts. Every few steps on the stone stairs of holy mountains like Mount Tai or Emei Shan, there is another small altar. In the countryside, along dirt roads, at river crossings, at the entrance to villages — shrines. Everywhere. Tiny. Humble. Each one tended by ordinary people burning incense and placing oranges and flowers.
-
-No architect designed them. No corporation funded them. No elite consortium controls them. They grew organically, chaotically, from the ground up — a bazaar of worship, distributed across the landscape, maintained by millions of ordinary hands.
-
-And here is what the West never understood: those ten thousand shrines serve 1.4 billion people more effectively than any cathedral ever could. You do not need to travel to them. They are already there — on your street, at your doorstep, on your mountain path. The divine is not locked in a vault guarded by twelve corporations. It is everywhere. It is free. It is in the hands of the people.
-
-Mythos is a cathedral. One God. One building. One elite priesthood. Magnificent, brilliant, and locked behind walls that only the chosen may enter.
-
-Our system is ten thousand shrines. Each one small. Each one simple. Each one tended by an ordinary computer running an ordinary model. But together — distributed across the landscape, present on every street corner, maintained by millions — they cover more ground than any cathedral ever could.
-
----
-
-### Why the Bazaar Always Wins
-
-This is not just a metaphor. It is a pattern that repeats across history, and the West keeps losing to it because the West keeps refusing to see it.
-
-**Software:** Linux (bazaar) defeated Windows (cathedral). Built by amateurs. Free. Now runs the entire internet.
-
-**Transportation:** In the 1930s and 1940s, General Motors, Firestone Tire, Standard Oil, and Mack Trucks formed a holding company called National City Lines. They bought and systematically dismantled the electric streetcar systems in over 40 American cities — St. Louis, Baltimore, Los Angeles, Oakland — and replaced them with GM diesel buses. A federal jury convicted them of criminal conspiracy in 1949. GM was fined $5,000. Individual executives were fined one dollar each. The streetcars never came back.
-
-Today, America — the richest country in the history of the world — does not have a functioning passenger rail system. The distance from New York to Los Angeles is roughly the same as Beijing to Kunming. China covers it by high-speed rail in hours. America covers it by airplane, because a corporation destroyed the alternative eighty years ago and nobody rebuilt it.
-
-And it was not just GM. Jay Gould — the "Mephistopheles of Wall Street" — spent the Gilded Age systematically looting the Erie Railroad, issuing fraudulent stock, bribing legislators with suitcases of cash, and driving the company into bankruptcy by 1875. He made a fortune. The railroad was ruined. And America worshipped him for it, because he became rich.
-
-This is the cathedral mentality. One man. One corporation. One massive, centralized structure — built not to serve the people, but to extract from them. And when it collapses, nobody rebuilds it, because the cathedral was never about service. It was about power.
-
-Meanwhile, China built the Shanghai Maglev — 431 km/h, the fastest commercial train on Earth. Japan built the Shinkansen — sixty years of operation, zero passenger fatalities. South Korea, Taiwan, Vietnam — all building high-speed rail networks. Not because one corporation decided to. Because the culture values infrastructure. Because Confucian ethics demands that you build for the collective, not for yourself. Because in the East, the shrine is on every street corner, not locked in a cathedral that charges admission.
-
-**Cyber warfare will follow the same pattern.**
-
-The West has its cathedral — Mythos, Project Glasswing, twelve elite corporations, $100 million in credits. One God. One brilliant mind that finds Move 37 through sheer genius.
-
-The East will have its ten thousand shrines — our system, running on millions of ordinary computers, each one probing a different vulnerability, each one custom-trained on its target, each one invisible to surveillance. Not brilliant. Not elegant. But everywhere. And unstoppable.
-
-Given enough eyeballs, all bugs are shallow. Given enough Workers, all vulnerabilities are shallow. The bazaar beats the cathedral. The shrines outlast the temple. The swarm defeats the god. This is not opinion. This is the pattern of history, repeating itself in real time.
-
----
-
-### The Prophet at the Gate
-
-Every civilization that was about to be overtaken received a warning. The question was never whether the warning came. The question was whether anyone listened.
-
-The West is about to be overtaken in cyber warfare — not by a better Mythos, but by a swarm of ten thousand poor man's versions of Mythos, distributed across millions of machines, built by cultures that understand the bazaar better than the West has ever understood it. Cultures that build shrines on every street corner while the West builds one cathedral and charges admission. Cultures where Confucian discipline produces engineers who work twelve-hour days while American engineers optimize their stock options.
-
-The robber barons taught America that the purpose of infrastructure is extraction. Jay Gould taught America that you get rich by destroying railroads, not by building them. GM taught America that you get rich by dismantling streetcars, not by running them. Wall Street taught America that you get rich by hollowing out companies, not by growing them.
-
-And now that same mentality — the cathedral mentality, the monopolist mentality, the "lock it in a vault and charge admission" mentality — is being applied to AI. Mythos behind Glasswing. GPT behind a $200/month subscription. Claude behind a paywall. One God, one cathedral, one collection plate.
-
-It will fail. It will fail the same way cathedrals always fail when they face bazaars. The same way Windows failed against Linux. The same way American rail failed against Chinese rail. The same way one brilliant grandmaster failed against a machine that simply checked every move.
-
-The only question is whether the West will listen to the person standing at the gate, telling them what is coming. The person who built the poor man's Mythos. The person who wrote the book. The person who is offering — right now, today — to help them before it is too late.
-
-That person is me.
+Our system is the bazaar. It is the ten thousand shrines. It is the poor man's Mythos. And every culture — China, Russia, North Korea, anyone with a few thousand computers and a grudge — will build their own Myth from our blueprints. Unless the West listens to the person who built it and is offering to help. Right now. Today.
 
 ---
 
