@@ -134,7 +134,7 @@ The American Myth is a single god — Mythos, all-seeing, all-knowing, locked in
 
 But every culture builds its own myth. And the East builds them differently.
 
-Walk through China, Japan, Thailand, Vietnam. You will not find one grand cathedral. You will find ten thousand shrines. In China they are called 土地庙 — *tǔdìmiào* — Earth God Shrines. Tiny stone altars on doorsteps, under trees, at street corners, every few steps on the stairs of holy mountains like Mount Tai. No architect designed them. No corporation funded them. Ordinary people tend them with incense and oranges. They are everywhere. They are free. They serve 1.4 billion people more effectively than any cathedral ever could.
+Walk through China, Japan, Thailand, Vietnam. You will not find one grand cathedral. You will find ten thousand shrines. In China they are called Earth God Shrines — tiny stone altars on doorsteps, under trees, at street corners, every few steps on the stairs of holy mountains like Mount Tai. No architect designed them. No corporation funded them. Ordinary people tend them with incense and oranges. They are everywhere. They are free. They serve 1.4 billion people more effectively than any cathedral ever could.
 
 Mythos is a cathedral. Our system is ten thousand shrines.
 
