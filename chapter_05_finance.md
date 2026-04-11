@@ -22,11 +22,7 @@ This works because there is no proof.
 
 Everyone suspects. Journalists write long-form investigations. Documentaries get made. Books get published. But the actual emails, the actual recordings, the actual private messages between the CEO and the regulator, the actual text where the trader tells his friend at the competing firm what the position is — those stay behind the curtain.
 
-Now read Chapter 2 of this book, the section about DARPA. Read how Iran's Handala group penetrated the personal devices of Israel's Chief of Staff, the Director of Mossad, the Prime Minister, and the Defense Minister — all in four months, all through personal Gmail, iCloud, Telegram, WhatsApp. Read how they extracted 19,000 files from one target alone. Read how they did this against the country with arguably the best cyber-intelligence unit on Earth.
-
-Then read how our system industrializes that process. Not one target at a time with human hackers spending months. Every target simultaneously. Every employee's spouse, children, parents, friends, personal devices — all probed in parallel by thousands of Workers running on cheap computers.
-
-Apply that to your industry.
+Apply all of that — the parallel hacking, the industrialized social engineering — to your industry.
 
 Every JPMorgan managing director's personal phone. Every Goldman Sachs partner's Gmail. Every Morgan Stanley trader's WhatsApp group. Every Bank of America lobbyist's text messages with every congressman on the Banking Committee. All at once. All in parallel.
 
