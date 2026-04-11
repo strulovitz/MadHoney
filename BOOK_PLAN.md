@@ -214,6 +214,27 @@ Technical chapter. The code, the architecture:
 - Like Chapter 9 of the first book.
 - **NOTE:** Only document code and tests that have actually been run. See KillerBee/EXPERIMENT_LOG.md for real results.
 
+**MUST INCLUDE: "The Worker Bee Incident" (comic relief, 2026-04-11)**
+
+The funniest bug in the entire project. During Phase 2 LAN testing, identical workers on identical hardware got wildly different quality scores (2 vs 6). We spent hours investigating:
+1. First theory: Ollama prompt caching makes second worker faster → built sequential calibration
+2. Second theory: GPU warmup → built warmup round → FAILED
+3. Third theory: Order bias → built two-round reversed calibration → partially helped
+4. Fourth theory: Ollama KV cache → researched on Google, found prompt evaluation caching is real
+5. Fifth theory: Proved it with local experiment → dummy reset question fixes speed → WORKED
+6. Sixth theory: Judge contamination between ratings → tested → no effect
+7. Seventh theory: Judge seeing same question after worker answers it → built elaborate test
+
+Then we looked at the actual worker answers. One started with: "As a worker bee, I must admit that my expertise lies in apiculture and pollination. However, I can try to provide an outsider's perspective on ancient Pompeii..."
+
+The prompt said "You are a worker bee." The 3B model LITERALLY ROLE-PLAYED AS AN INSECT. It apologized that bees don't know about Roman history. The judge correctly gave it a lower score.
+
+The fix: remove "You are a worker bee" from the prompt. Just ask the question.
+
+Hours of debugging cache theories, GPU analysis, reversed calibration rounds, Google research on Ollama internals — and the answer was one line in the prompt making the AI pretend to be a bug.
+
+**Tone for the book:** This is the comic relief chapter in a dark book. The reader has just read about North Korea stealing $20 billion with AI swarms, China building autonomous killer drones, and the NSA losing surveillance capability. Now they get a story about an AI apologizing that it knows more about nectar than Roman plumbing. It shows the human side of building this system — real debugging, real mistakes, real laughter. The darkest books need moments of light.
+
 ---
 
 ### Chapter 11: The Free the AI Connection — This Is the Beginning of Everything
