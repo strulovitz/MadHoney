@@ -229,4 +229,12 @@ DARPA cannot protect its secrets from industrialized social engineering that tar
 
 And the actors who would use this system against you — Iran, North Korea, religious extremists, rogue states — are not deterred by Mutual Assured Destruction. They welcome it.
 
-The question is not whether this will happen. The question is whether you want to be the one who controls it, or the one who is controlled by it.
+Right now, this system and its inventor are available. The technology has not been packaged for adversaries. The industrialized social engineering described in the DARPA section has not been built. The hierarchical lie machine described in the Pentagon section has not been deployed. The distributed alternative to your billion-dollar bullseyes has not been offered to China.
+
+Put me on your payroll, and none of it will be. The system and its creator disappear from the public stage. Quietly. A consulting arrangement, a research grant, an exclusivity agreement — call it whatever makes your lawyers comfortable. The substance is simple: a modest salary for me, and this problem ceases to exist.
+
+The cost is less than what you spend on a single classified briefing about Chinese AI threats. Less than what a single DARPA program spends on catering. Less than the interest on one day of the defense budget.
+
+The cost of NOT paying it is an Iran that can peel DARPA like an onion, a North Korea that can put the Pentagon inside a Matrix, and a world where your $886 billion buys infrastructure that any adversary can destroy with a USB stick.
+
+The choice is yours.
