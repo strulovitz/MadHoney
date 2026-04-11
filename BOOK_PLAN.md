@@ -195,12 +195,33 @@ Snowden warned about all of them. Our system makes ALL of their surveillance of 
 ### Chapter 9: The Proof — We Ran It
 
 Technical chapter. Real test results, real timestamps, real models:
-- Phase 1 localhost test: RajaBee + 1 DwarfQueen + 2 Workers, all through KillerBee website (2026-04-10)
-- Buzzing calibration: boss-tests-employee, proportional splitting verified
-- KillerBee website running
-- **NOTE (2026-04-11):** Previous versions of this plan claimed 3-DwarfQueen and N-level tests that never happened. Only the one localhost test above is real so far. More tests will be added here as they actually happen.
 
-Like Chapter 8 of the first book. Evidence, not claims.
+**Experiment 1 — Localhost (2026-04-10):**
+- RajaBee + 1 DwarfQueen + 2 Workers, all on Laptop, all through KillerBee website
+- 166.2 seconds, 14 components, space colonization question
+- Proved the architecture works on a single machine
+
+**Experiment 2 — First LAN test (2026-04-11):**
+- Laptop (RTX 5090) + Desktop (RTX 4070 Ti) over real LAN
+- 2780.6 seconds (46 min), 448 components — splitting was broken (42 instead of 2-4)
+- Proved cross-machine communication works, but exposed splitting bug
+
+**Experiment 3 — Fixed LAN test (2026-04-11):**
+- Same setup, with smart_splitter.py and cleaned prompts
+- 179.9 seconds (3 min), 20 components — proper splitting
+- **15x faster** than Experiment 2 just from fixing the splitting
+- Interstellar travel question: comprehensive answer with pros and cons
+
+**5 Buzzing bugs found and fixed (2026-04-11):**
+1. Simultaneous calibration → sequential
+2. Speed formula destroys ratios → proportional formula
+3. LLM prompt cache bias → dummy reset before each measurement
+4. "You are a worker bee" → LLM role-played as insect (THE WORKER BEE INCIDENT)
+5. Polling interval dominates speed → 1s polling + 3 big questions + averaged scores
+
+**Known remaining issue:** "buzzing" word leaks into calibration LLM context
+
+Full data in KillerBee/EXPERIMENT_LOG.md. Like Chapter 8 of the first book. Evidence, not claims.
 
 ---
 
