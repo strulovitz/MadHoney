@@ -6,9 +6,15 @@
 
 Let us talk about what you are actually afraid of. It is not losing money.
 
-A computer manufacturer that gets hacked loses some product designs, maybe some customer data. They issue an apology, patch the vulnerability, settle with regulators, and move on. Their business survives because their business is making things that people want to buy. The products are real. The value is real.
+A computer manufacturer that gets hacked loses some product designs, maybe some customer data. They are insured. They issue an apology, patch the vulnerability, settle with regulators, and move on. Their business survives because their business is making things that people want to buy. The products are real. The value is real.
 
-Your business is different.
+You are insured too. Against theft, against fraud, against cyber attacks. So why are you more scared than the computer manufacturer? You both have insurance. You both have security teams. You both face the same hackers.
+
+Read Chapter 3b of this book — the cyber warfare chapter. Read how parallel AI hives can conduct autonomous hacking at industrial scale, finding and exploiting vulnerabilities across thousands of targets simultaneously. Read how companies raising hundreds of millions of dollars have independently proven that parallel AI agents are devastatingly effective at penetration testing. Everything in that chapter applies to your systems — your trading platforms, your clearing infrastructure, your customer portals. But that is not why you are more scared than the computer manufacturer.
+
+Read Chapter 2 — the DARPA section on industrialized social engineering. Read how Iran's Handala group penetrated the personal devices of Israel's most senior officials through spear-phishing of their personal Gmail, iCloud, Telegram, WhatsApp. Read how our system industrializes that process — every employee, every family member, all at once. That applies to your employees too. But that is still not why you are more scared.
+
+You are more scared because your business is different.
 
 Your business runs on a curtain. Behind that curtain, CEOs meet with competitors and discuss pricing over private dinners. Traders share information across firms through personal WhatsApp groups — information that is technically insider trading but wrapped in enough plausible deniability to survive a compliance review. Lobbyists that you pay write the actual text of the regulations that are supposed to regulate you, then hand them to the congressmen whose campaigns you fund. Your executives rotate through government — Goldman Sachs partners become Treasury Secretaries, serve for a few years, then return to Goldman. When the 2008 financial crisis erupted — a crisis your institutions created, packaged, sold, and profited from — the people who decided whether to bail you out with taxpayer money were your own former employees. You crashed the global economy. You received hundreds of billions in public funds. You kept your bonuses. President Obama said he was "disgusted." Nobody of consequence went to prison. Business as usual continued the following Monday.
 
