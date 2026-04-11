@@ -110,15 +110,19 @@ But our system — the poor man's Mythos — belongs to everyone.
 
 In Nir's book *Investing in the End of the World*, he describes a method called the LLM Council. Instead of trusting one AI as an oracle, you consult multiple AI models — each with different training, different biases, different strengths — and compare their answers. Where they agree, you pay attention. Where they disagree, you learn from the contrast. The human stays in charge, but the human now has an advisory board that would cost millions to assemble from human experts.
 
+Nir calls the method "Causal Decomposition Investing." The name says what it does. Where Wall Street's quant models ingest 300 indicators into a black box and spit out a score, Nir's method does the opposite: it DECOMPOSES a stock's movement into the real-world forces that caused it.
+
+Think of it like a physicist looking at experimental data. A day trader stares at a squiggly line and sees a battleground — buy, sell, buy, sell, three times before lunch. A physicist looks at the same line and sees a time series produced by underlying forces. The short-term wiggles are noise. The big moves — the surges and the crashes that stand out over months and years — are signal. And each signal has a CAUSE.
+
 The method works like this:
 
-1. Take a stock or sector. Pull up its 5-year chart. Find the big moves — the crashes and the surges.
-2. For each big move, identify the real-world cause. Not patterns on a chart — actual events. A CEO sold shares. A war broke out. Interest rates spiked. A product launched.
-3. Build a short list of 5 to 15 parameters that actually drive this stock. Not 300 opaque indicators from a black box — a few clear, explainable drivers.
+1. Take a stock or sector. Pull up its 5-year chart. Ignore the noise. Find only the big moves — the crashes and the surges that stand out over years.
+2. For each big move, identify the real-world cause. Not a pattern on a chart — an actual event. A CEO sold shares. A war broke out. Interest rates spiked. A product launched.
+3. Build a short list of 5 to 15 parameters that actually drive this stock. Not 300 opaque indicators from a black box — a few clear, explainable forces.
 4. Pose the same structured question to multiple AI models: "Given these parameters, give me three scenarios for the next 3-6 months — bull, base, bear. What flips your verdict?"
 5. Compare the answers. Make a decision based on where the models converge.
 
-This is transparent. Every parameter has a reason. Every scenario has a causal story. No black box. No magic score from 1 to 9 with no explanation.
+This is transparent. Every parameter has a reason. Every scenario has a causal story. No black box. No magic score from 1 to 9 with no explanation. The investor understands WHY the AI thinks what it thinks, because the AI was asked to reason about real forces, not to score a ticker.
 
 Now look at what this method IS. It is multiple AI agents, each analyzing a different aspect of a problem, with a coordinator combining their perspectives into a decision. It is a RajaBee posing the question. GiantQueens analyzing different sectors. DwarfQueens analyzing individual stocks. Workers researching specific parameters.
 
