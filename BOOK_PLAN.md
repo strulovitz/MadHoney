@@ -195,10 +195,10 @@ Snowden warned about all of them. Our system makes ALL of their surveillance of 
 ### Chapter 9: The Proof — We Ran It
 
 Technical chapter. Real test results, real timestamps, real models:
-- Phase 1: 2 DwarfQueens, localhost (2026-04-08)
-- 3-DwarfQueen test (2026-04-09)
-- N-level hierarchy: 3 levels deep, 4 Queens (GiantQueens + DwarfQueens), 4 Workers (2026-04-09)
+- Phase 1 localhost test: RajaBee + 1 DwarfQueen + 2 Workers, all through KillerBee website (2026-04-10)
+- Buzzing calibration: boss-tests-employee, proportional splitting verified
 - KillerBee website running
+- **NOTE (2026-04-11):** Previous versions of this plan claimed 3-DwarfQueen and N-level tests that never happened. Only the one localhost test above is real so far. More tests will be added here as they actually happen.
 
 Like Chapter 8 of the first book. Evidence, not claims.
 
@@ -207,11 +207,12 @@ Like Chapter 8 of the first book. Evidence, not claims.
 ### Chapter 10: How We Built It
 
 Technical chapter. The code, the architecture:
-- raja_bee.py, queen_http_wrapper.py, raja_http_wrapper.py
-- The "Report Up" pattern for proportional work distribution
-- 300 lines of new code enabled unlimited hierarchy
-- KillerBee website for managing Swarms
+- raja_bee.py, dwarf_queen_client.py, worker_client.py, killerbee_client.py
+- queen_http_wrapper.py (DwarfQueen HTTP wrapper)
+- The Buzzing calibration system
+- KillerBee website for managing Swarms (15+ API endpoints)
 - Like Chapter 9 of the first book.
+- **NOTE:** Only document code and tests that have actually been run. See KillerBee/EXPERIMENT_LOG.md for real results.
 
 ---
 
