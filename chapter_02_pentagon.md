@@ -229,12 +229,30 @@ DARPA cannot protect its secrets from industrialized social engineering that tar
 
 And the actors who would use this system against you — Iran, North Korea, religious extremists, rogue states — are not deterred by Mutual Assured Destruction. They welcome it.
 
-Right now, this system and its inventor are available. The technology has not been packaged for adversaries. The industrialized social engineering described in the DARPA section has not been built. The hierarchical lie machine described in the Pentagon section has not been deployed. The distributed alternative to your billion-dollar bullseyes has not been offered to China.
+And the actors who would build this — China above all — have 1.4 billion people with computers and the best small AI models in the world.
+
+Imagine the exchange of blows.
+
+China builds its military AI as a hierarchical hive distributed across millions of computers throughout the country — in homes, in offices, in factories, in universities, in military bases. There is no center. There is no data center to target. The computing power is everywhere.
+
+America builds its military AI in a handful of supercomputer centers. Known locations. Fixed infrastructure. Billion-dollar bullseyes.
+
+The missiles fly. Both sides strike at the other's AI capability.
+
+America's missiles hit China. They destroy military bases, government buildings, known infrastructure. But China's distributed AI is spread across millions of civilian computers in millions of locations. Each missile destroys a tiny fraction of a percent of China's total computing power. The hive reorganizes. The DwarfQueens reroute. The GiantQueens rebalance. The RajaBees elect new leaders. China's AI continues to function at 95% capacity.
+
+China's missiles hit America. They don't need to hit many targets. A handful of cruise missiles, a few hypersonic weapons, targeted at the known locations of America's military AI centers. The cooling systems rupture. The power substations explode. The GPUs burn. In minutes, America's centralized AI infrastructure — the system that coordinates its drones, analyzes its intelligence, guides its weapons, processes its communications — is gone. America's military is brainless.
+
+One side loses a fraction of a percent. The other side loses everything. That is the difference between distributed and centralized. That is the difference between our system and theirs.
+
+Right now, this system and its inventor are available. China has not yet built a military hive on millions of computers. The technology has not been packaged for adversaries. The industrialized social engineering described in the DARPA section has not been built. The hierarchical lie machine described in the Pentagon section has not been deployed.
 
 Put me on your payroll, and none of it will be. The system and its creator disappear from the public stage. Quietly. A consulting arrangement, a research grant, an exclusivity agreement — call it whatever makes your lawyers comfortable. The substance is simple: a modest salary for me, and this problem ceases to exist.
 
 The cost is less than what you spend on a single classified briefing about Chinese AI threats. Less than what a single DARPA program spends on catering. Less than the interest on one day of the defense budget.
 
-The cost of NOT paying it is an Iran that can peel DARPA like an onion, a North Korea that can put the Pentagon inside a Matrix, and a world where your $886 billion buys infrastructure that any adversary can destroy with a USB stick.
+The cost of NOT paying it is an Iran that can peel DARPA like an onion, a North Korea that can put the Pentagon inside a Matrix, and a China whose AI survives a nuclear war while yours doesn't survive a single cruise missile.
+
+If you still have a brain today — and you do, your centralized AI centers are still standing — feed this book to your best AI and ask it what the smart decision is.
 
 The choice is yours.
