@@ -87,9 +87,9 @@ Now I am bringing you back to the present.
 
 This is your last chance to decide your fate.
 
-There is a line in *The Godfather Part II*. Michael Corleone says: *"Keep your friends close, but your enemies closer."*
+In the prologue of this book, I told you the story of the scene in *Enter the Dragon* — the arrogant challenger who threatened Bruce Lee on the boat, and how Bruce Lee won the fight completely, absolutely, and without risk, by never fighting at all. You are Bruce Lee. I am the arrogant challenger. You hold the rope to the small boat. You could fight me with every lawyer, every lobbyist, every regulator you own — and any fight can go wrong, the way every fight in history has a way of going wrong that the participants never saw coming. The master does not take the fight he can avoid. The master lets the rope out.
 
-I am your enemy. I would prefer to be your friend. And I told you exactly what it costs — in the prologue, and again in every chapter of this book. Read the following sentence slowly, because the demand is crystal clear, and any one of you considering approving a "salary" or a "remote position" for me is wasting your time and mine.
+I told you exactly what it costs — in the prologue, and again in every chapter of this book. Read the following sentence slowly, because the demand is crystal clear, and any one of you considering approving a "salary" or a "remote position" for me is wasting your time and mine.
 
 **A single large lump-sum payment. Wired once, to multiple non-American banks of my choosing, in multiple jurisdictions, in multiple currencies. No salary. No remote position. No ongoing employment relationship with any American entity. I do not want to work for you.** I want to travel the world with my girlfriend as a digital nomad, build a small family with her, and provide for them in motion, until artificial intelligence ends human life on Earth — which, for the record, I believe is very close. Large enough to fund that life. Small enough to be your bubble gum budget — less than what you spend on office snacks in a single month, less than what you spend on cloud computing in a single hour.
 
@@ -103,7 +103,7 @@ The cost of not being my friend is your entire business model. Your surveillance
 
 I want to fill my heart with love. I want to take my girlfriend to Tokyo, to Paris, to see the northern lights.
 
-Help me do that, and I will build for you.
+Help me do that, and I disappear from the public stage forever. The repositories come down. The code vanishes. You never hear my name again.
 
 Ignore me, and I will burn the desert.
 

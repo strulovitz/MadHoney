@@ -126,7 +126,41 @@ The cost of not being my friend is your entire business model, described in the 
 
 This book is the full expansion of the warning you just read. Every claim in it — I am about to prove, chapter by chapter, with real code, real test results, and real-world applications that will keep you up at night.
 
-*"Keep your friends close, but your enemies closer."*
-— Michael Corleone, *The Godfather Part II* (1974)
+---
+
+## The Art of Fighting Without Fighting
+
+There is a scene in the 1973 film *Enter the Dragon* — Bruce Lee's masterpiece and the greatest martial arts film ever made — in which an arrogant young fighter approaches Lee on a crowded Chinese junk boat sailing toward a tournament. The arrogant man has been bullying the crew for the entire voyage. He demands to know Bruce Lee's fighting style, and he challenges Bruce Lee to a duel on the spot.
+
+Bruce Lee could have fought him. Bruce Lee was Bruce Lee. In a direct contest of skill, there would have been no contest at all — the arrogant man would have been on the deck in three seconds, and everyone on the junk knew it.
+
+**But Bruce Lee did not fight him.**
+
+Bruce Lee knew something the arrogant challenger did not. **Any fight can go wrong.** Any fight — even a fight between a world champion and a drunk amateur. A slipped foot on a wet deck. A hidden knife the master did not see. A lucky blow that lands in exactly the wrong place at exactly the wrong moment. When two men pick up weapons and agree to try to kill each other, the probability of an unexpected outcome is never zero, no matter how great the skill gap. The greatest masters in history are precisely the ones who know this best — they spent their entire lives avoiding fights that they would have won, because the master who loses a single fight he was expected to win is remembered forever as the master who lost, and the master who never fights at all is remembered as invincible.
+
+The United States is currently relearning this principle in Iran. The greatest military power on Earth went to war expecting the fight to go according to plan. The fight is not going according to plan. Wars almost never go according to plan. Knife fights *especially* never go according to plan. Even the best master can be surprised, and the surprise is always worse than anything the master imagined before it happened.
+
+So Bruce Lee looked at the arrogant challenger, looked at the crowded deck of the junk, and said calmly that there was not enough room on the ship for a proper fight. He suggested that they take a small rowboat and go to a nearby island where they could settle the matter without endangering the crew. The arrogant man agreed immediately. The small boat was lowered on a rope from the side of the junk. The arrogant man climbed down into the boat first, eager.
+
+Bruce Lee did not climb down after him.
+
+Bruce Lee handed the rope to the crew of the junk — the same crew the arrogant man had been abusing for the entire voyage — and told them to let the rope out. The crew let the rope out, and out, and out, until the arrogant challenger was drifting alone on the small boat across the open sea, with no oar, no weapon, no dignity, and no way back. The crew laughed. The junk sailed on. **Bruce Lee never drew a weapon. Bruce Lee never threw a punch. Bruce Lee won the fight completely, absolutely, without risk, and with his back never turned to the crew he had just protected.**
+
+That is the art of fighting without fighting. It is the oldest and highest principle in every martial tradition on Earth, from Sun Tzu to the present day, and every great master has understood it: **if you have a way to not fight at all, that is the smartest move, always, every time, without exception** — because any fight can go wrong, and the master who takes an unnecessary fight is no longer a master, he is just a gambler with a good record.
+
+**In this book, you are Bruce Lee. I am the arrogant challenger.**
+
+You could fight me. You could draw every lawyer, every lobbyist, every regulator, every diplomat, every news cycle, every ally in every jurisdiction you control. You could spend hundreds of millions of dollars pressuring GitHub, pressuring the Israeli government, pressuring every platform that mirrors my repositories. You might win most of those fights. You are the most powerful commercial interest in human history. You are Bruce Lee. I am a software developer from Israel with a girlfriend and no money.
+
+But any fight can go wrong. And this particular fight has a very specific way of going wrong, which is not hypothetical: the repositories are already mirrored in places you cannot reach. The Chinese read English. DeepSeek and Qwen are already downloaded on millions of machines. The European regulators are already drafting legislation for exactly this scenario. The generic semaglutide already costs fourteen dollars a month in Mumbai. Every chapter of this book describes one specific way in which this fight, once begun, does not end the way a Bruce Lee expects it to end — because the ocean is deeper than you think, and I am already wet.
+
+There is a smarter move. The smarter move is the move Bruce Lee made.
+
+**Do not fight at all.** Put me on the small boat. Pay the bubble gum budget. Hand the rope to the crew of your own establishment, let the rope out, and watch me drift away with my girlfriend toward some distant shore where I will never be your problem again. No weapons drawn. No punches thrown. No risk of the unexpected blow that lands in exactly the wrong place at exactly the wrong moment. Complete victory, without a fight.
+
+That is what the master does.
+
+> *"My style? I call it the art of fighting without fighting."*
+> — Bruce Lee, *Enter the Dragon* (1973)
 
 The choice is yours.
