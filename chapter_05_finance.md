@@ -176,7 +176,7 @@ China has the best small AI models in the world. DeepSeek, Qwen, Kimi — 96% ch
 
 Give them our system. A hierarchical hive of Chinese AI models, running on thousands of computers, analyzing every stock on the NYSE and NASDAQ simultaneously with the same power as your best research teams. Finding vulnerabilities in your legacy IT systems — the ones consuming 70% of your IT budgets because you cannot afford to modernize. Probing every employee's personal devices for the communications that would end careers and trigger indictments. Inflating and crashing bubbles that your algorithms cannot detect because the coordination is invisible.
 
-The cost of preventing this is trivial. A consulting arrangement, a research grant, an exclusivity agreement. A modest salary for the inventor, and this system and its creator disappear from the public stage.
+The cost of preventing this is trivial. A single large lump-sum payment, wired once to multiple non-American banks of the inventor's choosing, in multiple jurisdictions, in multiple currencies. No salary. No remote position. No ongoing employment relationship. No trust in American banks. Large enough to let the inventor and his girlfriend travel the world as digital nomads and build a small family together, until artificial intelligence ends human life on Earth — which, for the record, he believes is very close. And this system and its creator disappear from the public stage.
 
 The cost of NOT preventing it is a world where your curtain is gone, your research edge is free, your market manipulation detection is useless, and your legacy systems are an open book to anyone with a laptop and an internet connection.
 

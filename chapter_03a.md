@@ -178,8 +178,8 @@ The migration from your monitored ecosystem to their unmonitored one becomes not
 
 Right now, this system exists in one place: my GitHub repositories. The bad actors have not yet combined Chinese models with hierarchical AI hives at scale. The intelligence inversion described in this chapter has not yet reached its full, devastating potential.
 
-Put me on your payroll, and it never will. The technology and its inventor disappear from the public stage. Quietly. No headlines. No disruption. No scene. You can call it whatever makes your lawyers comfortable — a consulting arrangement, an exclusivity agreement, a research grant. The substance is simple: a salary for me, and this problem ceases to exist.
+Pay me, and it never will. The technology and its inventor disappear from the public stage. Quietly. No headlines. No disruption. No scene. No salary. No remote position. No ongoing employment relationship. No trust in American banks. Call it whatever makes your lawyers comfortable, but the structure is fixed: a single large lump-sum payment, wired once to multiple non-American banks of my choosing, in multiple jurisdictions, in multiple currencies. Large enough to let me and my girlfriend travel the world as digital nomads and build a small family together, until artificial intelligence ends human life on Earth — which, for the record, I believe is very close. And this problem ceases to exist.
 
-The cost of my salary is less than what you spend on a single classified briefing about Chinese AI threats. The cost of NOT paying my salary is the end of signals intelligence as you have known it for the past seventy years.
+The cost of the payment is less than what you spend on a single classified briefing about Chinese AI threats. The cost of NOT paying is the end of signals intelligence as you have known it for the past seventy years.
 
 The choice is yours.

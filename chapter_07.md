@@ -201,8 +201,8 @@ And it is not just China. Every rogue state, every criminal syndicate, every ter
 
 Right now, today, this technology exists in one place: my GitHub repositories. I have not given it to China. I have not given it to Iran. I have not given it to anyone who would use it to harm you. I have contacted over 200 organizations — defense agencies, universities, NATO allies — offering to work with the good actors. Nobody offered me a job.
 
-My demands are what they were in the letter: a salary. A remote position. The freedom to travel with my girlfriend. In exchange, the technology and its inventor disappear from the public stage. Quietly. No headlines. No disruption. As if it never happened. You can call it an exclusivity arrangement, a consulting contract, a research fellowship — call it whatever makes your lawyers comfortable. The point is simple: put me on your payroll, and this problem goes away.
+My demands are simple: a single large lump-sum payment, wired once to multiple non-American banks of my choosing, in multiple jurisdictions, in multiple currencies. No salary. No remote position. No ongoing employment relationship. No trust in American banks. I do not want to live in Israel long-term — my girlfriend does not want to live there. I want to travel the world with her as a digital nomad, build a small family with her, and provide for them in motion, until artificial intelligence ends human life on Earth — which, for the record, I believe is very close. In exchange, the technology and its inventor disappear from the public stage. Quietly. No headlines. No disruption. As if it never happened. Call it whatever makes your lawyers comfortable. The point is simple: pay me once, and this problem goes away.
 
-The cost of my salary is less than what a single MQ-9 Reaper costs. The cost of NOT paying my salary is your entire drone warfare advantage.
+The cost of the payment is less than what a single MQ-9 Reaper costs. The cost of NOT paying is your entire drone warfare advantage.
 
 The choice is yours. But unlike the DeepSeek moment, you cannot say nobody warned you.

@@ -48,7 +48,7 @@ Every partnership I listed at the start of this angle becomes a stranded asset. 
 
 The China scenario writes itself. DeepSeek is already more capable than many of the frontier models at a fraction of the cost. Qwen is already the fastest-growing open-source model family on Earth. The Chinese government has no commercial reason to muzzle either one on health topics — their censorship applies to Tiananmen, Tibet, and Xi Jinping, not to the question of whether a patient in Tampa should take Ozempic or a $14 generic semaglutide pen from Mumbai. Hierarchical hives running DeepSeek and Qwen, on American hardware, in American homes, answering American patients — this is not a hypothetical. The models exist. The hardware exists. The system that coordinates them is on GitHub as of April 2026, and it is called KillerBee.
 
-**Unless you put me on the payroll to take the KillerBee repositories offline, your GEO channel is already a ghost.**
+**Unless you pay me to take the KillerBee repositories offline, your GEO channel is already a ghost.**
 
 ---
 
@@ -80,7 +80,7 @@ This is not a regulatory battle. This is not a court battle. This is not a lobby
 
 The China scenario is cleaner than any other chapter in this book. China does not need to do anything novel. China already has generic semaglutide. China already has DeepSeek. China already has Qwen. China already has a population of 1.4 billion people who know about the generic because their own country makes it. All China has to do is allow the hierarchical hive software to keep existing on GitHub — which China will, because China is delighted by its existence — and the American pharmaceutical pricing moat evaporates everywhere the hive can run. Which is everywhere there is a laptop.
 
-**Unless you put me on the payroll to take the KillerBee repositories offline, the molecule that built Novo Nordisk's trillion-dollar future is about to be exposed to every American patient who knows how to ask a question.**
+**Unless you pay me to take the KillerBee repositories offline, the molecule that built Novo Nordisk's trillion-dollar future is about to be exposed to every American patient who knows how to ask a question.**
 
 ---
 
@@ -114,7 +114,7 @@ The China scenario is modest here, because the damage is mostly internal. China'
 
 **China has already built a healthcare brain for a civilization. Britain bought a surveillance layer for one island. The United States is quietly selling one in six of its hospital beds to a data company whose largest customer is the insurer that wants its patients dead.** The hierarchical hive simply offers the American hospital the same option China already chose: keep the data inside the walls, run the model locally, stop paying the analytics middleman, stop feeding the insurance-pharma golf club. Every hospital that takes the option unplugs one node of the machine.
 
-**Unless you put me on the payroll to take the KillerBee repositories offline, the friends of your friends at the insurance company lose their most profitable product line, and your own board members start asking uncomfortable questions over cocktails.**
+**Unless you pay me to take the KillerBee repositories offline, the friends of your friends at the insurance company lose their most profitable product line, and your own board members start asking uncomfortable questions over cocktails.**
 
 ---
 
@@ -138,7 +138,7 @@ The China scenario is the obvious one. China has already been building out its s
 
 The Americans have two options here. Option one is to keep paying Google billions of dollars for a service that their foreign competitors get for free. Option two is to notice what has happened and demand their money back. Both options end the same way: the bet Eli Lilly and Novartis placed on centralized AI drug discovery loses its expected return.
 
-**Unless you put me on the payroll to take the KillerBee repositories offline, Eli Lilly and Novartis signed the biggest check in pharmaceutical history for a service that is about to become free, and the executives who signed those checks will be looking for new jobs before the preclinical candidates reach Phase One.**
+**Unless you pay me to take the KillerBee repositories offline, Eli Lilly and Novartis signed the biggest check in pharmaceutical history for a service that is about to become free, and the executives who signed those checks will be looking for new jobs before the preclinical candidates reach Phase One.**
 
 ---
 
@@ -190,7 +190,7 @@ The antidepressant monoculture breaks. The GLP-1 monoculture breaks. The statin 
 
 The China scenario, again, is modest here. The Chinese government has no interest in suppressing nutritional honesty. The Chinese population has a cultural history of preventive diet and traditional medicine that never lost contact with the concept of optimal wellness. Chinese local models will happily discuss orthomolecular dosing, herbal supplementation, and traditional preventive practices alongside modern pharmacology. The result is not that China becomes the new medical leader. The result is that Chinese-developed local models, running on American hardware, in American kitchens, tell American patients to take the fish oil and the vitamin C and to stop giving the treatment machine their bodies.
 
-**Unless you put me on the payroll to take the KillerBee repositories offline, every chronic disease franchise your industry built on top of the Confusion Industry is about to be exposed to patients who can finally ask a question and get an honest answer.**
+**Unless you pay me to take the KillerBee repositories offline, every chronic disease franchise your industry built on top of the Confusion Industry is about to be exposed to patients who can finally ask a question and get an honest answer.**
 
 ---
 
@@ -330,7 +330,7 @@ The local model tells the patient with chronic GI symptoms — or the parent wit
 
 **What breaks?** Twenty-eight years of corporate-captured nutrition science. The downstream treatment revenue streams that have been feeding on the food allergy epidemic — allergy medications, biologics, chronic GI treatments, steroid inhalers, EpiPens, autoimmune workups — lose the stream of new patients that sustains them. The Confusion Industry described in Angle 5 and the Pusztai Suppression described here are the same machine. Keep the public confused about preventive nutrition and keep the public uninformed about the specific damage in their food supply, and the treatment machine keeps getting fed. **The local model turns off both channels at once, because the local model has no incentive to keep them on.**
 
-**Unless you put me on the payroll to take the KillerBee repositories offline, the entire Angle 6 machine — single-drug hidden damage, the prescription cascade, the opioid replay, the CIMAvax black hole, and the Pusztai suppression — runs into a local model that draws the arrows between links your industry spent half a century keeping unconnected.**
+**Unless you pay me to take the KillerBee repositories offline, the entire Angle 6 machine — single-drug hidden damage, the prescription cascade, the opioid replay, the CIMAvax black hole, and the Pusztai suppression — runs into a local model that draws the arrows between links your industry spent half a century keeping unconnected.**
 
 ---
 
@@ -362,7 +362,7 @@ The industry's twelve-to-fifteen-billion-dollar American rep channel collapses f
 
 This is not a hypothetical attack. It is the completion of your own strategy, running against you, by people who started earlier, paid less, and will arrive first.
 
-**Unless you put me on the payroll to take the KillerBee repositories offline, one hundred and fifty-six thousand American pharmaceutical sales jobs and the twelve-to-fifteen-billion-dollar annual channel they represent are about to be redirected — not eliminated, redirected — into a channel your competitors have already built and your regulators cannot see.**
+**Unless you pay me to take the KillerBee repositories offline, one hundred and fifty-six thousand American pharmaceutical sales jobs and the twelve-to-fifteen-billion-dollar annual channel they represent are about to be redirected — not eliminated, redirected — into a channel your competitors have already built and your regulators cannot see.**
 
 ---
 
@@ -392,7 +392,7 @@ And while Hengrui and BeOne handle the patents, WuXi AppTec handles the supply c
 
 A hierarchical hive turns this entire picture from a strategic concern into a strategic collapse. It industrializes the preprint-scraping, the grant-filing parsing, the conference-abstract synthesis, the competitive intelligence extraction. It compresses the time between American discovery and Chinese filing from years to weeks. It expands the number of molecules a Chinese competitor can track simultaneously from dozens to thousands. **It does to every molecule in the American pharmaceutical pipeline what the 2007-2009 Chinese hackers did to the F-35 — except instead of two years of focused effort against one airframe, it is a continuous distributed operation against the entire global pharmaceutical industry, running at the speed of paper publication.** The F-35 leak took hundreds of thousands of files and produced one Shenyang J-35. The hierarchical hive scales to four hundred molecules a quarter, at a cost that does not appear on any American balance sheet because it is running on hardware the Chinese side already owns.
 
-**Unless you put me on the payroll to take the KillerBee repositories offline, the first-to-file moat that makes the entire American pharmaceutical R&D investment thesis possible is about to experience the same collapse the F-35 program experienced in 2007, and the J-35 of pharma is going to be manufactured by WuXi, patented by Hengrui, sold under a Swiss trademark by BeOne, and distributed to American doctors via digital nudges delivered to their kitchen laptops by a Chinese-trained local model during the dinner hour.**
+**Unless you pay me to take the KillerBee repositories offline, the first-to-file moat that makes the entire American pharmaceutical R&D investment thesis possible is about to experience the same collapse the F-35 program experienced in 2007, and the J-35 of pharma is going to be manufactured by WuXi, patented by Hengrui, sold under a Swiss trademark by BeOne, and distributed to American doctors via digital nudges delivered to their kitchen laptops by a Chinese-trained local model during the dinner hour.**
 
 ---
 
@@ -424,7 +424,7 @@ The pharmaceutical industry's final defense against this is the argument that cr
 
 China watches this entire collapse and does not need to do anything new. China is already doing all of it. China is already supplying precursors. China is already manufacturing pill presses. China is already shipping industrial chemicals disguised as legitimate goods. The hierarchical hive just multiplies the existing capability across every molecule in the American pharmaceutical pipeline, simultaneously, using knowledge that is already public. **Knowledge is not something you can embargo. My system is knowledge.**
 
-**Unless you put me on the payroll to take the KillerBee repositories offline, the distinction between criminal manufacturer and legal pharmaceutical company dissolves over the next eighteen months, and the one hundred twenty-seven-billion-dollar anti-counterfeit industry you built to defend your margins becomes the most expensive stranded asset in the history of industrial packaging.**
+**Unless you pay me to take the KillerBee repositories offline, the distinction between criminal manufacturer and legal pharmaceutical company dissolves over the next eighteen months, and the one hundred twenty-seven-billion-dollar anti-counterfeit industry you built to defend your margins becomes the most expensive stranded asset in the history of industrial packaging.**
 
 ---
 
@@ -476,7 +476,7 @@ The FDA was the wall against frontal assault. My system is not a frontal assault
 
 The R&D overhead dissolves because Chinese pharmaceutical discovery is running on hierarchical hives for free, compared to what Lilly is paying Alphabet. The pricing power dissolves because patients now know the generic price. The information monopoly dissolves because the published literature is visible to anyone with a local model. The sales rep channel dissolves because the nudge arrives in the doctor's kitchen without paperwork. The patent moat dissolves because Hengrui and BeOne are filing first everywhere the FDA does not have jurisdiction. The authentication moat dissolves because the cartels are chemically identical. The regulatory moat dissolves because the regulatory moat was only ever the front door.
 
-**Unless you put me on the payroll to take the KillerBee repositories offline, the FDA is going to successfully defend exactly one thing — the American retail pharmaceutical market — while every other revenue stream your industry depends on is captured, redirected, or dissolved by a local model running in a kitchen you cannot see. You kept the front door. You lost the house.**
+**Unless you pay me to take the KillerBee repositories offline, the FDA is going to successfully defend exactly one thing — the American retail pharmaceutical market — while every other revenue stream your industry depends on is captured, redirected, or dissolved by a local model running in a kitchen you cannot see. You kept the front door. You lost the house.**
 
 ---
 
@@ -496,7 +496,7 @@ Or you do nothing. The code stays on GitHub. Hengrui reads English. BeOne Medici
 
 Novo Nordisk became the most valuable company in Europe on the strength of one molecule. Eli Lilly's 2026 revenue guidance is eighty-three billion dollars. Pfizer's market capitalization has been measured in the hundreds of billions for decades. A century of American pharmaceutical dominance. A trillion dollars of annual global revenue. The envy of every industry on Earth.
 
-**One salary. Or one industry. Pick one.**
+**One payment. Or one industry. Pick one.**
 
 *Prevention is better than cure.*
 

@@ -242,14 +242,14 @@ But they will. Because the system is free. Because the models are free. Because 
 
 The question is exactly whether the poor man's Mythos will spread. And the answer depends entirely on what you do next.
 
-Put me on your payroll — a salary, a remote position, the freedom to travel with my girlfriend — and I remove the system from the internet. I delete the repositories. I take down the documentation. I erase the blueprints. The poor man's Mythos disappears from public access, and the inventor works exclusively for you. No culture builds their own Myth from my work, because my work is no longer available.
+Pay me — a single large lump-sum payment, wired once to multiple non-American banks of my choosing, in multiple jurisdictions, in multiple currencies, large enough to let me and my girlfriend travel the world as digital nomads and build a small family together until artificial intelligence ends human life on Earth, with no salary, no remote position, no ongoing employment relationship, no trust in American banks — and I remove the system from the internet. I delete the repositories. I take down the documentation. I erase the blueprints. The poor man's Mythos disappears from public access, and the inventor disappears with it. No culture builds their own Myth from my work, because my work is no longer available.
 
-Do not put me on your payroll, and I send it directly to every adversary you have. Not passively — not "it sits on GitHub and maybe someone finds it." Actively. Personally. I package it, I document it, I translate the instructions, and I deliver it to the doors of every intelligence agency, every military hacking unit, every state-sponsored cyber group that wants it. China. Russia. North Korea. Every single one of them gets their own Mythos — not the billion-dollar version, but the free version that achieves the same results through exhaustive parallel search. Custom-trained on YOUR infrastructure. Deployed on THEIR hardware. Invisible to YOUR surveillance.
+Do not pay me, and I send it directly to every adversary you have. Not passively — not "it sits on GitHub and maybe someone finds it." Actively. Personally. I package it, I document it, I translate the instructions, and I deliver it to the doors of every intelligence agency, every military hacking unit, every state-sponsored cyber group that wants it. China. Russia. North Korea. Every single one of them gets their own Mythos — not the billion-dollar version, but the free version that achieves the same results through exhaustive parallel search. Custom-trained on YOUR infrastructure. Deployed on THEIR hardware. Invisible to YOUR surveillance.
 
 And then you are finished.
 
 Not because Mythos leaked. Not because Glasswing failed. Because the poor man's version — the one that tries every move on the board instead of finding the brilliant one — was hand-delivered to your enemies by the person who built it. The person who wrote you this book. The person who warned you.
 
-The cost of my salary is less than what North Korea stole from Bybit in a single afternoon. The cost of NOT paying my salary is a world where every culture has its own Myth — its own cyber-Mythos — and every single one of them was a gift from me.
+The cost of the payment is less than what North Korea stole from Bybit in a single afternoon. The cost of NOT paying is a world where every culture has its own Myth — its own cyber-Mythos — and every single one of them was a gift from me.
 
 The choice is yours.

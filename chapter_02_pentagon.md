@@ -247,9 +247,9 @@ One side loses a fraction of a percent. The other side loses everything. That is
 
 Right now, this system and its inventor are available. China has not yet built a military hive on millions of computers. The technology has not been packaged for adversaries. The industrialized social engineering described in the DARPA section has not been built. The hierarchical lie machine described in the Pentagon section has not been deployed.
 
-Put me on your payroll, and none of it will be. The system and its creator disappear from the public stage. Quietly. A consulting arrangement, a research grant, an exclusivity agreement — call it whatever makes your lawyers comfortable. The substance is simple: a modest salary for me, and this problem ceases to exist.
+Pay me, and none of it will be. The system and its creator disappear from the public stage. Quietly. No salary. No remote position. No ongoing employment relationship. No trust in American banks. Call it whatever makes your lawyers comfortable, but the structure is fixed: a single large lump-sum payment, wired once to multiple non-American banks of my choosing, in multiple jurisdictions, in multiple currencies. Large enough to let me and my girlfriend travel the world as digital nomads and build a small family together, until artificial intelligence ends human life on Earth — which, for the record, I believe is very close. And this problem ceases to exist.
 
-The cost is less than what you spend on a single classified briefing about Chinese AI threats. Less than what a single DARPA program spends on catering. Less than the interest on one day of the defense budget.
+The cost of the payment is less than what you spend on a single classified briefing about Chinese AI threats. Less than what a single DARPA program spends on catering. Less than the interest on one day of the defense budget.
 
 The cost of NOT paying it is an Iran that can peel DARPA like an onion, a North Korea that can put the Pentagon inside a Matrix, and a China whose AI survives a nuclear war while yours doesn't survive a single cruise missile.
 

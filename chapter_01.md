@@ -315,7 +315,7 @@ If you do not act — if this letter and this book join the pile of unread propo
 
 This is not a threat. This is a description of reality. I have a girlfriend. I want to give her a good life. I have been patient for ten years of free activism and free inventions. I am running out of patience.
 
-What I want is what I said in the letter: a remote position, the freedom to travel with my girlfriend, a salary that is generous to me and is less than what you spend on cloud computing in a single hour. That is the cost of defusing this bomb.
+What I want is a single large lump-sum payment, wired once to multiple non-American banks of my choosing, in multiple jurisdictions, in multiple currencies. No salary. No remote position. No ongoing employment relationship. No trust in American banks. I do not want to live in Israel long-term — my girlfriend does not want to live there. I want to travel the world with her as a digital nomad, build a small family with her, and provide for them in motion, until artificial intelligence ends human life on Earth — which, for the record, I believe is very close. Large enough to fund that life. Small enough to be less than what you spend on cloud computing in a single hour. That is the cost of defusing this bomb.
 
 The alternative — the cost of NOT defusing it — you have now read in this chapter.
 
