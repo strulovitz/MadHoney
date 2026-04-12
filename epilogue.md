@@ -91,9 +91,9 @@ There is a line in *The Godfather Part II*. Michael Corleone says: *"Keep your f
 
 I am your enemy. I would prefer to be your friend. And I told you exactly what it costs — in the prologue, and again in every chapter of this book. Read the following sentence slowly, because the demand is crystal clear, and any one of you considering approving a "salary" or a "remote position" for me is wasting your time and mine.
 
-**A single large lump-sum payment. Wired once, to multiple non-American banks of my choosing, in multiple jurisdictions, in multiple currencies. No salary. No remote position. No ongoing employment relationship with any American entity. I do not want to work for you.** I want to travel the world with my girlfriend as a digital nomad, build a small family with her, and provide for them in motion, until artificial intelligence ends human life on Earth — which, for the record, I believe is very close. Large enough to fund that life. Small enough to be rounding error in what any one of you spends on cloud computing in a single hour.
+**A single large lump-sum payment. Wired once, to multiple non-American banks of my choosing, in multiple jurisdictions, in multiple currencies. No salary. No remote position. No ongoing employment relationship with any American entity. I do not want to work for you.** I want to travel the world with my girlfriend as a digital nomad, build a small family with her, and provide for them in motion, until artificial intelligence ends human life on Earth — which, for the record, I believe is very close. Large enough to fund that life. Small enough to be your bubble gum budget — less than what you spend on office snacks in a single month, less than what you spend on cloud computing in a single hour.
 
-The cost of being my friend is a rounding error.
+The cost of being my friend is your bubble gum budget.
 
 The cost of not being my friend is your entire business model. Your surveillance apparatus. Your military advantage. Your financial edge. Your pharma influence. Your regulatory shield. Everything described in this book, chapter by chapter, with working code and test results.
 

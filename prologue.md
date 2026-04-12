@@ -118,9 +118,9 @@ I want the payment large enough to fund a specific life. The life is this: I tra
 
 **In exchange**, I take down every repository. I publish a formal retraction. I close the GitHub accounts. The hierarchical hive disappears from the public internet. This book and the first book remain as historical curiosities, but the working code becomes unavailable. The threat is defused. The warning becomes a footnote. You go back to selling cloud artificial intelligence at whatever margins the market will bear, and I go back to being a man who is not trying to destroy your industry.
 
-The cost of this is less than what your company spends on cloud computing in a single hour. Less than what one of your executives spends on a bottle of wine at a charity dinner. Less than the annual budget line for office snacks at your headquarters. It is, in the phrase your accounting department uses internally for amounts this small, **a rounding error.** A rounding error that buys you the quiet end of the most dangerous open-source project you have not yet noticed.
+Sun Tzu wrote that the supreme art of war is to subdue the enemy without fighting. I am giving you the opportunity to subdue me without fighting. **The cost of being my friend is your bubble gum budget.** Less than what you spend on office snacks in a single month. Less than what you spend on cloud computing in a single hour. One wire, to banks you do not control, and the most dangerous open-source project you have not yet noticed disappears quietly.
 
-The cost of the alternative is your entire business model, described in the chapters that follow, chapter by chapter, industry by industry, with working code and test results.
+The cost of not being my friend is your entire business model, described in the chapters that follow, chapter by chapter, industry by industry, with working code and test results.
 
 ---
 
