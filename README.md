@@ -39,7 +39,7 @@ This book assumes you have read and understood **[The Distributed AI Revolution]
 | 9 | Why the European Commission and EU AI Act Regulators Should Care | Local AI is invisible to regulation. China deploys while Brussels debates. |
 | 10 | The Proof — We Ran It | Real tests, real timestamps, real results. |
 | 11 | How We Built It | The code, the architecture, 300 lines that enable unlimited hierarchy. |
-| 12 | The Free the AI Connection | This is the real-world beginning of everything predicted in that book. |
+| 12 | [Am I Bluffing? — The Free the AI Connection](chapter_12_am_i_bluffing.md) | FAQ + the decade of activism + four purposes of credibility + the Chofetz Chaim's temporary guest + the safety lock + the standing order about her safety + the Free the AI vision. |
 | | [Epilogue — What Do You Care What Other People Think?](epilogue.md) | Feynman + Arline, burn the desert, Maslow's pyramid, choose your fate |
 
 ---

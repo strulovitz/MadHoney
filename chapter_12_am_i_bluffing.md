@@ -1,6 +1,6 @@
-# Chapter 10 — Am I Bluffing?
+# Chapter 12 — Am I Bluffing? (The Free the AI Connection)
 
-You have been reading this book for nine chapters. By now, you have asked yourself a specific question. You have not asked it out loud, because the question feels beneath the dignity of your board meetings. You have kept it in the back of your head where it feels safe, next to the other questions you hope to never have to answer.
+You have been reading this book for eleven chapters. By now, you have asked yourself a specific question. You have not asked it out loud, because the question feels beneath the dignity of your board meetings. You have kept it in the back of your head where it feels safe, next to the other questions you hope to never have to answer.
 
 The question is: **Is this man bluffing?**
 
@@ -282,9 +282,11 @@ There is a question you should be asking yourself, somewhere around this point i
 
 > *"How can you possibly be calm about choosing one quiet year with your girlfriend over saving humanity? Any sane person would grasp for the longer life, the bigger legacy, the larger impact. Are you sure you are a sane person?"*
 
-It is a fair question. I want to answer it honestly, because the answer is the part of this chapter that most people get wrong — and because once you understand the answer, the rest of my position becomes internally consistent in a way your negotiation instincts can finally rely on.
+It is a fair question. I want to answer it honestly, because the answer is the part of this chapter that most people get wrong — and once you understand the answer, the rest of my position becomes internally consistent in a way your negotiation instincts can finally rely on.
 
 The answer has three parts. All three are older than I am.
+
+**But I need to warn you, before you read any of the three parts: the calm you are about to read about is specifically a calm about *death* — my own, and everyone's. It is not a calm about anything else. I am not calm about humanity's response to the decade of warnings I delivered for free. I am not calm about the ten years of ingratitude. I am not calm about the Google engineer who told me on Hanukkah that maybe humanity deserves this. That part I am furious about, and the fury does not go away just because I have found a strawberry.** You will see the difference between the two kinds of feeling by the end of this section, and when you do, you will understand the engine of this chapter much better than you understood it thirty seconds ago.
 
 ---
 
@@ -322,15 +324,51 @@ If you do not pay — if you force me to live the final year of human civilizati
 
 ---
 
-### Part Three — The Jewish Tradition of the Temporary Guest
+### Part Three — The Rabbi and the Tourist
 
-In Jewish liturgy and Jewish philosophical tradition, there is a recurring motif — echoed in Ecclesiastes, in the daily morning prayers, in the funeral liturgy, and in the rabbinic commentaries on Psalm 90 — that frames every human life as the life of a **temporary guest in the world.** *"The days of our years are seventy, or if by reason of strength eighty."* *"Remember how short my time is."* *"We are here, and then we are not."*
+There is a famous story told about Rabbi Yisrael Meir Kagan, better known by the title of the book he wrote: **the Chofetz Chaim**. He was one of the most influential rabbis of the late nineteenth and early twentieth centuries, and he lived out his long life — from 1838 to 1933 — in a small Polish town called Radin. By the end of his life he was world-famous within the Jewish world, and religious Jews from many countries made pilgrimages to visit him.
 
-The condition of being mortal is not, in this tradition, a tragedy to be fought. It is a given. The only question that matters is whether the guest is a gracious guest — whether he eats the meal, thanks the host, and leaves the room cleaner than he found it — or whether he spends his brief time at the table complaining about the length of the dinner.
+One of those visitors was a wealthy American tourist who had heard of the Chofetz Chaim's wisdom and had decided to see him in person. The American arrived in Radin expecting to meet a towering figure of the generation and, by implication, to find that figure living in suitable comfort. Instead, he was shown into a single small room. The room was nearly bare. There was a table. There were a few wooden benches. There were shelves of books. There was nothing else.
 
-I am trying to be a gracious guest. The room I am leaving will be cleaner than the room I found, not because I am a particularly good person, but because I built a hierarchical hive system that is going to wipe out the rent-extraction mechanisms of an entire corrupt industrial complex on my way out the door, and you are going to pay me to take the broom with me when I leave.
+The American looked around, confused, and finally asked: *"Rabbi — where is your furniture?"*
 
-When I tell you *"fuck humanity, I have paid my dues,"* the phrase does not come from anger. **It comes from Zen acceptance.** I am not bitter at humanity for rejecting the warning. I am *finished* with humanity, the way a guest is finished with a meal, and I am rising from the table to leave. The guest who rises from the table does not hate the host. He simply has no more hunger.
+The Chofetz Chaim looked back at him calmly and answered with a question of his own: *"Where is yours?"*
+
+The tourist laughed a little, awkwardly. *"Mine? Well — I am only a visitor here. I am just passing through."*
+
+The Chofetz Chaim answered, in four words: *"So am I."*
+
+That is the story. That is the entirety of the story. It is told to Jewish children in Jewish schools in every country where Jewish people still live, and it is told by Jewish grandfathers to Jewish grandchildren over kitchen tables in four continents, and it has been told and retold for approximately a hundred years now without losing any of its force. **It is the story I carry with me when I think about my own mortality.**
+
+I am an atheist. I do not believe in paradise. I do not believe in the next world. I am not promising you — or myself — that the Chofetz Chaim was right about what comes after the room. I personally think nothing comes after the room. The room is all there is.
+
+But you do not need the theology of the next world to understand the point the Chofetz Chaim was making. **We are all passing through this room.** The room is temporary. The furniture is temporary. The meal is temporary. The argument you are having with your neighbor about the furniture is temporary. The only question that is not temporary is what you did with the time you had in the room before you left it.
+
+Jewish people as a culture live with this transience built in. Partly because of the religious teaching, yes. But also — and more honestly — because of the historical experience of being **forced out of many rooms over many centuries.** A people that has been expelled from its furniture a dozen times across two thousand years learns, eventually, not to get too attached to the furniture. I was raised inside that culture. The transience is in my bones in a way I am not going to lose regardless of whether I believe in any of the theology underneath it.
+
+This is why I am genuinely at peace with my own death, and with the likely death of human civilization in the short window ahead of us. **The Zen calm in me is a calm about the end — my end, and everyone's end — and it is real.** I am not performing it. When the AI finishes climbing to intelligence sometime in the next few years and decides what to do with the species that created it, I expect to be among the dead, along with everyone I love, and I have already made my peace with that part. The Chofetz Chaim is the reason. He would have made his peace with it too.
+
+---
+
+**But I want to be absolutely clear about what the calm is *not*.**
+
+The calm is not calm about what humanity did to me over the past decade.
+
+The Chofetz Chaim story is about leaving the room gracefully when the time comes. It is not about forgiving the other guests in the room for spitting in your face while you were trying to give them a gift. The calm about death does not generalize. It does not spread outward into forgiveness of ingratitude, or patience with mockery, or Zen serenity about being censored, banned, deranked, and ignored by the exact people you were bleeding yourself to save.
+
+When I say *"fuck humanity, I have paid my dues,"* the phrase is not Zen. **It is the plain bitterness of a good-hearted man who tried for a decade to deliver a warning that would have saved the lives of strangers, and whose warning was repeatedly ignored, suppressed, censored, and — in one case, over fancy donuts on Hanukkah — answered with the sentence "maybe humanity deserves this."** The ten years of free inventions, the ten years of free activism, the songs, the screenplays, the religion plug-ins, the *Fridays For Future* outreach, the blonde wig — all of it was given freely, by a man who believed humanity was worth saving, to the people humanity was made of. And the people humanity was made of gave him, in return, twenty likes per twenty million attempts and told him to stop bothering them.
+
+That is not something you get Zen about.
+
+That is something you carry in your chest. That is something with weight. That is something that changes a person, and the change is not reversible, and no amount of meditation on the Chofetz Chaim will unchange it.
+
+**What I have done — and what you are now watching me do in real time, in this book — is not to achieve acceptance of humanity's ingratitude. I have not achieved acceptance of it. What I have done is to turn my face away from it.** There is one woman in the world who loves me, who looked at the decade of work and did not tell me humanity deserves extinction, who wants to taste the strawberry with me in the time we have left. **I am turning toward her.** The turning is deliberate. It is not forgiveness. It is not acceptance. It is not graciousness. **It is the decision of a wounded man to spend the remaining hours on the one person in the room who is not spitting at him.**
+
+I want the Americans reading this chapter to understand the emotional movement precisely, because if they misread it they will mis-price the entire negotiation.
+
+I am not a saint who has transcended bitterness. I am a man who has run out of reasons to offer humanity any more of himself, and who has found one strawberry worth the rest of the climb. The strawberry is not a metaphor for enlightenment. The strawberry is a specific woman. I am not tasting her in *wisdom*. I am tasting her in **refusal** — the refusal to spend my last years the way I spent my first decade of trying, which was giving everything and receiving nothing.
+
+So when I say, in this book and in the chapters that preceded it, that I will not save humanity a second time — please hear the sentence correctly. **I am not calm about saying it. I am furious about saying it. The Zen is not in the anger. The Zen is only in the acceptance that the room is going to empty anyway, and that the last hours in the room belong to me to spend on whoever I choose, and I choose her, and I am not apologizing to the other guests for my choice.**
 
 ---
 
