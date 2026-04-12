@@ -81,7 +81,7 @@ And I don't even need to do it myself. I just need to make the tools available, 
 
 ## The Time Machine
 
-In the prologue of this book, I sent you a letter from the future. I showed you what is coming.
+In the prologue of this book, I warned you what was coming. I showed you the mechanism. I showed you the proof. I showed you the nail I am holding in my hand — the one that costs you the shoe, the horse, the rider, the battle, and the kingdom.
 
 Now I am bringing you back to the present.
 
@@ -89,11 +89,11 @@ This is your last chance to decide your fate.
 
 There is a line in *The Godfather Part II*. Michael Corleone says: *"Keep your friends close, but your enemies closer."*
 
-I am your enemy. I would prefer to be your friend. And I told you exactly what it costs — in the letter, which you have now read twice.
+I am your enemy. I would prefer to be your friend. And I told you exactly what it costs — in the prologue, and again in every chapter of this book. Read the following sentence slowly, because the demand is crystal clear, and any one of you considering approving a "salary" or a "remote position" for me is wasting your time and mine.
 
-A remote position. Travel with my girlfriend. A salary that is generous to me and is less than what you spend on cloud computing in a single hour. Build things for you instead of against you.
+**A single large lump-sum payment. Wired once, to multiple non-American banks of my choosing, in multiple jurisdictions, in multiple currencies. No salary. No remote position. No ongoing employment relationship with any American entity. I do not want to work for you.** I want to travel the world with my girlfriend as a digital nomad, build a small family with her, and provide for them in motion, until artificial intelligence ends human life on Earth — which, for the record, I believe is very close. Large enough to fund that life. Small enough to be rounding error in what any one of you spends on cloud computing in a single hour.
 
-The cost of being my friend is your bubble gum budget.
+The cost of being my friend is a rounding error.
 
 The cost of not being my friend is your entire business model. Your surveillance apparatus. Your military advantage. Your financial edge. Your pharma influence. Your regulatory shield. Everything described in this book, chapter by chapter, with working code and test results.
 
