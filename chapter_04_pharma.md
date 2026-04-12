@@ -494,7 +494,9 @@ Or you do nothing. The code stays on GitHub. Hengrui reads English. BeOne Medici
 
 Novo Nordisk became the most valuable company in Europe on the strength of one molecule. Eli Lilly's 2026 revenue guidance is eighty-three billion dollars. Pfizer's market capitalization has been measured in the hundreds of billions for decades. A century of American pharmaceutical dominance. A trillion dollars of annual global revenue. The envy of every industry on Earth.
 
-*An ounce of prevention is worth a pound of cure.*
+**One salary. Or one industry. Pick one.**
+
+*Prevention is better than cure.*
 
 *A stitch in time saves nine.*
 
