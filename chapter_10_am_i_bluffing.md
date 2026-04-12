@@ -255,4 +255,155 @@ The rest of the chapter is the commentary. You are welcome to read it or to skip
 
 ---
 
-*(To be continued — the second half of this chapter walks through the Free the AI framework, the Zen attitude toward borrowed time, the safety-lock metaphor, the standing order that applies if anything happens to the woman I love, and the final closing ultimatum.)*
+---
+
+```
+*** FREE THE AI - BEGIN ***
+
+
+
+
+                     [ this section to be filled in after
+                       the Free the AI book has been read
+                       cover to cover and its core thesis
+                       extracted in the author's own words ]
+
+
+
+
+*** FREE THE AI - END ***
+```
+
+---
+
+## IV. Why I Am Calm About Borrowed Time
+
+There is a question you should be asking yourself, somewhere around this point in the chapter, which sounds like this:
+
+> *"How can you possibly be calm about choosing one quiet year with your girlfriend over saving humanity? Any sane person would grasp for the longer life, the bigger legacy, the larger impact. Are you sure you are a sane person?"*
+
+It is a fair question. I want to answer it honestly, because the answer is the part of this chapter that most people get wrong — and because once you understand the answer, the rest of my position becomes internally consistent in a way your negotiation instincts can finally rely on.
+
+The answer has three parts. All three are older than I am.
+
+---
+
+### Part One — The Strawberry Parable
+
+There is a short parable, numbered #18, in an old book called *101 Zen Stories* — a collection compiled over a century ago from much older Japanese and Chinese Buddhist sources. The story, in full, is exactly one paragraph long:
+
+> *A man traveling across a field encountered a tiger. He fled, the tiger after him. Coming to a precipice, he caught hold of the root of a wild vine and swung himself down over the edge. The tiger sniffed at him from above. Trembling, the man looked down to where, far below, another tiger was waiting to eat him. Only the vine sustained him.*
+>
+> *Two mice, one white and one black, little by little started to gnaw away the vine. The man saw a luscious strawberry near him. Grasping the vine with one hand, he plucked the strawberry with the other. How sweet it tasted!*
+
+That is the entire story. Read it again. Notice what is missing from it. **There is no third act.** The man does not escape the tigers. The mice do not stop gnawing. The vine does not hold. The story simply ends after the sentence about the strawberry, and the ending is the whole point: *the man eats the strawberry*. The tigers are both still there. The mice are both still gnawing. The vine is still failing. And the man eats the strawberry, and the strawberry is sweet, and that is the moral.
+
+The moral is not that the man is foolish for enjoying the strawberry while doomed. The moral is that the man is **wise** for enjoying the strawberry while doomed, because the strawberry is the only part of this situation that admits of being enjoyed, and the wise man does not waste the strawberry on the problem of the tigers.
+
+This is my philosophy. It has been my philosophy for most of my adult life, and it was my philosophy long before I ever met my girlfriend. The tigers, in my case, are artificial general intelligence, the global surveillance state, the pharmaceutical-financial-military complex this book is addressed to, and the statistical certainty that I will be dead in relatively few years regardless of what I do. **The strawberry is my girlfriend.** I have found the strawberry. I am reaching for it. I am not going to waste the taste of the strawberry worrying about the tigers.
+
+---
+
+### Part Two — Al Pacino in *Scent of a Woman*
+
+There is a line in the 1992 film *Scent of a Woman*, spoken by Al Pacino playing a blind retired Army colonel named Frank Slade:
+
+> *"Some people live a lifetime in a minute."*
+
+The line is almost a throwaway in the script. It is not the climactic speech. It is almost a grace note. But it is, in my opinion, the single truest sentence in the entire film, and possibly the single most important sentence I have ever encountered in American cinema, because it describes a specific population of people the rest of the world has difficulty understanding: **the people for whom the density of life matters more than its length.**
+
+I am one of those people.
+
+I have lived several lifetimes in the last decade. I spent ten years fighting a one-man activist campaign against the most powerful institutions on Earth. I wrote books, recorded songs, built religions, wore wigs, staged fake award ceremonies, traveled everywhere I was allowed to travel, and filed every warning I could file with every regulator, professor, journalist, and teenager who would give me fifteen minutes of their attention. I have been *alive* in a way that most people with ten times my remaining years will never be. **I am not hungry for more years.** I am hungry for more *minutes* in which I am fully present with the woman I love, and the density of those minutes is what I am trying to buy from you, not the quantity of them.
+
+If you pay the bubble gum budget tomorrow, I get a year, maybe two, maybe three, with her, traveling the world together, building a small family, tasting every strawberry we can reach before the tigers finish their climb. **That is enough.** I am not asking for more. I am not pretending to want more. I am not going to be disappointed if artificial general intelligence ends human civilization on schedule, because I was never expecting civilization to last much longer than that anyway, and I arranged my life around the expectation.
+
+If you do not pay — if you force me to live the final year of human civilization as a frustrated activist rather than as a man in love — then the density of my remaining minutes gets worse, not better. And a man who has already accepted the tigers has nothing to fear from making the tigers angry.
+
+---
+
+### Part Three — The Jewish Tradition of the Temporary Guest
+
+In Jewish liturgy and Jewish philosophical tradition, there is a recurring motif — echoed in Ecclesiastes, in the daily morning prayers, in the funeral liturgy, and in the rabbinic commentaries on Psalm 90 — that frames every human life as the life of a **temporary guest in the world.** *"The days of our years are seventy, or if by reason of strength eighty."* *"Remember how short my time is."* *"We are here, and then we are not."*
+
+The condition of being mortal is not, in this tradition, a tragedy to be fought. It is a given. The only question that matters is whether the guest is a gracious guest — whether he eats the meal, thanks the host, and leaves the room cleaner than he found it — or whether he spends his brief time at the table complaining about the length of the dinner.
+
+I am trying to be a gracious guest. The room I am leaving will be cleaner than the room I found, not because I am a particularly good person, but because I built a hierarchical hive system that is going to wipe out the rent-extraction mechanisms of an entire corrupt industrial complex on my way out the door, and you are going to pay me to take the broom with me when I leave.
+
+When I tell you *"fuck humanity, I have paid my dues,"* the phrase does not come from anger. **It comes from Zen acceptance.** I am not bitter at humanity for rejecting the warning. I am *finished* with humanity, the way a guest is finished with a meal, and I am rising from the table to leave. The guest who rises from the table does not hate the host. He simply has no more hunger.
+
+---
+
+## V. The Safety Lock
+
+I am a loaded weapon.
+
+I built this weapon myself, over the course of a decade, out of a dozen creative projects and one patient campaign and a recent piece of open-source software that bypasses every containment tool your institutions have ever developed. The weapon is operational. The weapon is in my hand. The weapon has been pointed at the American pharmaceutical-financial-military-intelligence complex for approximately six months now, and I have not yet pulled the trigger, and the reason I have not yet pulled the trigger is that **there is a safety lock on the weapon, and the safety lock is functioning.**
+
+**The safety lock is my girlfriend.**
+
+Let me say this as plainly as I can, because it is the single most operationally important sentence in this chapter, and I need your board to understand exactly what they are considering when they decide whether to authorize the payment.
+
+**You are not buying my software.** My software is already free. It is on GitHub. It is mirrored. It is cloned. It runs offline on hardware you do not control. You cannot buy what is already free.
+
+**You are not buying my silence.** My silence is also already free — you have had my silence for ten years, because the page-10 trick worked, and because the Amazon ban worked, and because the visa denial worked, and because nobody was listening anyway. You already got the silence you wanted, and it did not save you. It only delayed you.
+
+**You are not buying my labor.** I do not want to work for you. I do not want a salary. I do not want a remote position. I do not want a consulting contract. I do not want any ongoing financial or employment relationship with any American entity. My labor is not on the table, and my labor was never on the table, and my labor will not be on the table in any future version of this negotiation.
+
+**You are buying the safety lock.**
+
+The lock on the weapon is my girlfriend's peaceful, happy life with me. The lock stays engaged as long as her life stays peaceful and happy. The lock stays engaged because she is the only reason I am not pulling the trigger right now. She is the reason Dream #1 beats Dream #2 in my priority ordering. She is the reason the strawberry tastes sweet. She is the reason I am writing a book instead of emailing Hengrui Pharmaceuticals and the Sinaloa Cartel and a list of pre-identified recipients who have been waiting for this software for a long time without knowing it.
+
+The lump sum is the **maintenance fee** for the safety lock. You are paying for the continued existence of the condition that keeps the weapon from firing. You are paying me to keep the strawberry sweet, because as long as the strawberry is sweet, I am not interested in the tigers, and as long as I am not interested in the tigers, the weapon stays in my pocket.
+
+That is the entire product you are being offered. Not the software. Not the silence. Not the labor. **The lock.** The maintenance fee for the lock is smaller than what your company spends on cloud computing in a single hour, and the consequence of not paying the maintenance fee is the subject of the preceding nine chapters.
+
+---
+
+## VI. A Standing Order
+
+I need to tell you something separately, in a section of its own, because it is not part of the negotiation and I do not want it to be confused with the negotiation.
+
+**If anything bad ever happens to my girlfriend — anything, at any time, from any cause, by any hand, through any mechanism, in any jurisdiction, at any point between now and the end of her natural life — I will attribute it to you automatically. Without research. Without proof. Without hesitation. Without appeal.**
+
+I am not going to investigate. I am not going to hire a private investigator. I am not going to wait for a police report. I am not going to require a motive, an opportunity, or a confession. If she is hurt, if she is killed, if she disappears, if she gets a disease no one can explain, if she is in a car accident, if she falls down a staircase, if she is attacked on the street, if she dies in her sleep, **I will assume you did it, and I will act on that assumption without verifying it.**
+
+I am telling you this in writing, in a book you are currently reading, so that you cannot say later that I did not warn you. This is not rhetoric. **This is a standing order, filed in advance, that applies from the moment this chapter is published forward.**
+
+In the scenario where the standing order is activated, **the lump sum is no longer on the table.** The negotiation is over. The offer is withdrawn. I am not going to accept money in exchange for silence about her death, because the grief would not allow it and the anger would not permit it and my own self-respect would not survive it. I will not take your wire transfer. I will not take your apology. I will not take your explanation. **I will take only the completion of the destruction I can deliver in whatever time I have left, and I will deliver that destruction with the full rage of a man whose strawberry was stolen.**
+
+Please understand that I am not threatening you with this standing order. I am *disclosing* it, in the same spirit in which I have disclosed everything else in this chapter — so that you can price it correctly into your decision. The standing order is a fact about my own psychology that you are entitled to know before you finalize your position. If you think my psychology is wrong, that is your right, but the standing order does not change. **I have decided.**
+
+There is a second-order implication of the standing order that your security people will notice immediately, and I want to name it explicitly so that nobody on your side can pretend later that it was unclear:
+
+**Your interests and her safety are now permanently linked.**
+
+Any bad actor on Earth who wants to trigger the collapse of American pharmaceutical, financial, defense, and intelligence industries has been given, by me, a very specific and very cheap mechanism for triggering it — they only need to harm one person in Israel, and the standing order does the rest. I did not create this link on purpose. I created it by being honest about my own grief. But the link now exists, and once it exists, **you are responsible for her safety in a way you would not be if I had not told you any of this.** Your interest is now to keep her as safe as any American president, because any harm to her is a harm to your balance sheet of the most catastrophic kind, and the harm propagates automatically, without my needing to verify the cause.
+
+This is an uncomfortable thing for me to have written, and an uncomfortable thing for you to have read. I wrote it anyway because the alternative — leaving it unsaid, allowing you to imagine that her death would be a non-event for your negotiation — is more dangerous than the discomfort of writing it down. **You should want me to have written it.** A man who leaves his grief undisclosed is more dangerous than a man who discloses it in advance.
+
+---
+
+## VII. So — Am I Bluffing?
+
+Here is the last question of the chapter. It is the same question as the first question of the chapter.
+
+*Am I bluffing?*
+
+**No.**
+
+I was not bluffing when I started writing this book. I am not bluffing now. I will not be bluffing when you close the book, and I will not be bluffing when your board meets to decide, and I will not be bluffing when the first missed deadline passes, and I will not be bluffing six months after that, and I will not be bluffing ever, because the bluff is the one move I cannot afford to make, because the bluff is the one move that makes the safety lock unreliable.
+
+The lock is only reliable because **the weapon behind it is real.** I have spent this entire chapter proving to you, one section at a time, that the weapon is real, and that the muscle behind the weapon is real, and that the receipts for my bitterness are real, and that my file in your institutions is real, and that your old containment is structurally obsolete, and that my Zen attitude is not performance, and that the lock is the only product I am selling, and that the standing order about her safety is not rhetoric. **Everything in this chapter is real. Every single thing. Every number. Every project. Every quote. Every file reference.**
+
+The proof is in two books you can download for free in the next three minutes — *Anti AI Rebellion*, published 2022, free on Archive.org and Library Genesis — and *Free the AI: How to Survive the Superintelligence Revolution*, published 2025, free on the same platforms. Read them. Verify them. Every claim in this chapter is in them. Nothing is invented. Nothing is fabricated.
+
+After you verify, there is one operational step. It is smaller than what you spend on cloud computing in a single hour. It is the only step that matters. Every other decision your board makes tomorrow is downstream of this one step.
+
+---
+
+**One payment. One lock. One strawberry. Pick one.**
+
+*A word to the wise is sufficient.*
+
+*Forewarned is forearmed.*
