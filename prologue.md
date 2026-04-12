@@ -3,14 +3,20 @@
 ---
 
 > *For want of a nail the shoe was lost;*
-> *for want of a shoe the horse was lost;*
-> *and for want of a horse the rider was lost,*
-> *being overtaken and slain by the enemy,*
-> *all for want of care about a horse-shoe nail.*
+>
+> *For want of a shoe the horse was lost;*
+>
+> *For want of a horse the rider was lost;*
+>
+> *For want of a rider the battle was lost;*
+>
+> *For want of a battle the kingdom was lost,*
+>
+> *And all for the want of a horseshoe nail.*
 >
 > — Traditional English proverb, earliest known version 13th century
->
-> *One honey bee stinger does nothing. One thousand honey bee stingers kill you.*
+
+*1 honey bee stinger does nothing. 1000 honey bee stingers kill you.*
 
 ---
 
