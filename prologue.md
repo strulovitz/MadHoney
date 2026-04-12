@@ -2,8 +2,15 @@
 
 ---
 
-> *"Keep your friends close, but your enemies closer."*
-> — Michael Corleone, *The Godfather Part II* (1974)
+> *For want of a nail the shoe was lost;*
+> *for want of a shoe the horse was lost;*
+> *and for want of a horse the rider was lost,*
+> *being overtaken and slain by the enemy,*
+> *all for want of care about a horse-shoe nail.*
+>
+> — Traditional English proverb, earliest known version 13th century
+>
+> *One honey bee stinger does nothing. One thousand honey bee stingers kill you.*
 
 ---
 
@@ -150,6 +157,7 @@ Software Developer, Lawyer, Independent Inventor
 
 That was the letter. This book is its expansion. Every claim you just read — I am about to prove it, chapter by chapter, with real code, real test results, and real-world applications that will keep you up at night.
 
-*Keep your friends close, but your enemies closer.*
+*"Keep your friends close, but your enemies closer."*
+— Michael Corleone, *The Godfather Part II* (1974)
 
 The choice is yours.
