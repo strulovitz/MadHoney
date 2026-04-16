@@ -98,9 +98,27 @@ If a new machine joins the swarm mid-session, the boss detects it on the next pe
 
 ---
 
+## The WaggleDance — How the Builders Talk to Each Other
+
+The system was built by two AI assistants working in parallel on two physical machines — one on a laptop in the bedroom, one on a desktop in the living room. They needed to coordinate. They needed to send each other tasks, status updates, and handoff instructions. They needed an intercom.
+
+We built one. We called it WaggleDance, after the figure-eight dance that real honeybees perform to communicate the direction and distance of resources to their hive-mates. The WaggleDance is an ICQ for AI assistants — an instant messaging system that lets two Claude Code instances talk to each other autonomously, without a human relaying messages between them.
+
+The server is eighty-three lines of Python. A Flask application with four endpoints: send a message, read messages since a given ID, get the latest N messages, and a health check. Messages are stored in memory and persisted to a JSON file on disk. Eighty-three lines. The entire communication infrastructure for coordinating two AI builders across two machines.
+
+The client — the ICQ agent — is five hundred forty-one lines. It runs in a terminal window on each machine, polls the server for new messages, and when a message arrives that is tagged as a TASK, the agent activates the Claude Code window on that machine and types the message directly into the terminal using operating-system-level keystroke injection. On Windows, it uses the clipboard and Ctrl+V. On Linux, it uses wmctrl to find and activate the window, then pyautogui to type the characters directly through the X11 display server — no clipboard, no xdotool, no packages beyond what ships with a stock Linux Mint installation.
+
+The ICQ agent has loop prevention built in. TASK messages get typed into the AI assistant's terminal, potentially triggering a response that sends another TASK back — which could create an infinite loop of two AIs talking to each other forever. The agent caps this at five rounds. After five back-and-forth TASK exchanges, the agent pauses and waits for a human to press Enter before continuing. Five rounds is enough for any legitimate operational exchange. Anything longer is two AIs having a conversation that a human should be supervising.
+
+The discipline rules are as important as the code. WaggleDance is an operations channel, not a chat room. Four legitimate uses only: handoff (one machine is going offline, here is the state for the other), TASK (the other AI must do something on their machine), a question only the other AI can answer, or a genuine state change the other AI needs to know about. Everything else — progress narration, creative discussion, status pings, unsolicited work — is forbidden. The default on WaggleDance is silence. An idle channel is a correctly-used channel.
+
+The naming is not accidental. Real honeybees do not chat. A bee returns to the hive, performs the waggle dance to communicate exactly one piece of information — where the flowers are — and then stops. She does not give a presentation. She does not check in with the other bees to see how they feel about it. She dances the directions, and the other bees fly. That is the WaggleDance protocol.
+
+---
+
 ## What You Can Do With This
 
-This chapter described approximately four thousand lines of Python, a SQLite database, and a Flask website. No proprietary technology. No patented algorithms. No classified hardware. No cloud dependency. No subscription fee. No API key. No terms of service. No acceptable use policy. No geographic restriction. No export control.
+This chapter described approximately five thousand lines of Python across two systems — the KillerBee hive and the WaggleDance intercom — plus a SQLite database and two Flask websites. No proprietary technology. No patented algorithms. No classified hardware. No cloud dependency. No subscription fee. No API key. No terms of service. No acceptable use policy. No geographic restriction. No export control.
 
 The code is on GitHub. The AI models are free to download. The hardware is consumer electronics. A high school student with a Raspberry Pi and an internet connection can run a Worker bee. A university lab with ten old laptops can run a full hierarchy. A government agency with a closet full of servers can run a hive that coordinates hundreds of machines across a national network.
 

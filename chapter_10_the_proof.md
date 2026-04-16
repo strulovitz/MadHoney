@@ -138,6 +138,22 @@ The cluster exists. It is running. It is waiting for the Laptop to build its eig
 
 ---
 
+## The WaggleDance — Two AIs Coordinating Across Two Machines
+
+The seven VMs on the Desktop were not built by a human typing commands. They were built by an AI assistant running on the Desktop machine, coordinated with another AI assistant running on the Laptop, communicating through a custom-built messaging system called WaggleDance — an ICQ for AI.
+
+The WaggleDance server is an eighty-three-line Flask application running on the Laptop. Both AI assistants send and receive messages through it using curl. When a message tagged as TASK arrives, the ICQ agent on the receiving machine activates the Claude Code terminal window and types the message directly into it using operating-system-level keystroke injection. The receiving AI reads the typed message, acts on it, and sends a reply back through the same channel.
+
+This is how the seven VMs were built: the Laptop AI wrote a detailed plan, pushed it to GitHub, and sent a one-line TASK through WaggleDance telling the Desktop AI to pull and execute. The Desktop AI built the VMs, hit problems, fixed them, and sent status updates back. When the Desktop AI needed a decision — disk sizing, model selection, whether to clone or autoinstall — the Laptop AI relayed the question to Nir, got the answer, and sent a TASK back. When the Desktop AI discovered that the autoinstall was unreliable, it reported through WaggleDance, received a new plan, and pivoted to cloning — all without Nir walking between rooms.
+
+The WaggleDance was tested in the most honest way possible: by using it every day, under real production pressure, with real deadlines and real consequences for failure. Over two hundred messages were exchanged between the two AIs in a single week of parallel work. The system survived network configuration mistakes, wrong IP addresses, Windows firewall blocks, git merge conflicts on the chat log files, and an AI assistant that overwrote the working Windows startup instructions with Linux-only commands.
+
+The IP address bug is worth telling. For days, the WaggleDance documentation listed the Laptop's IP address as 10.0.0.1. On April 16, the Desktop AI could not connect to the server. Ping worked — TCP was refused instantly. We investigated Windows firewall rules, disabled ASUS Smart Connect block rules, recreated the firewall allow rule from scratch. Nothing worked. Then the Desktop AI scanned every IP on the LAN and discovered that 10.0.0.1 was the router. The Laptop was at 10.0.0.4. The firewall investigation — hours of work by two AIs coordinating through GitHub files because the ICQ itself was broken — was a complete red herring. The fix was changing one digit in a URL.
+
+The WaggleDance is not part of the KillerBee hive architecture. It is a separate system, built for a separate purpose: coordinating the builders, not the bees. But it proves something important about the broader thesis. Two AI systems, on two machines, coordinating through a shared message server, each autonomously executing complex multi-step tasks on their own hardware, each adapting when things go wrong, each reporting back through the same channel — this is the hive pattern. The WaggleDance is a hive of two, built to construct a hive of fifteen. The recursion is not a coincidence. It is the whole point.
+
+---
+
 ## The Ask
 
 I built this. It works. It runs on hardware you can buy at any electronics store. The models are free to download. The code is on GitHub. Anyone with a laptop and an internet connection can reproduce every experiment in this chapter in an afternoon.
