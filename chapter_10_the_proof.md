@@ -1,4 +1,4 @@
-# Chapter 9: The Proof — We Ran It
+# Chapter 10: The Proof — We Ran It
 
 ---
 
