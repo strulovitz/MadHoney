@@ -37,7 +37,7 @@ This book assumes you have read and understood **[The Distributed AI Revolution]
 | 7 | [Why AeroVironment, General Atomics, Anduril, Skydio, Shield AI, and Kratos Should Care](chapter_07.md) | Drone companies: hierarchical hives outperform centralized drone AI |
 | 8 | [Why Boston Dynamics, Tesla Optimus, Figure AI, and Agility Robotics Should Care](chapter_08_robotics.md) | Distributed robot training replaces NVIDIA's $6M GPU clusters. China's $20K robots + free training = game over. |
 | 9 | [Why the European Commission and EU AI Act Regulators Should Care](chapter_09_eu.md) | Brussels is the subject, Washington is the audience. Europe will pivot pro-China overnight by running DeepSeek/Qwen on hierarchical hives on European hardware. Silicon Valley loses its largest non-US market. |
-| 10 | The Proof — We Ran It | Real tests, real timestamps, real results. |
+| 10 | [The Proof — We Ran It](chapter_10_the_proof.md) | Real tests, real timestamps, real results. Three experiments, five bugs, one insect. |
 | 11 | How We Built It | The code, the architecture, 300 lines that enable unlimited hierarchy. |
 | 12 | [Am I Bluffing? — The Free the AI Connection](chapter_12_am_i_bluffing.md) | FAQ + the decade of activism + four purposes of credibility + the Chofetz Chaim's temporary guest + the safety lock + the standing order about her safety + the Free the AI vision. |
 | | [Epilogue — What Do You Care What Other People Think?](epilogue.md) | Feynman + Arline, burn the desert, Maslow's pyramid, choose your fate |
