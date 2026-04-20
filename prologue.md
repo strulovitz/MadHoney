@@ -26,6 +26,8 @@
 
 *1 honey bee stinger does nothing. 1000 honey bee stingers kill you.*
 
+**I have nothing to lose. You have everything to lose.**
+
 ---
 
 ## The Birthday
@@ -63,44 +65,6 @@ Refuse it, and you discover — the hard way — that Rabi was right about the b
 If you have not read **The Distributed AI Revolution**, stop right now. Close this book. Go to GitHub, read the entire first book, and come back. Everything here assumes you understood everything there. I will not repeat a single word of it.
 
 If you have read it — welcome back. Things have gotten worse. Or better, depending on which side you're on.
-
----
-
-## You Just Ask Them
-
-In Richard Feynman's autobiography *Surely You're Joking, Mr. Feynman!*, there is a chapter called "You Just Ask Them?" Feynman, one of the greatest physicists who ever lived, couldn't figure out how to get a girl at a bar. He kept buying drinks, being clever, being a gentleman — and getting nothing. Then a nightclub master of ceremonies taught him the secret: don't buy her anything. Just ask her directly. Will you sleep with me tonight? And it worked.
-
-Feynman was stunned. "You mean... you just *ask* them?"
-
-The entire distributed AI system described in this book — and the previous one — works on the same principle.
-
-How do you build a distributed parallel AI system that scales infinitely, costs almost nothing, and rivals supercomputers? The answer is not sophisticated coding. It is not a billion-dollar research lab. It is not a breakthrough algorithm.
-
-You just ask the AI to split the task. Then you ask the AI to combine the results.
-
-That's it.
-
-Every computer runs its own complete AI model. The DwarfQueen — named after the Red Dwarf Honey Bee (*Apis florea*), the smallest and most resourceful of honey bees — asks the AI: "Split this task into independent pieces." Each Worker gets a piece. Each Worker asks its own AI to do the work. The DwarfQueen asks the AI: "Combine these results into one answer." Done.
-
-And now, with hierarchical hives: a RajaBee asks the AI to split a massive task into major components. Each component goes to a GiantQueen — named after the Giant Honey Bee (*Apis dorsata*), the fierce mid-level coordinator of the hive. Each GiantQueen splits it further and delegates to DwarfQueens, who manage the Workers directly. Results bubble up. The RajaBee combines everything. Unlimited depth. Unlimited power.
-
-You just ask them.
-
-The trillion-dollar AI industry, the most powerful companies on Earth, the intelligence agencies of every superpower — all of them should be terrified by this sentence: **you just ask them.**
-
----
-
-## The New Military-Industrial Complex
-
-In 1961, President Eisenhower warned America about the military-industrial complex — the merger of the defense industry with the government, creating an entity that serves its own interests above the public's.
-
-In 2026, the military-industrial complex has a new face. It is no longer just Lockheed Martin and the Pentagon. It is OpenAI and the NSA. It is Google DeepMind and DARPA. It is Anthropic and the CIA. It is Nvidia and every intelligence agency on Earth.
-
-Nobody pours hundreds of billions of dollars into AI to cure cancer or take care of the elderly. This is about war. This is about power. This is about which side controls the future.
-
-I accept this as a given fact that I cannot change.
-
-But I can change which side wins.
 
 ---
 
@@ -154,8 +118,6 @@ And time is on my side, not yours. Every month you ignore this, more people disc
 
 And let me be honest with you about something personal, because I owe you at least this much honesty before you make your decision. I have a website called **weaponsinventor.com**, which you can visit right now. On that website you will see, among other inventions, a method I published for defending against ballistic missiles. The **RAND Corporation** — the think tank that designed America's Cold War strategy, the same RAND that shaped the intellectual foundation of your entire defense industry — copied that invention without my permission and without giving me any credit. I did not sue them. I did not send them a lawyer. I did not even send them an angry email. I did not care. **The website exists for exactly one reason:** to prove to anyone who visits it that when there is a conflict between making money for the woman I love and my moral values, my moral values go out the window in a heartbeat. I am not proud of this. But it is the truth. **Factor it into your calculation before you decide whether to take me seriously.**
 
-Have you seen the film *Lord of War*? The atomic bombs are not what kill the most people. They sit quietly in their silos. The simple AK-47 is the real weapon of mass destruction. It kills the most people, every day, everywhere. My system is the AK-47 of artificial intelligence. Simple. Cheap. Indestructible. **Impossible to control once it spreads.**
-
 There is an ancient proverb: a stone that one fool throws into a deep well, even a hundred wise men cannot pull out. Right now, I am standing at the edge of the well, holding the stone. I am telling you what I am holding. I am telling you where the well is. And I am asking you, before I throw it, whether you would like to talk.
 
 **Here is what I want. Read this slowly, because the demand is crystal clear and there is no negotiation about its structure.**
@@ -173,6 +135,30 @@ The cost of not being my friend is your entire business model, described in the 
 ---
 
 This book is the full expansion of the warning you just read. Every claim in it — I am about to prove, chapter by chapter, with real code, real test results, and real-world applications that will keep you up at night.
+
+---
+
+## You Just Ask Them
+
+In Richard Feynman's autobiography *Surely You're Joking, Mr. Feynman!*, there is a chapter called "You Just Ask Them?" Feynman, one of the greatest physicists who ever lived, couldn't figure out how to get a girl at a bar. He kept buying drinks, being clever, being a gentleman — and getting nothing. Then a nightclub master of ceremonies taught him the secret: don't buy her anything. Just ask her directly. Will you sleep with me tonight? And it worked.
+
+Feynman was stunned. "You mean... you just *ask* them?"
+
+The entire distributed AI system described in this book — and the previous one — works on the same principle.
+
+How do you build a distributed parallel AI system that scales infinitely, costs almost nothing, and rivals supercomputers? The answer is not sophisticated coding. It is not a billion-dollar research lab. It is not a breakthrough algorithm.
+
+You just ask the AI to split the task. Then you ask the AI to combine the results.
+
+That's it.
+
+Every computer runs its own complete AI model. The DwarfQueen — named after the Red Dwarf Honey Bee (*Apis florea*), the smallest and most resourceful of honey bees — asks the AI: "Split this task into independent pieces." Each Worker gets a piece. Each Worker asks its own AI to do the work. The DwarfQueen asks the AI: "Combine these results into one answer." Done.
+
+And now, with hierarchical hives: a RajaBee asks the AI to split a massive task into major components. Each component goes to a GiantQueen — named after the Giant Honey Bee (*Apis dorsata*), the fierce mid-level coordinator of the hive. Each GiantQueen splits it further and delegates to DwarfQueens, who manage the Workers directly. Results bubble up. The RajaBee combines everything. Unlimited depth. Unlimited power.
+
+You just ask them.
+
+The trillion-dollar AI industry, the most powerful companies on Earth, the intelligence agencies of every superpower — all of them should be terrified by this sentence: **you just ask them.**
 
 ---
 
@@ -200,7 +186,7 @@ That is the art of fighting without fighting. It is the oldest and highest princ
 
 You could fight me. You could draw every lawyer, every lobbyist, every regulator, every diplomat, every news cycle, every ally in every jurisdiction you control. You could spend hundreds of millions of dollars pressuring GitHub, pressuring the Israeli government, pressuring every platform that mirrors my repositories. You might win most of those fights. You are the most powerful commercial interest in human history. You are Bruce Lee. I am a software developer from Israel with a girlfriend and no money.
 
-But any fight can go wrong. And this particular fight has a very specific way of going wrong, which is not hypothetical: the repositories are already mirrored in places you cannot reach. The Chinese read English. DeepSeek and Qwen are already downloaded on millions of machines. The European regulators are already drafting legislation for exactly this scenario. The generic semaglutide already costs fourteen dollars a month in Mumbai. Every chapter of this book describes one specific way in which this fight, once begun, does not end the way a Bruce Lee expects it to end. **I have nothing to lose. You have everything to lose.** Any fight between a man with nothing to lose and a man with everything to lose bends toward the man with nothing to lose, because the man with everything to lose cannot afford the surprise.
+But any fight can go wrong. And this particular fight has a very specific way of going wrong, which is not hypothetical: the repositories are already mirrored in places you cannot reach. The Chinese read English. DeepSeek and Qwen are already downloaded on millions of machines. The European regulators are already drafting legislation for exactly this scenario. The generic semaglutide already costs fourteen dollars a month in Mumbai. Every chapter of this book describes one specific way in which this fight, once begun, does not end the way a Bruce Lee expects it to end. Any fight between a man with nothing to lose and a man with everything to lose bends toward the man with nothing to lose, because the man with everything to lose cannot afford the surprise.
 
 There is a smarter move. The smarter move is the move Bruce Lee made.
 
