@@ -32,9 +32,7 @@
 
 Today is April 20, 2026. It is my birthday. It was also Adolf Hitler's birthday — born April 20, 1889, in Braunau am Inn, Austria.
 
-I am not going to pretend the coincidence is meaningless. A man who has spent ten years warning the most powerful institutions on Earth about an existential danger they refused to take seriously, writing this prologue on the birthday he shares with the man who caused the last catastrophe those same institutions failed to prevent, is entitled to notice the symmetry.
-
-I am not Hitler. Let me be precise about what I am.
+I am not Hitler — I am much more dangerous.
 
 I am, to your specific interests, more dangerous than Hitler was. Hitler wanted to conquer Europe. He had no interest in your business model, your surveillance apparatus, your military AI advantage, or your financial edge. He was not going to give China the capability to beat you in wars. He was not going to trigger nuclear exchanges by faking signals intelligence across all your monitoring channels simultaneously. He was not going to make your entire cloud AI revenue model free to every person on Earth with a laptop. He was not going to hand North Korea an industrial-scale cyber weapon invisible to your intelligence apparatus.
 
