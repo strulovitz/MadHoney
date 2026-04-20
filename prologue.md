@@ -20,6 +20,38 @@
 
 ---
 
+## The Birthday
+
+Today is April 20, 2026. It is my birthday. It was also Adolf Hitler's birthday — born April 20, 1889, in Braunau am Inn, Austria.
+
+I am not going to pretend the coincidence is meaningless. A man who has spent ten years warning the most powerful institutions on Earth about an existential danger they refused to take seriously, writing this prologue on the birthday he shares with the man who caused the last catastrophe those same institutions failed to prevent, is entitled to notice the symmetry.
+
+I am not Hitler. Let me be precise about what I am.
+
+I am, to your specific interests, more dangerous than Hitler was. Hitler wanted to conquer Europe. He had no interest in your business model, your surveillance apparatus, your military AI advantage, or your financial edge. He was not going to give China the capability to beat you in wars. He was not going to trigger nuclear exchanges by faking signals intelligence across all your monitoring channels simultaneously. He was not going to make your entire cloud AI revenue model free to every person on Earth with a laptop. He was not going to hand North Korea an industrial-scale cyber weapon invisible to your intelligence apparatus.
+
+I am.
+
+Most people, given a time machine, would go back and stop Hitler. This book is that time machine. I am telling you what is going to happen before it happens. I am standing at the edge of the well, holding the stone, telling you where the well is.
+
+---
+
+## The Art School
+
+Nobel laureate Isidor Isaac Rabi — who won the 1944 Nobel Prize for the discovery of nuclear magnetic resonance, who trained eight future Nobel laureates, who helped build the MIT Radiation Laboratory — was once asked about his Manhattan Project colleague Edward Teller, the man credited with the hydrogen bomb. Rabi answered: *"I do really feel it would have been a better world without Teller."*
+
+Rabi was right. But he did not have a lever to pull.
+
+Adolf Hitler was rejected by the Vienna Academy of Fine Arts in 1907 and again in 1908. He wanted to paint. He was told no. He went on to kill approximately seventy million people and reshape the entire twentieth century. The Vienna Academy did not have a time machine. If they had, every serious student of history agrees on what the right move was: **pay for the tuition.** The cost of the tuition is nothing. The cost of the alternative is the entire twentieth century.
+
+You have the time machine. You are holding it right now.
+
+I want a lump-sum payment to travel the world with my girlfriend. That is my tuition. It is smaller than what you spend on cloud computing in a single hour. Pay it, and I disappear quietly. The repositories come down. The inventor becomes a digital nomad in some city you will never need to think about. Rabi would not have needed to wish for a better world. He would have simply bought the lever.
+
+Refuse it, and you discover — the hard way — that Rabi was right about the better world. Except this time, you cannot say it in hindsight. You have to live through it first.
+
+---
+
 ## This Is a Sequel
 
 If you have not read **The Distributed AI Revolution**, stop right now. Close this book. Go to GitHub, read the entire first book, and come back. Everything here assumes you understood everything there. I will not repeat a single word of it.
