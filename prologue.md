@@ -10,20 +10,6 @@
 >
 > — J. Robert Oppenheimer, after Trinity, July 16, 1945
 
-> *For want of a nail the shoe was lost;*
->
-> *For want of a shoe the horse was lost;*
->
-> *For want of a horse the rider was lost;*
->
-> *For want of a rider the battle was lost;*
->
-> *For want of a battle the kingdom was lost,*
->
-> *And all for the want of a horseshoe nail.*
->
-> — Traditional English proverb, earliest known version 13th century
-
 *1 honey bee stinger does nothing. 1000 honey bee stingers kill you.*
 
 ---
