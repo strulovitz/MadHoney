@@ -26,11 +26,9 @@
 
 *1 honey bee stinger does nothing. 1000 honey bee stingers kill you.*
 
-**I have nothing to lose. You have everything to lose.**
-
 ---
 
-## The Birthday
+## I Have Nothing to Lose. You Have Everything to Lose.
 
 Today is April 20, 2026. It is my birthday. It was also Adolf Hitler's birthday — born April 20, 1889, in Braunau am Inn, Austria.
 
