@@ -26,21 +26,21 @@ This book assumes you have read and understood **[The Distributed AI Revolution]
 
 | # | Chapter | Description |
 |---|---------|-------------|
-| | [Prologue — The Letter](prologue.md) | Feynman "You Just Ask Them?", the full threatening letter, military-industrial complex framing |
-| 1 | [Why OpenAI, Google DeepMind, Anthropic, xAI, and Meta Should Care](chapter_01.md) | 90% of what customers pay for becomes free. China wins. |
-| 2 | [Why the Pentagon, Department of Defense, and DARPA Should Care](chapter_02_pentagon.md) | DARPA: industrialized social engineering steals secrets. Pentagon: fake reality for decision makers. DoD: billion-dollar AI centers are physical targets. |
-| 3a | [Why the NSA, GCHQ, Five Eyes (CSE, ASD, GCSB), BND, DGSE, and CNI Should Care — Part 1: Intelligence](chapter_03a.md) | Local AI = invisible to surveillance. China gains what America loses. |
-| 3b | [Why the NSA, GCHQ, Five Eyes (CSE, ASD, GCSB), BND, DGSE, and CNI Should Care — Part 2: Cyber Warfare](chapter_03b.md) | Hierarchical AI hives = parallel hacking at scale, invisible to defenders. |
-| 4 | [Why Eli Lilly, Pfizer, Johnson & Johnson, AbbVie, AstraZeneca, Merck, and Novo Nordisk Should Care](chapter_04_pharma.md) | Ten angles: GEO channel, generic collapse, Palantir-insurance golf club, AlphaFold killer, GLP-1 monoculture + Confusion Industry, Tylenol/opioids/McKinsey/Pusztai/CIMAvax, sales rep replacement, patent race (F-35 for molecules), counterfeit apocalypse, FDA as only the front door. |
-| 5 | [Why JPMorgan Chase, Goldman Sachs, Morgan Stanley, Bank of America, and Citigroup Should Care](chapter_05_finance.md) | The curtain falls: hacking exposes how Wall Street really works. Poor man's Mythos levels the playing field. The bubble machine. |
-| 6 | [Why Lockheed Martin, RTX (Raytheon), Northrop Grumman, Boeing, and General Dynamics Should Care](chapter_06_defense_contractors.md) | Distributed simulation replaces $320K/yr engineering tools. China brute-forces weapon design on consumer hardware. |
-| 7 | [Why AeroVironment, General Atomics, Anduril, Skydio, Shield AI, and Kratos Should Care](chapter_07.md) | Drone companies: hierarchical hives outperform centralized drone AI |
-| 8 | [Why Boston Dynamics, Tesla Optimus, Figure AI, and Agility Robotics Should Care](chapter_08_robotics.md) | Distributed robot training replaces NVIDIA's $6M GPU clusters. China's $20K robots + free training = game over. |
-| 9 | [Why the European Commission and EU AI Act Regulators Should Care](chapter_09_eu.md) | Brussels is the subject, Washington is the audience. Europe will pivot pro-China overnight by running DeepSeek/Qwen on hierarchical hives on European hardware. Silicon Valley loses its largest non-US market. |
-| 10 | [The Proof — We Ran It](chapter_10_the_proof.md) | Real tests, real timestamps, real results. Three experiments, five bugs, one insect. |
-| 11 | [How We Built It](chapter_11_how_we_built_it.md) | Four thousand lines of Python. The code, the architecture, the matchmaker website, the Buzzing calibration. |
-| 12 | [Am I Bluffing? — The Free the AI Connection](chapter_12_am_i_bluffing.md) | FAQ + the decade of activism + four purposes of credibility + the Chofetz Chaim's temporary guest + the safety lock + the standing order about her safety + the Free the AI vision. |
-| | [Epilogue — What Do You Care What Other People Think?](epilogue.md) | Feynman + Arline, burn the desert, Maslow's pyramid, choose your fate |
+| | [Prologue — The Warning](prologue.md) | Hitler's birthday. The art school tuition. The time machine. What you are holding and what it costs to make it disappear. |
+| 1 | [Why OpenAI, Google DeepMind, Anthropic, xAI, and Meta Should Care](chapter_01.md) | 90% of what your customers pay for becomes free overnight. One open-source repo ends your revenue model. China is already watching. |
+| 2 | [Why the Pentagon, Department of Defense, and DARPA Should Care](chapter_02_pentagon.md) | DARPA secrets stolen at industrial scale. Pentagon decision-makers fed fake reality. Your billion-dollar AI centers become physical targets. Distributed hives are invisible to everything you built to stop them. |
+| 3a | [Why the NSA, GCHQ, Five Eyes (CSE, ASD, GCSB), BND, DGSE, and CNI Should Care — Part 1: Intelligence](chapter_03a.md) | Local AI leaves no cloud footprint — invisible to every surveillance system you operate. China gains the dark. You lose the light. |
+| 3b | [Why the NSA, GCHQ, Five Eyes (CSE, ASD, GCSB), BND, DGSE, and CNI Should Care — Part 2: Cyber Warfare](chapter_03b.md) | A hive of cheap AI agents hacks thousands of targets in parallel. Your defenders see one connection at a time. The attackers don't. |
+| 4 | [Why Eli Lilly, Pfizer, Johnson & Johnson, AbbVie, AstraZeneca, Merck, and Novo Nordisk Should Care](chapter_04_pharma.md) | Ten angles: generic AI drug discovery, patent races on consumer hardware, sales force replacement, AlphaFold-killer, FDA bypass, counterfeit at scale, GLP-1 monoculture, the Confusion Industry, opioid exposure, and the McKinsey documents. Pick any three and your decade is over. |
+| 5 | [Why JPMorgan Chase, Goldman Sachs, Morgan Stanley, Bank of America, and Citigroup Should Care](chapter_05_finance.md) | The curtain falls. Hierarchical AI exposes how Wall Street actually works. The bubble machine breaks. The edge you have always had disappears the day this goes mainstream. |
+| 6 | [Why Lockheed Martin, RTX (Raytheon), Northrop Grumman, Boeing, and General Dynamics Should Care](chapter_06_defense_contractors.md) | China brute-forces F-35-level weapon design on $95 computers. Distributed simulation replaces your $320K engineering tools. Your cost advantage is already gone. |
+| 7 | [Why AeroVironment, General Atomics, Anduril, Skydio, Shield AI, and Kratos Should Care](chapter_07.md) | A $1,600 autonomous AI drone coordinated by a hive outperforms your $32M Reaper. This is not a prediction. Ukraine already proved it. |
+| 8 | [Why Boston Dynamics, Tesla Optimus, Figure AI, and Agility Robotics Should Care](chapter_08_robotics.md) | China's $20K robot plus free distributed training equals your $75K robot plus $6M GPU cluster — at one tenth the price. |
+| 9 | [Why the European Commission and EU AI Act Regulators Should Care](chapter_09_eu.md) | Europe pivots to Chinese AI the day DeepSeek runs inside a European hive on European hardware. Brussels is the subject. Washington is the audience. Silicon Valley loses its second-largest market. |
+| 10 | [The Proof — We Ran It](chapter_10_the_proof.md) | Real experiments, real timestamps, real results. Three tests across two machines in two rooms. Everything in this chapter is on GitHub and anyone can verify it. |
+| 11 | [How We Built It](chapter_11_how_we_built_it.md) | Four thousand lines of Python. Free AI models. Consumer hardware. No cloud, no subscription, no export control. The instructions are in this chapter. |
+| 12 | [Am I Bluffing?](chapter_12_am_i_bluffing.md) | Ten years of public record. Four books. Hundreds of outreach letters. A standing order. This is not a first move — it is the last warning before the move is made. |
+| | [Epilogue — What Do You Care What Other People Think?](epilogue.md) | Feynman and Arline. Burn the desert. Choose your fate. |
 
 ---
 
