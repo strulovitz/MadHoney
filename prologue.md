@@ -2,6 +2,14 @@
 
 ---
 
+> *"The only winning move is not to play."*
+>
+> — *WarGames* (1983)
+
+> *"Now I am become Death, the destroyer of worlds."*
+>
+> — J. Robert Oppenheimer, after Trinity, July 16, 1945
+
 > *For want of a nail the shoe was lost;*
 >
 > *For want of a shoe the horse was lost;*
