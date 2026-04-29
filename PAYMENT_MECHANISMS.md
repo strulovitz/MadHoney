@@ -2,9 +2,9 @@
 
 **Standalone reference for outreach. Full version embedded in `prologue.md` ("How To Pay Me Without Awkwardness").**
 
-The wire-transfer ask in *Mad Honey* is not blocked by any structural problem. Every Big AI company already has finance and legal mechanisms in routine use that produce a one-time lump-sum payment to an external party with a clean tax code, a clean paper trail, and a defensible internal narrative. The list below catalogues them.
+The wire-transfer ask in *Mad Honey* is not blocked by any structural problem. Every institution named in this book — Big AI labs, the Pentagon and DARPA, the NSA and Five Eyes intelligence services, Big Pharma, Wall Street investment banks, defense contractors, drone manufacturers, robotics labs, and the European Commission — already has finance and legal mechanisms in routine use that produce a one-time lump-sum payment to an external party with a clean tax code, a clean paper trail, and a defensible internal narrative. The list below catalogues them.
 
-The amount is the same in every case. Pick the one that fits your culture.
+Each chapter of this book explains why one of those institutions should be the one to act. They cannot all act. The first to wire wins the silence; the others read about it in the news. The amount is the same in every case. Pick the mechanism that fits your culture.
 
 ---
 
@@ -48,7 +48,7 @@ The amount is the same in every case. Pick the one that fits your culture.
 
 ## 🏛️ Government / contractor-routed mechanisms
 
-12. **Defense-contract sub-routing.** Sub-contract under existing DARPA / Pentagon / IARPA program for "advanced distributed-architecture concepts." Available to firms with defense touchpoints (Palantir-adjacent, Bedrock defense lines, etc.). Tax code: government-contract sub-disbursement.
+12. **Defense-contract sub-routing.** Sub-contract under an existing DARPA / Pentagon / IARPA / NSA program for "advanced distributed-architecture concepts." Most natural for the defense and intelligence audiences directly — Pentagon, DARPA, NSA, Five Eyes, defense contractors, drone manufacturers — but any Big AI lab with defense touchpoints (Palantir-adjacent, Bedrock defense lines, classified deployment work) can also route through this mechanism. Tax code: government-contract sub-disbursement.
 
 ---
 
@@ -56,12 +56,15 @@ The amount is the same in every case. Pick the one that fits your culture.
 
 | Goal | Best mechanism |
 |------|----------------|
-| Maximum public defensibility, positive press cycle | **#6 Bug bounty (scaled)** |
+| Maximum public defensibility, positive press cycle | **#6 Responsible-disclosure award (scaled)** |
 | Maximum discretion, no public footprint | **#8 Pre-litigation buyout + #9 NDA signing bonus** |
 | Cleanest accounting paper trail | **#5 Shell-company M&A** |
-| Most precedent within the industry | **#1 Acqui-hire** |
-| Charitable / philanthropic narrative | **#7 AI-safety research grant** |
-| Defense-contractor companies specifically | **#12 Defense sub-routing** |
+| Most precedent within the tech industry | **#1 Acqui-hire** |
+| Charitable / philanthropic narrative | **#7 Research grant to inventor's foundation** |
+| Defense / intelligence agencies and contractors | **#12 Government-contract sub-routing** |
+| Pharma — most natural fit | **#7 Research grant** or **#10 Distinguished-Fellow appointment** |
+| Wall Street and finance — most natural fit | **#9 NDA signing bonus** or **#5 Shell-company M&A** |
+| EU institutions — most natural fit | **#7 Research grant** or **#10 Endowed chair** |
 
 ---
 
@@ -75,6 +78,8 @@ The amount is the same in every case. Pick the one that fits your culture.
 - Threat is closed
 
 The constraint is not the mechanism. The constraint is the wire-transfer button.
+
+Whichever of you moves first secures the silence. The others read about it in the news.
 
 ---
 

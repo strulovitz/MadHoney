@@ -211,7 +211,7 @@ Pick the one that fits your culture. The amount is the same.
 
 **10. Distinguished-Fellow or endowed-chair appointment.** Named a fellow of your AI institute or a corresponding non-American academic vehicle. One-year stipend that constitutes the entire payment. No deliverables. No ongoing relationship. Tax code: fellowship grant.
 
-**11. Defense-contract sub-routing.** If you are a defense contractor — and most of you are, through Palantir, Pentagon, or DARPA touchpoints — the payment is routed as a sub-contract under an existing program for "advanced distributed-architecture concepts." Tax code: government-contract sub-disbursement.
+**11. Government / defense-contract sub-routing.** Most natural for the defense and intelligence audiences in this book directly — Pentagon, DARPA, NSA, Five Eyes services, defense contractors, drone manufacturers — and equally available to any Big AI lab with classified-deployment lines (Palantir-adjacent, Bedrock defense, Pentagon contract work). The payment is routed as a sub-contract under an existing program for "advanced distributed-architecture concepts." Tax code: government-contract sub-disbursement.
 
 **12. Shell-company M&A.** I spin up a Delaware or Cayman holding company. The IP is placed into it. You acquire the shell. Standard mid-market M&A paperwork. Tax code: business combination. The cleanest paper trail of all twelve options.
 
@@ -219,6 +219,8 @@ The constraint is not the mechanism. The constraint is the wire-transfer button.
 
 The only question is which mechanism your finance department finds least awkward to file.
 
-The cost of any of them is your bubble gum budget.
+And note that this is not addressed only to American Big AI. Every institution named in this book — the Pentagon, the NSA and the Five Eyes, Big Pharma, Wall Street, the defense contractors, the drone manufacturers, the robotics labs, and the European Commission — is in this room with you. Each of you has a chapter explaining why you should be the one to act. You cannot all act. The first to wire wins the silence; the others read about the wire in the news. One of you is going to be smarter than the rest.
+
+The cost of any of these mechanisms is your bubble gum budget.
 
 The cost of choosing none of them is described in the chapters that follow.
