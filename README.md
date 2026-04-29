@@ -41,6 +41,7 @@ This book assumes you have read and understood **[The Distributed AI Revolution]
 | 11 | [How We Built It](chapter_11_how_we_built_it.md) | Four thousand lines of Python. Free AI models. Consumer hardware. No cloud, no subscription, no export control. The instructions are in this chapter. |
 | 12 | [Am I Bluffing?](chapter_12_am_i_bluffing.md) | Ten years of public record. Four books. Hundreds of outreach letters. A standing order. This is not a first move — it is the last warning before the move is made. |
 | | [Epilogue — What Do You Care What Other People Think?](epilogue.md) | Feynman and Arline. Burn the desert. Choose your fate. |
+| | [Appendix — Payment Mechanisms](PAYMENT_MECHANISMS.md) | Twelve clean, defensible mechanisms by which a Big AI company can wire the lump sum without internal awkwardness — acqui-hire, asset purchase, scaled bug bounty, NDA signing bonus, distinguished-fellow appointment, shell-company M&A, and more. The constraint is not the mechanism. The constraint is the wire-transfer button. |
 
 ---
 
