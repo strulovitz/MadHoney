@@ -187,7 +187,7 @@ The choice is yours.
 
 ## How To Pay Me Without Awkwardness
 
-You may have read this far and concluded that the only obstacle is internal — that your CFO, your General Counsel, your investor-relations team, and your board will find a one-time wire transfer to an Israeli inventor impossible to defend. They will not. The mechanisms below are routine. Every one of them is already in your finance department's playbook. Every one of them has a tax code, a precedent, and a cleanly audited paper trail.
+Whether you are reading this from Big AI, the Pentagon, the NSA and Five Eyes, Big Pharma, Wall Street, a defense contractor, a drone manufacturer, a robotics lab, or the European Commission — the obstacle you may believe stands in the way is internal. Your CFO. Your General Counsel. Your oversight body. Your board. You fear they will find a one-time wire transfer to an Israeli inventor impossible to defend. They will not. The mechanisms below are routine. Every one of them is already in your finance department's playbook. Every one of them has a tax code, a precedent, and a cleanly audited paper trail. Several include some form of exclusivity — exclusive licensing, exclusive advisory engagement, exclusive rights transfer — which is the standard contractual hook that justifies the payment to whichever side asks.
 
 Pick the one that fits your culture. The amount is the same.
 
@@ -217,9 +217,7 @@ Pick the one that fits your culture. The amount is the same.
 
 The constraint is not the mechanism. The constraint is the wire-transfer button. Every mechanism above produces the same outcome: I receive a one-time payment to multiple non-American banks of my choosing, in multiple jurisdictions, in multiple currencies; the repositories come down; the books go out of print; the inventor disappears; the threat is closed.
 
-The only question is which mechanism your finance department finds least awkward to file.
-
-And note that this is not addressed only to American Big AI. Every institution named in this book — the Pentagon, the NSA and the Five Eyes, Big Pharma, Wall Street, the defense contractors, the drone manufacturers, the robotics labs, and the European Commission — is in this room with you. Each of you has a chapter explaining why you should be the one to act. You cannot all act. The first to wire wins the silence; the others read about the wire in the news. One of you is going to be smarter than the rest.
+Every one of these mechanisms is common, easy, legitimate, defensible to auditors and shareholders, and quiet. The only question is which one your finance department finds least awkward to file.
 
 The cost of any of these mechanisms is your bubble gum budget.
 

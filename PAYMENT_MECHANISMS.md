@@ -2,9 +2,9 @@
 
 **Standalone reference for outreach. Full version embedded in `prologue.md` ("How To Pay Me Without Awkwardness").**
 
-The wire-transfer ask in *Mad Honey* is not blocked by any structural problem. Every institution named in this book — Big AI labs, the Pentagon and DARPA, the NSA and Five Eyes intelligence services, Big Pharma, Wall Street investment banks, defense contractors, drone manufacturers, robotics labs, and the European Commission — already has finance and legal mechanisms in routine use that produce a one-time lump-sum payment to an external party with a clean tax code, a clean paper trail, and a defensible internal narrative. The list below catalogues them.
+The wire-transfer ask in *Mad Honey* is not blocked by any structural problem. The institutions addressed in this book — Big AI labs, the Pentagon and DARPA, the NSA and Five Eyes intelligence services, Big Pharma, Wall Street, defense contractors, drone manufacturers, robotics labs, and the European Commission — all have finance and legal mechanisms in routine use that produce a one-time lump-sum payment to an external party with a clean tax code, a clean paper trail, and a defensible internal narrative. These mechanisms are standard practice. Several of them include some form of exclusivity — exclusive licensing, exclusive advisory engagement, exclusive rights transfer — which is the standard contractual hook that justifies the payment to whichever side asks.
 
-Each chapter of this book explains why one of those institutions should be the one to act. They cannot all act. The first to wire wins the silence; the others read about it in the news. The amount is the same in every case. Pick the mechanism that fits your culture.
+The list below catalogues twelve of them. The amount is the same in every case. Pick the mechanism that fits your culture.
 
 ---
 
@@ -77,9 +77,7 @@ Each chapter of this book explains why one of those institutions should be the o
 - Inventor disappears as a public entity
 - Threat is closed
 
-The constraint is not the mechanism. The constraint is the wire-transfer button.
-
-Whichever of you moves first secures the silence. The others read about it in the news.
+The constraint is not the mechanism. Every one of these is common, easy, legitimate, defensible to auditors and shareholders, and quiet.
 
 ---
 
