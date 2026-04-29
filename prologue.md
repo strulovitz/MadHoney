@@ -182,3 +182,43 @@ That is what the master does.
 > — Bruce Lee, *Enter the Dragon* (1973)
 
 The choice is yours.
+
+---
+
+## How To Pay Me Without Awkwardness
+
+You may have read this far and concluded that the only obstacle is internal — that your CFO, your General Counsel, your investor-relations team, and your board will find a one-time wire transfer to an Israeli inventor impossible to defend. They will not. The mechanisms below are routine. Every one of them is already in your finance department's playbook. Every one of them has a tax code, a precedent, and a cleanly audited paper trail.
+
+Pick the one that fits your culture. The amount is the same.
+
+**1. Acqui-hire — without the actual hiring.** Internally framed as: *"Acquired the inventor and his IP."* Cash up-front, the technical "vesting" period waived or set to a token interval. The inventor walks away after signing. **Precedent:** the Steinberger and Schlicht acquisitions you have already executed in the past year. Defensible to auditors. Defensible to shareholders. Defensible to the press.
+
+**2. Asset purchase — buy the GitHub repository as IP.** Internally framed as: *"Acquired the codebase to consolidate the architecture under our governance."* The seller's obligation in the purchase agreement is to take down all original copies and forks under his control. Tax code: intangible asset / capital expenditure.
+
+**3. Trade-secret purchase.** The architecture is published. The implementation details, the unpublished test logs, the operating know-how, and the next-iteration research direction are not. Those are classifiable as trade secrets and purchasable in their own right. Tax code: intangible asset.
+
+**4. Publishing-rights acquisition.** Your publishing arm — or any imprint your venture team controls — acquires the rights to *The Distributed AI Revolution* and *Mad Honey*. The books are quietly let go out of print. Tax code: content acquisition.
+
+**5. Critical-tier responsible-disclosure award (bug bounty, scaled).** This is your most defensible option in the press cycle. Internally framed as: *"The largest responsible-disclosure award in industry history, recognizing the proactive disclosure of an architectural risk to global AI infrastructure."* You can publicly celebrate this payment. The narrative writes itself. Tax code: security expenditure.
+
+**6. AI-safety research grant.** A grant from a consortium fund (yours, or one you contribute to) to my personal research foundation in a non-American jurisdiction. Defensible as funding independent AI-safety research aligned with your mission. Tax code: research / philanthropic disbursement (often tax-deductible for the donor).
+
+**7. Confidential pre-litigation buyout.** Settlement of any current or future claim — copyright, trade-secret misappropriation, NDA in either direction. Confidential by design. Tax code: legal expense.
+
+**8. NDA signing bonus + perpetual cooperation restriction.** I sign a non-disclosure agreement, a non-compete, and a perpetual cooperation restriction. Substantial signing bonus. The legal artifact justifies the payment regardless of whether the underlying restrictions actually constrain anything further. Tax code: protective legal expenditure.
+
+**9. One-time strategic-advisory engagement.** I am engaged for a single deliverable — an architectural review, a closed-door workshop, a keynote at your internal AI summit. Paid in full up front. The deliverable can be the publication and briefing already in your hands. Tax code: professional services.
+
+**10. Distinguished-Fellow or endowed-chair appointment.** Named a fellow of your AI institute or a corresponding non-American academic vehicle. One-year stipend that constitutes the entire payment. No deliverables. No ongoing relationship. Tax code: fellowship grant.
+
+**11. Defense-contract sub-routing.** If you are a defense contractor — and most of you are, through Palantir, Pentagon, or DARPA touchpoints — the payment is routed as a sub-contract under an existing program for "advanced distributed-architecture concepts." Tax code: government-contract sub-disbursement.
+
+**12. Shell-company M&A.** I spin up a Delaware or Cayman holding company. The IP is placed into it. You acquire the shell. Standard mid-market M&A paperwork. Tax code: business combination. The cleanest paper trail of all twelve options.
+
+The constraint is not the mechanism. The constraint is the wire-transfer button. Every mechanism above produces the same outcome: I receive a one-time payment to multiple non-American banks of my choosing, in multiple jurisdictions, in multiple currencies; the repositories come down; the books go out of print; the inventor disappears; the threat is closed.
+
+The only question is which mechanism your finance department finds least awkward to file.
+
+The cost of any of them is your bubble gum budget.
+
+The cost of choosing none of them is described in the chapters that follow.
