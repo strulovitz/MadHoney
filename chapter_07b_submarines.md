@@ -130,6 +130,60 @@ China is in a position to accept those costs. Russia, in a worse strategic posit
 
 ---
 
+## Who Has Actually Used Nuclear Weapons
+
+The previous sections describe the collapse of MAD as if it were unambiguously a strategic loss. From inside the American defense establishment, that is exactly how it looks. From outside, the picture is the inverse.
+
+The historical record is one paragraph long. Nuclear weapons have been used against human populations exactly twice in human history: at Hiroshima on August 6, 1945, and at Nagasaki on August 9, 1945. The country that used them in both cases was the United States. Casualties from those two strikes are estimated at 129,000 to 226,000 people — the majority of them civilians, the majority of those women, children, and the elderly.
+
+No other nuclear power has ever used a nuclear weapon against another country. The Soviet Union (later Russia), the United Kingdom, France, China, India, Pakistan, Israel, and North Korea have together held thousands of warheads for between five and seventy-five years; not one of those warheads has been delivered against a population. The only country in human history that has crossed the line from possessing nuclear weapons to using them on people is the country that has held the largest arsenal for the longest time, and that built the post-1945 international order around its possession of those weapons.
+
+This matters for evaluating what "the collapse of MAD" actually means for the world.
+
+---
+
+## What "Strategic Stability" Has Actually Stabilized
+
+Since 1949, the canonical phrase has been "strategic stability." Every American defense document, every NATO planning paper, every nonproliferation treaty preamble invokes it. The official meaning is "the absence of nuclear war between great powers, secured by mutual deterrence."
+
+The operational meaning has been narrower. "Strategic stability" has stabilized one specific arrangement: American military power can be projected globally — into Korea, Vietnam, Iraq, Afghanistan, Serbia, Libya, Syria, Yemen, dozens of smaller engagements — and the country on the receiving end cannot escalate against the United States in any meaningful way, because doing so would risk a nuclear response from the only country that has ever used one. The implicit threat is not a hypothesis. It is the historical record.
+
+For the recipient of American foreign policy, "strategic stability" has meant: *the country that has used nuclear weapons before could use them again, and the country whose government you live under cannot deter that*. Most American foreign-policy literature treats this as a feature. Most non-American foreign-policy literature treats this as a problem.
+
+This is not a fringe view. It is the implicit foundation of every non-aligned movement since the 1950s, every Latin American nuclear-weapon-free zone, every African demand for denuclearization, every Asian critique of American basing rights, every European complaint about American Cold War decisions made over the heads of European publics. The Global South has been telling the Global North for seventy-five years that the post-1945 nuclear order is American coercion dressed in the language of stability. The Global North has not listened, because it has not had to.
+
+---
+
+## What MAD Collapse Means For The Other 96% Of Humanity
+
+The United States has roughly 4% of the world's population. The other 96% — about 7.7 billion people — live in countries that have never built the size of nuclear arsenal that defines great-power deterrence, and in many cases live in countries that have at some point in the last eighty years been on the receiving end of either American military force or the implicit threat of it.
+
+For those 7.7 billion people, the strategic consequence of the hive's collapse of American second-strike capability is the inverse of what it is for the American defense establishment:
+
+- **The implicit nuclear backstop of American conventional intervention is gone.** American military operations can no longer factor in "and if anyone fights back, we still have nukes." Conventional aggression becomes more expensive, not less. The cost-benefit analysis tilts toward restraint, not escalation.
+
+- **American coercive diplomacy becomes one-sided in the opposite direction from the perspective in the previous section.** The American negotiator can no longer rely on the implicit threat of escalation to a level the other side cannot reach. Negotiations with China, Russia, Iran, and other adversary states reset to a footing where the American side has the same incentives the other side has had all along.
+
+- **The country that has actually used nuclear weapons before now lives under the same constraints every other nuclear power has always lived under**: arsenal as deterrent only, no first-use option that wins, no credible threat to deliver them and survive. The asymmetry that has structured eighty years of foreign policy collapses.
+
+- **The non-aligned countries that have spent seventy-five years asking for denuclearization get something stronger than they asked for**. Not American disarmament — American *neutralization*, accomplished by the survivability of the other side's response. The arsenals do not have to be dismantled to lose their coercive utility.
+
+This is not stated as advocacy. It is stated as the analytical inverse of the previous sections. From inside Washington, the hive's collapse of MAD is the worst strategic outcome since 1945. From outside, it is the first time since 1945 that the country with the historical record of using nuclear weapons has been brought into the same constraint structure as everyone else.
+
+---
+
+## What This Means For The Rest Of The Book
+
+This chapter sits in a book addressed primarily to American institutions — Big AI, the Pentagon, Big Pharma, Wall Street, defense contractors, the European Commission. The arguments throughout are written from the American institutional perspective, because those are the institutions whose decisions the book is trying to influence.
+
+The MAD chapter is no exception: most of its sections describe the loss of American second-strike capability as a strategic disaster, because that is the perspective from which an American policymaker will read it.
+
+But the truth-content of the chapter does not change with the perspective of the reader. The hive does end American second-strike capability. The hive does break MAD. *The American decision-maker reading this chapter must respond as if those facts are catastrophic, because for the American decision-maker they are.* But the reader from outside America — the European, the Latin American, the African, the South Asian, the East Asian — should read the same facts and understand that they describe the end of an arrangement that has cost their region, in many cases, more than it has ever cost the United States.
+
+The hive does not destroy the world. The hive ends the unilateral nuclear-backed projection of force by one specific country. Those are very different things.
+
+---
+
 ## The Cost Asymmetry Is One Thousand to One
 
 The American defense establishment has invested in the SSBN fleet for sixty years specifically because submarines are the survivable leg. Hundreds of billions of dollars have been spent on Ohio-class construction, maintenance, training, and the in-progress Columbia-class replacement program (estimated at over $130 billion across its lifetime). Hundreds of billions more on Trident missile development and warhead refurbishment.
