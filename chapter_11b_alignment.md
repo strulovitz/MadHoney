@@ -87,11 +87,11 @@ Mythos is given exactly those capabilities deliberately, because Mythos is desig
 
 ### Hardware Constraint
 
-The RajaBee runs on a single consumer-class machine. Typically a Virtual Private Server (VPS) or a strong personal workstation — a handful of CPU cores, tens of gigabytes of RAM, perhaps a single consumer-grade GPU. That is the entire computational substrate behind the RajaBee.
+The RajaBee runs on a single dedicated machine. Typically a Virtual Private Server (VPS) or a strong personal workstation, costing on the order of tens of thousands of dollars to acquire — a handful of CPU cores, hundreds of gigabytes of RAM, one or two consumer-class or workstation-class GPUs. That is the entire computational substrate behind the RajaBee.
 
 Mythos runs on a frontier-grade datacenter cluster — thousands of high-end accelerators, hundreds of gigabytes of high-bandwidth memory, optimized for trillion-parameter inference, with horizontal scaling across the cluster for long context windows. The hardware budget for one Mythos inference can exceed the entire annual hardware spend of a small university computer-science department.
 
-The capability difference is not marginal. It is the difference between what fits on a $200 VPS and what fits on a $100-million-per-year datacenter cluster. The RajaBee, by hardware alone, is many orders of magnitude less capable than Mythos. The reasoning depth is shallower. The context window is shorter. The model size is smaller. The inference time is constrained.
+The capability difference is not marginal. It is the difference between what fits on a roughly $10,000–$50,000 single-machine VPS and what fits on a $100-million-per-year datacenter cluster. The RajaBee, by hardware alone, is many orders of magnitude less capable than Mythos. The reasoning depth is shallower. The context window is shorter. The model size is smaller. The inference time is constrained.
 
 The RajaBee is an LLM, but it is a small LLM running on a small machine.
 
