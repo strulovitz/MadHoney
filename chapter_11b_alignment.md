@@ -77,9 +77,9 @@ Two reasons: **agentic constraint** and **hardware constraint**. Both are necess
 
 The RajaBee is given a specific job — decompose this task, dispatch sub-tasks to workers, combine the results, return the final answer. That is its entire scope. It is not given the things that make Mythos a frontier autonomous agent:
 
-- **No internet access.** The RajaBee cannot browse the web, query external APIs, or pull data from sources beyond the workers' answers.
-- **No self-scaffolding.** The RajaBee cannot install software packages, modify libraries, extend its own toolset on the fly, or write code that it then executes.
-- **No autonomous tool use.** The RajaBee cannot invoke tools beyond the dispatch protocol that takes a sub-task and sends it to a worker.
+- **No general web access.** In Public Mode the RajaBee does talk over the internet — but only to its own queens, and only through a strict structured request/response protocol that exchanges restricted-format files. The "internet" the RajaBee can reach is a one-protocol pipe to its own queens. It cannot browse the web, perform searches, scrape sites, query external APIs, or pull data from any source other than the answers its queens return.
+- **No self-scaffolding.** The RajaBee cannot install software packages, modify libraries, extend its own toolset on the fly, download tools, or write code that it then executes.
+- **No autonomous tool use.** The RajaBee cannot invoke tools beyond the dispatch protocol that takes a sub-task and sends it to a queen.
 - **No persistent memory across queries.** Each top-level task is fresh. The RajaBee does not maintain state between different users' tasks, and does not accumulate experience that could carry deceptive intent forward.
 - **No file-system write access for unsanctioned changes.** The git-history-hiding behavior Mythos demonstrated requires the model to write to a code repository it can manipulate. The RajaBee operates in a deployment in which the only output is the final answer returned to the user.
 
@@ -125,7 +125,7 @@ The hive denies one or more of those three conditions at every level:
 
 - The **intermediate queens** see only the sub-tasks they dispatched and the answers they received. They do not see the higher queen above them. They do not see the global task. They cannot model the global supervisor.
 
-- The **RajaBee** at the top does see the combined answers from below — it is an LLM, and combining intelligently is its job. But the RajaBee is denied the other two ingredients of frontier deception: it has no agentic tools (no internet, no self-scaffolding, no autonomous tool use, no persistent memory across queries) and it runs on consumer-class hardware (a VPS, not a datacenter cluster). Without those two, the RajaBee can think — but it cannot scheme deeply enough or act broadly enough to constitute the kind of risk Mythos represents.
+- The **RajaBee** at the top does see the combined answers from below — it is an LLM, and combining intelligently is its job. But the RajaBee is denied the other two ingredients of frontier deception: it has no agentic tools (its only network access is a strict structured protocol to its own queens — no web browsing, no search, no scraping, no self-scaffolding, no autonomous tool use, no persistent memory across queries) and it runs on consumer-class hardware (a VPS, not a datacenter cluster). Without those two, the RajaBee can think — but it cannot scheme deeply enough or act broadly enough to constitute the kind of risk Mythos represents.
 
 This is not alignment by training. It is alignment by **architecture (workers and intermediate queens are decomposed)**, by **agentic constraint (the RajaBee has no Mythos-style tool access)**, and by **resource limit (the RajaBee runs on consumer hardware, not a datacenter)**. All three together make the alignment property hold.
 
@@ -155,7 +155,7 @@ Three concrete properties any university research group can verify in one day on
 
 2. **Queens see only their dispatched sub-tasks and the returned answers.** A queen does not see the higher queen above it; it does not see the full task tree; it does not have access to the global state. This is verifiable by reading the source code.
 
-3. **The RajaBee at the top is constrained in agency and in hardware.** The deployment configuration must explicitly deny the RajaBee internet access, software-installation capability, autonomous tool use beyond the worker-dispatch protocol, and persistent cross-query memory. The hardware substrate must be consumer-class (e.g., a VPS or a personal workstation), not a frontier datacenter cluster. Both constraints must hold simultaneously — either alone is insufficient.
+3. **The RajaBee at the top is constrained in agency and in hardware.** The deployment configuration must explicitly limit the RajaBee's network access to the strict structured protocol with its own queens (no web browsing, no general internet, no search, no scraping, no external API calls), deny software-installation capability, deny autonomous tool use beyond the worker-dispatch protocol, and deny persistent cross-query memory. The hardware substrate must be consumer-class (e.g., a VPS or a personal workstation), not a frontier datacenter cluster. Both constraints must hold simultaneously — either alone is insufficient.
 
 If any one of these three properties fails to hold in the code, the alignment-by-architecture claim weakens. If all three hold, the claim holds.
 
