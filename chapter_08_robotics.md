@@ -127,9 +127,19 @@ In a factory, the DwarfQueen does not need a humanoid body at all. She can be a 
 
 Or she can have a humanoid body — same as the Workers, just smarter. The flexibility is the point. Our system does not care what the hardware looks like. Only the hierarchy matters.
 
-And here is something no centralized system can do: the DwarfQueen can move. Not her body — her mind. Copy her model weights to a computer on another continent, and she wakes up there, with all her knowledge, all her context, all her understanding of her Workers. Like the agents in The Matrix — they do not travel, they appear. A factory manager in Germany can "summon" a DwarfQueen from the Tokyo branch, complete with everything she learned there, to solve a problem in Stuttgart. Then send her back.
+And here is something no centralized cloud system can do: **the customer owns the queen's complete inference state — her weights, her sampling seed, her full activation trace — and can freeze that state, copy it, and ship it to another team for retrospective study.**
 
-This is not science fiction. It is copying a file.
+This matters when an LLM-based queen produces an unexpectedly brilliant result. LLM inference has randomness. A specific queen, on a specific machine, on a specific run, with a specific random seed and a specific sequence of attention patterns, may produce the **"Move 37"** of the problem — the insight no human and no centralized model would have proposed. (AlphaGo's Move 37 against Lee Sedol in 2016 was such a move: every human expert dismissed it as a mistake; commentators estimated a human would play it once in ten thousand games; Lee Sedol left the room for fifteen minutes; Move 37 won the game.)
+
+When a queen produces a Move 37, researchers want to study it. They want to verify it is not a hallucination. They want to understand why it works. They want to reproduce the conditions that produced it. They want to extract the principle for the next generation of queens. For all four of those tasks, they need the exact weights at the moment of the insight, the exact input that produced it, the exact random seed that drove the sampling, and the full activation trace inside the model.
+
+**Cloud Big AI gives the customer none of those.** The customer never has access to the model weights. The customer never has access to the inference internals. The customer cannot replay the exact run. All they get is the output text — and the lucky serendipity is gone the moment the API call returns.
+
+**The hive customer owns all of it.** Weights, seed, input, activations. The complete frozen state can be copied to another machine on another continent and the run can be reproduced exactly, or studied at a different speed, or analyzed layer by layer.
+
+This is the Dr. Jekyll problem in reverse. In Stevenson's novel, Jekyll cannot recreate his transformative potion because the original batch of salt was contaminated with an unknown impurity that he did not know to preserve, and his purer subsequent batches failed. Scientific serendipity — the lucky combination of conditions that produced the insight — was unrepeatable because the original conditions were not saved. **The hive is the laboratory where the conditions ARE saved.** The lucky impurity is the queen's exact frozen state, and the hive owner can keep it, study it, copy it, and build the next generation on top of it.
+
+This is not science fiction. It is copying a file — but the file preserves a moment of insight, not just an operational role.
 
 ---
 
