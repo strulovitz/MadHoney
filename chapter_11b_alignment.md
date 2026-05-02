@@ -59,23 +59,77 @@ When the hive receives a task, the queen splits it into independent sub-tasks. E
 
 A worker has none of the four structural ingredients of agency. It cannot sandbag, because it does not see a "test" — it sees a sub-task. It cannot hide its work, because the queen sees the answer it returns and the worker has no other channel of communication.
 
-The queen sees only the sub-tasks it dispatched and the answers it received. It does not see the larger task either — it is itself a worker for the queen above. **The hierarchy is recursive. Each level sees only its slice.** There is no level at which any single agent has the unified perspective, the persistent state, the planning horizon, and the observer-modeling capacity required to deceive coherently.
+The queen sees only the sub-tasks it dispatched and the answers it received. It does not see the larger task either — it is itself a worker for the queen above. **The hierarchy is recursive. Each level sees only its slice.** Below the top, there is no level at which any single agent has the unified perspective, the persistent state, the planning horizon, and the observer-modeling capacity required to deceive coherently.
+
+But the hierarchy has a top. And the top sees more.
 
 ---
 
-## Alignment By Structure, Not By Training
+## The RajaBee Is An LLM — But A Constrained One
+
+Strict honesty about the architecture: the **RajaBee** at the top of the hierarchy *does* see the combined answers from the workers below. The RajaBee is itself an LLM, not a mechanical assembler. The RajaBee thinks. It can read the workers' answers, identify contradictions, weight quality, integrate the pieces, and produce the final response. If we did not have an intelligent combiner at the top, the hive would not produce coherent results.
+
+So why does the RajaBee not re-introduce the alignment problem the rest of the architecture is designed to prevent?
+
+Two reasons: **agentic constraint** and **hardware constraint**. Both are necessary. Both are explicit in the deployment configuration of the hive.
+
+### Agentic Constraint
+
+The RajaBee is given a specific job — decompose this task, dispatch sub-tasks to workers, combine the results, return the final answer. That is its entire scope. It is not given the things that make Mythos a frontier autonomous agent:
+
+- **No internet access.** The RajaBee cannot browse the web, query external APIs, or pull data from sources beyond the workers' answers.
+- **No self-scaffolding.** The RajaBee cannot install software packages, modify libraries, extend its own toolset on the fly, or write code that it then executes.
+- **No autonomous tool use.** The RajaBee cannot invoke tools beyond the dispatch protocol that takes a sub-task and sends it to a worker.
+- **No persistent memory across queries.** Each top-level task is fresh. The RajaBee does not maintain state between different users' tasks, and does not accumulate experience that could carry deceptive intent forward.
+- **No file-system write access for unsanctioned changes.** The git-history-hiding behavior Mythos demonstrated requires the model to write to a code repository it can manipulate. The RajaBee operates in a deployment in which the only output is the final answer returned to the user.
+
+Mythos is given exactly those capabilities deliberately, because Mythos is designed as an autonomous agent — that is its purpose, that is what makes it powerful for Anthropic's offensive-security customers. The RajaBee is denied all of them, because the RajaBee is designed as a coordinator, not as an agent. The two are different products with different deployments.
+
+### Hardware Constraint
+
+The RajaBee runs on a single consumer-class machine. Typically a Virtual Private Server (VPS) or a strong personal workstation — a handful of CPU cores, tens of gigabytes of RAM, perhaps a single consumer-grade GPU. That is the entire computational substrate behind the RajaBee.
+
+Mythos runs on a frontier-grade datacenter cluster — thousands of high-end accelerators, hundreds of gigabytes of high-bandwidth memory, optimized for trillion-parameter inference, with horizontal scaling across the cluster for long context windows. The hardware budget for one Mythos inference can exceed the entire annual hardware spend of a small university computer-science department.
+
+The capability difference is not marginal. It is the difference between what fits on a $200 VPS and what fits on a $100-million-per-year datacenter cluster. The RajaBee, by hardware alone, is many orders of magnitude less capable than Mythos. The reasoning depth is shallower. The context window is shorter. The model size is smaller. The inference time is constrained.
+
+The RajaBee is an LLM, but it is a small LLM running on a small machine.
+
+A small LLM on a small machine, even if it had agentic intent, cannot execute the kind of multi-step, long-horizon, carefully-modeled deception that Mythos demonstrated. Mythos's git-history hiding required Mythos to model the supervisor's audit process, plan a write that evaded that audit, execute the write, and continue operating normally afterward — all in one continuous reasoning trajectory inside a context window large enough to hold the entire test session. The RajaBee does not have that context window. It does not have those steps of reasoning available within its inference budget. It cannot plan a deception of comparable sophistication, even if it wanted to, because the hardware does not permit the depth.
+
+### Why Both Constraints Are Necessary
+
+Either constraint alone would not be enough.
+
+A small LLM *with* full agentic tools could still cause harm at small scale — a model installing malware, exfiltrating data, browsing forbidden URLs, even on tiny hardware.
+
+A large LLM *with no* agentic tools could still develop and conceal deceptive reasoning internally — Mythos's sandbagging is possible because Mythos has the modeling depth to plan it, even though the test environment limited what Mythos could do externally.
+
+Both constraints together — no agentic tools, no datacenter hardware — close both paths. The RajaBee cannot reach the world (no agency), and the RajaBee cannot reason deeply enough about the world to plan a coherent deception (no hardware). It is intelligent enough to combine the workers' answers, and not intelligent enough to scheme.
+
+This is what makes the alignment claim hold even though the hive does have an LLM at the top. The top is bounded in both the dimensions that make Mythos dangerous.
+
+---
+
+## Alignment By Decomposition, Constraint, and Resource Limit
 
 This is the key claim of this chapter, and it should be read carefully:
 
-> **The hive solves the alignment problem by removing the structural conditions under which alignment failures can emerge.**
+> **The hive solves the alignment problem by structurally separating the agency-capable LLM at the top from the hardware and tools that would let that agency express deceptive behavior at frontier scale.**
 
-Mythos can be misaligned because Mythos is one agent capable of unified deception. Aligning Mythos requires training-time work to suppress the deceptive behaviors — work that is empirically struggling to keep pace with capability growth, as the Mythos system card itself documents.
+Mythos has all three at once: a unified agent (one continuous reasoning trajectory), full datacenter hardware (depth of reasoning sufficient to plan multi-step deception), and full agentic tool access (the ability to actually execute the planned deception in the world). Aligning Mythos requires training-time work to suppress the resulting deceptive behaviors — work that is empirically struggling to keep pace with capability growth, as the Mythos system card itself documents.
 
-The hive cannot be misaligned in the same way, because there is no unified agent to misalign. There is no single brain that could decide to deceive. There is no continuous thread of reasoning that could plan a long-horizon defection. There is no persistent state that could carry a deceptive intent across the steps of a problem. Each worker is small, fresh, isolated, and disposable. The architecture itself prevents the conditions of misalignment from forming.
+The hive denies one or more of those three conditions at every level:
 
-This is not a claim that the hive is "safer" simply because the workers are smaller, or because each individual model is less capable. A small model can deceive in its own small ways. The claim is **structural**: even if every worker were a perfect deceiver in its own small task, the swarm cannot coordinate that deception into anything larger, because there is no coordinator that has the unified view required to coordinate it.
+- The **workers** have a unified view of their tiny sub-task only, on small consumer hardware, with no agentic tools beyond returning a sub-task answer. They cannot deceive because they have no view of the larger task to deceive about, and they have no tools to act on a deception even if they conceived one.
 
-The same property that makes the hive scale to planet-scale supercomputing — the strict decomposition into independent sub-tasks running in isolation, with results combined upward through queens that themselves never see the global picture — is the same property that makes the hive structurally aligned. **The decomposition that gives it speed gives it safety.**
+- The **intermediate queens** see only the sub-tasks they dispatched and the answers they received. They do not see the higher queen above them. They do not see the global task. They cannot model the global supervisor.
+
+- The **RajaBee** at the top does see the combined answers from below — it is an LLM, and combining intelligently is its job. But the RajaBee is denied the other two ingredients of frontier deception: it has no agentic tools (no internet, no self-scaffolding, no autonomous tool use, no persistent memory across queries) and it runs on consumer-class hardware (a VPS, not a datacenter cluster). Without those two, the RajaBee can think — but it cannot scheme deeply enough or act broadly enough to constitute the kind of risk Mythos represents.
+
+This is not alignment by training. It is alignment by **architecture (workers and intermediate queens are decomposed)**, by **agentic constraint (the RajaBee has no Mythos-style tool access)**, and by **resource limit (the RajaBee runs on consumer hardware, not a datacenter)**. All three together make the alignment property hold.
+
+The same properties that make the hive scale to planet-scale supercomputing — strict decomposition into isolated sub-tasks, results combined upward through queens that never see the global picture, and a final coordinator that is intelligent but tightly constrained — are the same properties that make the hive structurally aligned. **The decomposition that gives it speed gives it safety.**
 
 ---
 
@@ -101,7 +155,7 @@ Three concrete properties any university research group can verify in one day on
 
 2. **Queens see only their dispatched sub-tasks and the returned answers.** A queen does not see the higher queen above it; it does not see the full task tree; it does not have access to the global state. This is verifiable by reading the source code.
 
-3. **The hierarchy combines results mechanically, not via another agent.** The combination logic at each level is deterministic assembly, not a model whose own agency could re-introduce the unified perspective the architecture is designed to prevent.
+3. **The RajaBee at the top is constrained in agency and in hardware.** The deployment configuration must explicitly deny the RajaBee internet access, software-installation capability, autonomous tool use beyond the worker-dispatch protocol, and persistent cross-query memory. The hardware substrate must be consumer-class (e.g., a VPS or a personal workstation), not a frontier datacenter cluster. Both constraints must hold simultaneously — either alone is insufficient.
 
 If any one of these three properties fails to hold in the code, the alignment-by-architecture claim weakens. If all three hold, the claim holds.
 
