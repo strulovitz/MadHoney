@@ -1,4 +1,4 @@
-# Chapter 9b: Vibe WMD (like vibe-coding but for Weapons of Mass Destruction)
+# Chapter 8b: Vibe WMD (like vibe-coding but for Weapons of Mass Destruction)
 
 ---
 
