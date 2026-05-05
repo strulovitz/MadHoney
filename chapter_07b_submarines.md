@@ -50,15 +50,15 @@ No model-sharing scheme works underwater. No video streaming works underwater. N
 
 The hive works underwater, because the hive only ever needs short text.
 
-A swarm of cheap autonomous underwater vehicles (UUVs) reaches a patrol zone using inertial navigation, Doppler velocity log, and depth from pressure — no GPS, no satellite, no surface ship. Once in the patrol zone, the UUVs spread out autonomously, navigating relative to each other by pinging with sound — the way dolphins navigate by echo. Each UUV carries three cheap sensors:
+A swarm of cheap autonomous underwater vehicles (AUVs) reaches a patrol zone using inertial navigation, Doppler velocity log, and depth from pressure — no GPS, no satellite, no surface ship. The word *autonomous* is the load-bearing one. These are not unmanned remotely operated vehicles tethered to a control ship by sonar or fiber — they have no operator, no live link, no command tether. Each AUV carries its own small AI model and decides for itself, in real time, what to do with what its sensors are reporting. That is what makes the architecture work in environments where bandwidth and latency would defeat any remote-pilot scheme. Once in the patrol zone, the AUVs spread out autonomously, navigating relative to each other by pinging with sound — the way dolphins navigate by echo. Each AUV carries three cheap sensors:
 
 - A **thermistor** that reads water temperature.
 - A **hydrophone** that listens for acoustic signatures.
 - A **pressure sensor** that detects displacement waves.
 
-A DwarfQueen UUV sends short acoustic text commands to the Worker UUVs in her squad — for example: *"Survey grid square 14-B. Report any thermal anomaly above 0.3°C with coordinates and confidence."* That is a few hundred bytes — transmittable even over the worst acoustic link.
+A DwarfQueen AUV sends short acoustic text commands to the Worker AUVs in her squad — for example: *"Survey grid square 14-B. Report any thermal anomaly above 0.3°C with coordinates and confidence."* That is a few hundred bytes — transmittable even over the worst acoustic link.
 
-The Worker UUVs perform their surveys autonomously, using a small local AI model running on a low-power chip in each one. The model is trained on the signatures of submarine wakes and is small enough to fit on consumer-grade hardware. Each Worker reports back: *"Thermal anomaly detected at coordinates X, Y, Z. Magnitude 0.4°C. Confidence: high."* A few hundred bytes. The DwarfQueen aggregates the readings from her squad. The GiantQueen aggregates across multiple DwarfQueens. The RajaBee aggregates the entire patrol-zone picture.
+The Worker AUVs perform their surveys autonomously, using a small local AI model running on a low-power chip in each one. The model is trained on the signatures of submarine wakes and is small enough to fit on consumer-grade hardware. Each Worker reports back: *"Thermal anomaly detected at coordinates X, Y, Z. Magnitude 0.4°C. Confidence: high."* A few hundred bytes. The DwarfQueen aggregates the readings from her squad. The GiantQueen aggregates across multiple DwarfQueens. The RajaBee aggregates the entire patrol-zone picture.
 
 ---
 
@@ -66,11 +66,11 @@ The Worker UUVs perform their surveys autonomously, using a small local AI model
 
 A submarine, no matter how carefully designed for stealth, is a heat source moving through water. Its nuclear reactor produces hundreds of megawatts of thermal power. That heat must go somewhere. It goes into the cooling system, which exchanges heat with the surrounding ocean. The submarine leaves a **thermal wake** — a trail of slightly warmer water following its path.
 
-The thermal anomaly is small: fractions of a degree, dispersing slowly over hours. A single thermistor on a single UUV cannot detect it reliably. Background ocean turbulence, thermal layering, and natural temperature variation are all louder than the signal.
+The thermal anomaly is small: fractions of a degree, dispersing slowly over hours. A single thermistor on a single AUV cannot detect it reliably. Background ocean turbulence, thermal layering, and natural temperature variation are all louder than the signal.
 
-But the hive does not have a single thermistor on a single UUV.
+But the hive does not have a single thermistor on a single AUV.
 
-The hive has a thousand thermistors on a thousand UUVs, spread across the patrol zone, sampling continuously, reporting back to the DwarfQueens above them. The DwarfQueens run simple scaffolding code — NumPy, SciPy, FilterPy for Kalman filtering — to turn the raw point readings into spatial-temporal tracks. **Points become vectors. Vectors become curves. The hive sees the path the submarine took.**
+The hive has a thousand thermistors on a thousand AUVs, spread across the patrol zone, sampling continuously, reporting back to the DwarfQueens above them. The DwarfQueens run simple scaffolding code — NumPy, SciPy, FilterPy for Kalman filtering — to turn the raw point readings into spatial-temporal tracks. **Points become vectors. Vectors become curves. The hive sees the path the submarine took.**
 
 The submarine is not detected by any single drone. It is detected in the *differences between* drones — in the spatial gradient of temperature across the swarm, integrated over time. The information is never inside any one drone. It is in the relationships between them.
 
@@ -250,13 +250,13 @@ The entire American second-strike doctrine is built on one assumption: **the SSB
 
 That assumption is dependent on a specific technology gap — the adversary's inability to deploy a sufficiently dense, sufficiently coordinated, sufficiently cheap underwater sensor network to find a submarine in patrol zones the size of small countries. The hive closes that gap.
 
-A single Worker UUV, with the same hardware as the aerial-drone equivalent — a small AI chip, a marine-grade sensor package (thermistor + hydrophone + pressure sensor), a battery sufficient for a multi-month patrol — costs in the range of a few thousand dollars at scale. Ten thousand of them: a few tens of millions. One hundred thousand: a few hundred million.
+A single Worker AUV, with the same hardware as the aerial-drone equivalent — a small AI chip, a marine-grade sensor package (thermistor + hydrophone + pressure sensor), a battery sufficient for a multi-month patrol — costs in the range of a few thousand dollars at scale. Ten thousand of them: a few tens of millions. One hundred thousand: a few hundred million.
 
 The American SSBN program costs hundreds of billions. The hive that nullifies it costs hundreds of millions. **The exchange rate is one thousand to one in China's favor.**
 
 And China is the country that already produces 700,000 FPV drones per month, that already operates underwater unmanned systems at scale, and that has formalized civilian-into-military computing under Military-Civil Fusion doctrine in the 15th Five-Year Plan.
 
-The day a Chinese fleet of hive-coordinated UUVs is deployed in the Pacific patrol zones of the Ohio-class fleet, American second-strike capability ends. Not in years. In the time it takes to launch the UUVs and let them spread out across the patrol zones — measured in days to weeks.
+The day a Chinese fleet of hive-coordinated AUVs is deployed in the Pacific patrol zones of the Ohio-class fleet, American second-strike capability ends. Not in years. In the time it takes to launch the AUVs and let them spread out across the patrol zones — measured in days to weeks.
 
 ---
 
