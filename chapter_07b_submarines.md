@@ -96,6 +96,64 @@ The hive identifies the real submarine and discards the decoys. The submarine co
 
 ---
 
+## How A Million Square Kilometers Become One Cell
+
+The first objection to everything above is the size of the search space. The patrol zones span millions of square kilometers. No swarm can place a sensor at every point. A reader at the American defense establishment will assume that "find the submarine" implies "search every cubic kilometer of ocean," conclude that this is impossible, and dismiss the rest of the chapter on that basis.
+
+The hive does not search every cubic kilometer of ocean. It runs a binary search.
+
+### Phase 1: Scattered Lone Scouts — Not Yet a Hive
+
+The first wave of autonomous underwater vehicles (AUVs) is deployed across the patrol zone in a coarse, even distribution. **In this phase the hive is not running.** Each AUV is operating alone, with its small local model, listening passively to its three sensors. It does not coordinate with its neighbors. It does not communicate with them. It does not aggregate readings. It cannot calculate the direction or proximity of any contact, because a single sensor has no parallax. It is a dumb, cheap, individual scout — manufactured in volume at Chinese coastal industrial scale, the same scale that already produces the world's sensors, the world's batteries, and the world's small unmanned vehicles.
+
+The point of this phase is not to find the submarine. It is to detect that *something is in the area*.
+
+When a single scout AUV registers a signal that crosses its detection threshold — a thermal anomaly, an acoustic line, a pressure displacement — it cannot identify what produced it. Alone, it is not smart enough to. It does one thing: it releases a small buoy from its frame. The buoy rises to the surface on its own buoyancy. The AUV itself stays at depth and keeps watching.
+
+At the surface the buoy opens a small antenna and transmits a short message via satellite uplink to Chinese command. The message contains the scout's approximate coordinates — known to within a few kilometers from the deployment plan, no GPS required — and a single flag: *something here*. No more is needed: the device is not a phone, just a transmitter and a position. Cheap, expendable, manufactured at scale.
+
+The hive has not yet detected the submarine. The hive has detected only that the submarine is in *one specific cell of the patrol zone* rather than in any of the others. That is the entire purpose of Phase 1.
+
+### Phase 2: Helicopter "Jump" and Local Hive Formation
+
+Within minutes of the buoy uplink, Chinese reinforcement assets move toward the flagged cell. The reinforcement is delivered by helicopter — from a Chinese vessel in international waters, or from a forward base, depending on the patrol zone. The helicopter does not transit the ocean searching for the submarine. It travels directly to a known surface coordinate, drops a tight cluster of AUVs around that point, and departs.
+
+The cluster comes from two sources. Fresh AUVs are carried in the helicopter's payload. Additional AUVs are pulled from neighboring cells of the original scout pattern — a scout AUV inflates an internal air bubble to surface in seconds, the helicopter scoops it up, and it gets a "jump" by air to the flagged cell. The AUVs do not need to swim there. They are airlifted there. Ocean transit time, the bottleneck of every previous anti-submarine doctrine, is eliminated.
+
+Each new AUV in the cluster sinks rapidly from the surface to operating depth using releasable ballast weights, which it sheds once it reaches its assigned depth. Within minutes of the helicopter departing, a few hundred AUVs are at depth, in formation, around the flagged coordinate.
+
+These AUVs do not operate alone. They are dense — close enough that their sensors overlap — and they form a hive. The DwarfQueens activate. The GiantQueen activates above them. The short acoustic command-and-report protocol begins. The three-sensor cross-correlation described in the previous section now has the spatial coverage it needs: the submarine's thermal wake, acoustic signature, and displacement wave can be triangulated across the swarm.
+
+The hive does not need to know the submarine's exact location to form. It needs to know it is *somewhere in the cell*. It is.
+
+### Phase 3: Binary Closure
+
+The hive in the cell either confirms a contact or does not.
+
+- **If the hive confirms a contact**, the submarine's position and heading are now known to the resolution of the hive — typically tens of meters. China's command logs the position and feeds it to whatever follow-on assets are tasked. The AUVs are sensors, not weapons. The kill, if a kill is ordered, is performed by Chinese attack submarines, anti-ship hypersonic missiles, or coordinated munitions launched from outside the hive. The AUV swarm continues to track and update the position in real time until the kill order is executed or the tracking is no longer required.
+
+- **If the hive does not confirm a contact** within a short window, the cell is cleared. The original scout AUV's signal was a false positive — a whale, a thermocline, a current shear. The patrol zone's search space is reduced by the cleared cell and the cycle continues.
+
+- **If the hive confirms a partial contact** — a thermal track that is consistent across only some of the swarm, or a contact that fades — the hive escalates. A second helicopter wave drops a denser swarm onto the sub-cell where the partial signal originated. The same recursion runs at finer resolution: dense swarm, hive cross-correlation, contact confirmed or sub-cell cleared. If even that is ambiguous, a third drop tightens it further. The net closes.
+
+This is the binary search. The patrol zone is divided not in half — it is divided into the cells that fired alerts and the cells that did not. The cells that fired alerts get reinforced and re-searched at higher density. The cells that did not are eliminated wholesale. Each round of reinforcement narrows the surviving search space toward the contact at the rate of compound elimination, not at the rate of linear sweep.
+
+A patrol zone with one submarine in it has, by definition, one cell with a submarine and approximately a million cells without one. The first sweep of lone scouts eliminates the empty million in a single pass. The reinforcement and recursion handle only the cell that fired the alert. The total operational cost is paid where the submarine actually is — not where it is not.
+
+### Why the Submarine Commander Cannot Outrun the Closure
+
+The Ohio-class submarine cruises at a patrol speed of roughly five knots — about nine kilometers per hour. The buoy uplink reaches Chinese command in seconds. Helicopter flight time to the flagged coordinate is measured in minutes to a few hours, depending on the patrol zone. By the time the second-wave AUVs are at depth and forming the hive, the submarine has moved at most a few tens of kilometers from where it was when the alert fired. The hive's initial cell is sized to absorb that drift. The submarine cannot leave the cell faster than the hive can close it.
+
+The submarine commander's only remaining option, on hearing the helicopter or the cluster sinking, is to abandon stealth and run silent at higher speeds — at which point the acoustic signature increases, the thermal wake widens, the hive's confidence rises, and the closure accelerates. Or the commander launches in desperation, before the kill order can be executed. What happens when he does is the subject of the next section.
+
+### Continuous Peacetime Tracking
+
+The mechanism above is described as if it runs once. In practice it runs continuously. A standing Chinese fleet of lone scout AUVs distributed across all American patrol zones, supplemented by reinforcement-on-demand from a small number of helicopter-equipped vessels and forward bases, maintains a real-time map of every Ohio-class submarine in the world. The map is not built in a moment of crisis. It is maintained as a standing operational picture, updated every time an SSBN moves into a new cell and a buoy fires.
+
+By the time a first-strike order is issued, the positions are already known. The buoy uplink and the helicopter race do not have to happen during the war. They have already happened, ten thousand times, during the years before it. The thirty-minute warning that MAD has historically depended on does not exist, because the search has already been completed before the war begins.
+
+---
+
 ## The Pre-Emptive First Strike Becomes Operationally Possible
 
 Once the hive can track every American SSBN continuously, the strategic consequence is immediate.
